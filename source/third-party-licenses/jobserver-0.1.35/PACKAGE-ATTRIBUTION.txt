@@ -1,0 +1,5 @@
+jobserver-0.1.35
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>
+Repository: https://github.com/rust-lang/jobserver-rs
+Published source revision: 85ba04e3cf89e5c10e7b82de69f6be6dff9d3ec3

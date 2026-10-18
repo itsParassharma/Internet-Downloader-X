@@ -1,0 +1,5 @@
+percent-encoding-2.3.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The rust-url developers
+Repository: https://github.com/servo/rust-url/
+Published source revision: 91377f48bf35011d042aa5abef9e7f2a0a625aaa

@@ -1,0 +1,5 @@
+khronos_api-3.1.0
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Brendan Zabarauskas <bjzaba@yahoo.com.au>; Corey Richardson; Arseny Kapoulkine; Pierre Krieger <pierre.krieger1708@gmail.com>
+Repository: https://github.com/brendanzab/gl-rs/
+Published source revision: f150967b1c44ae888e6676f93f639ebc82771bdc

@@ -1,0 +1,5 @@
+toml_parser-1.1.5+spec-1.1.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/toml-rs/toml
+Published source revision: ceac6e4412420d5a5c19e4f7293ad005cf1a31b2

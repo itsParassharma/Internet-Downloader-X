@@ -1,0 +1,5 @@
+gl_generator-0.14.0
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Brendan Zabarauskas <bjzaba@yahoo.com.au>; Corey Richardson; Arseny Kapoulkine
+Repository: https://github.com/brendanzab/gl-rs/
+Published source revision: ea503e8d5fb6d73c6030e6191ce738cd3bf3433e

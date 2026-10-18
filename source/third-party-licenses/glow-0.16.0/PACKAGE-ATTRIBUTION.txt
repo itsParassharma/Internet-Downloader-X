@@ -1,0 +1,5 @@
+glow-0.16.0
+License expression from published Cargo metadata: MIT OR Apache-2.0 OR Zlib
+Package authors (not substituted for upstream copyright notices): Joshua Groves <josh@joshgroves.com>; Dzmitry Malyshau <kvarkus@gmail.com>
+Repository: https://github.com/grovesNL/glow
+Published source revision: 83c7b9b59ec4b26942801b3d0164db6d396a8c74

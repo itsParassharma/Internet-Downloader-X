@@ -1,0 +1,5 @@
+tracing-attributes-0.1.31
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Tokio Contributors <team@tokio.rs>; Eliza Weisman <eliza@buoyant.io>; David Barsky <dbarsky@amazon.com>
+Repository: https://github.com/tokio-rs/tracing
+Published source revision: 55086231ec4aaeffcaab9932e696f40278f06bd1

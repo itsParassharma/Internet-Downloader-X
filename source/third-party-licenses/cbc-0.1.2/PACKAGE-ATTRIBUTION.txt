@@ -1,0 +1,4 @@
+cbc-0.1.2
+License: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/block-modes
+Published source revision: 5781d3f8d8667426fedc21d74f45f92b371bce2c

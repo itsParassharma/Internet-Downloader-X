@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>IDX browser integration options</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header><strong>IDX</strong><span>Browser integration options</span></header>
+  <section id="connection" aria-label="Desktop connection">
+    <div class="connection-row"><span id="connection-status" role="status">Checking connection…</span><button id="check-connection" type="button">Check</button></div>
+    <details id="connection-setup">
+      <summary>Connection setup</summary>
+      <p class="hint">Install and open the IDX Windows app once. It connects to this extension automatically. If needed, open IDX &gt; Options &gt; General &gt; Extension setup and choose Reconnect browser.</p>
+    </details>
+  </section>
+  <form id="download-form">
+    <label for="download-url">Download address</label>
+    <input id="download-url" type="url" placeholder="https://example.com/file.zip" maxlength="16384" required autofocus>
+    <div class="actions"><button id="current-page" type="button">Use current page</button><button id="download" type="submit">Download</button></div>
+  </form>
+  <p id="status" role="status" aria-live="polite">Paste a direct file link, or right-click a link and choose “Download with IDX”.</p>
+  <form id="settings-form">
+    <details id="automatic-options"><summary>Automatic downloads</summary>
+    <label class="toggle"><input id="automatic" type="checkbox"> Send new browser downloads to IDX</label>
+    <p class="hint">On by default. IDX pauses the browser copy during handoff and resumes it if the desktop app cannot accept it.</p>
+    <label class="toggle"><input id="media-panel" type="checkbox"> Show “Download this video/audio” panels</label>
+    <label for="panel-mode">Panel view</label><select id="panel-mode"><option value="full">Full mode</option><option value="mini">Mini mode</option></select>
+    <p class="hint">The panel appears over detected web players. Click the arrow to choose a file or stream quality. Completed HLS and static DASH streams are supported, including separate audio tracks. Browser login cookies are passed securely to IDX when needed. The toolbar icon enables or disables IDX on the current tab.</p>
+    <label for="excluded-sites">Keep these sites in the browser</label>
+    <textarea id="excluded-sites" rows="3" placeholder="example.com&#10;another-site.com" spellcheck="false"></textarea>
+    <p class="hint">One site per line. Subdomains are included. Private downloads stay in the browser.</p>
+    <button type="submit" id="save-settings">Save settings</button>
+    <p id="settings-status" role="status" aria-live="polite"></p>
+    </details>
+  </form>
+  <footer>Requires the IDX Windows app. <a href="privacy.html" target="_blank" rel="noopener">Privacy</a></footer>
+  <script src="native.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

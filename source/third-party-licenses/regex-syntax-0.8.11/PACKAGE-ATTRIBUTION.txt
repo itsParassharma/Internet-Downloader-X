@@ -1,0 +1,5 @@
+regex-syntax-0.8.11
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rust Project Developers; Andrew Gallant <jamslam@gmail.com>
+Repository: https://github.com/rust-lang/regex
+Published source revision: 140167995737fa11dfe11b8af8b9aa143b790b4e

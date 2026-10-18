@@ -1,0 +1,42 @@
+IDX — Internet Downloader X: original UI resource notice
+
+Selected toolbar and sidebar icons, bitmap images, dialog templates and related UI artwork in
+assets/idm and assets/native are derived from the user-supplied idman643build15.exe package and
+its extracted IDMan.exe resources.
+
+The IDX main application, installer and browser-extension logo is separately
+created IDX artwork. It does not use the original application's globe icon.
+
+They are included at the user's explicit request to use the original icons
+and colors. The user stated that they hold the rights needed to modify and
+reuse the supplied application. This notice records the provenance of the
+assets; it does not change their copyright or apply a new license to them.
+
+The inspected original About dialog includes this copyright notice:
+Copyright © 1999-2026 Tonec FZE. All rights reserved.
+
+Original UI resources are not automatically covered by the MIT license that
+applies to the newly written IDX Rust source. The separately supplied original
+decompilation and reference materials are also outside that MIT grant.
+
+The IDX name and Rust implementation are a separate project. No official
+affiliation with or endorsement by the original application publisher is
+claimed. Asset extraction inventories, when provided alongside the images,
+identify the specific original resource IDs and offsets.
+
+The Windows transfer window directly instantiates extracted RT_DIALOG resources
+103, 363, 364 and 365. Their unmodified template bytes are saved as dialog_*.bin.
+IDX supplies independent Rust event handling, download state and connection-map
+drawing. Unsupported completion controls are adapted to the supported IDX
+options. See docs/NATIVE-UI-EXTRACTION.json for exact resource hashes.
+
+Embedded third-party font artwork comes from epaint_default_fonts, not the
+original IDM resource extraction. Its separate notices and font copyright
+metadata are under third-party-licenses/epaint_default_fonts-0.33.3.
+
+The Windows main window, menu, Options, Scheduler, Grabber and download forms
+now also use extracted resource templates. Rebranded templates preserve original
+geometry and fonts while omitting product registration and original updater
+workflows. Original IMAGE resource 384 supplies the Grabber wizard illustration.
+See docs/NATIVE-UI-DERIVATION.json and NATIVE-UI-COVERAGE.md for provenance,
+runtime routes and unimplemented behaviors.

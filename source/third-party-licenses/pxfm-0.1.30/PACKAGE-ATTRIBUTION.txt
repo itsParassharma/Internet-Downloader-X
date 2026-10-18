@@ -1,0 +1,5 @@
+pxfm-0.1.30
+License expression from published Cargo metadata: BSD-3-Clause OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Radzivon Bartoshyk
+Repository: https://github.com/awxkee/pxfm
+Published source revision: acf7acd00cfc845307eda7b7b2de19e42303de82

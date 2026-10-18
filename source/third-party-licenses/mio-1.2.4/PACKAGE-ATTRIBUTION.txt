@@ -1,0 +1,5 @@
+mio-1.2.4
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Carl Lerche <me@carllerche.com>; Thomas de Zeeuw <thomasdezeeuw@gmail.com>; Tokio Contributors <team@tokio.rs>
+Repository: https://github.com/tokio-rs/mio
+Published source revision: 79d1417c94e3a45c8bdd796e5422e22e8c488086

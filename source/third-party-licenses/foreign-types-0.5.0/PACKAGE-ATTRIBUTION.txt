@@ -1,0 +1,5 @@
+foreign-types-0.5.0
+License expression from published Cargo metadata: MIT/Apache-2.0
+Package authors (not substituted for upstream copyright notices): Steven Fackler <sfackler@gmail.com>
+Repository: https://github.com/sfackler/foreign-types
+Published source revision: c5a90ed3f39dd5fe8b5af6e9cee1bc446746272c

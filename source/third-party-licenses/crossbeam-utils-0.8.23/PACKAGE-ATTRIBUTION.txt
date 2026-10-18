@@ -1,0 +1,5 @@
+crossbeam-utils-0.8.23
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/crossbeam-rs/crossbeam
+Published source revision: 2920c984290229ab4e0ca0452ef09e48a82063f3

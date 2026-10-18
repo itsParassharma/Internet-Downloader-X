@@ -1,0 +1,5 @@
+webpki-roots-1.0.9
+License expression from published Cargo metadata: CDLA-Permissive-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rustls/webpki-roots
+Published source revision: 0a553dbc8b3f18ea05c4f881cffa3f2d005d0d30

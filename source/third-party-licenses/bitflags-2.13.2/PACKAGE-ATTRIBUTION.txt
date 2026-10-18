@@ -1,0 +1,5 @@
+bitflags-2.13.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rust Project Developers
+Repository: https://github.com/bitflags/bitflags
+Published source revision: 80ce9b545acb0bd42150695fc351889cac1d8eb4

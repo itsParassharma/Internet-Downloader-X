@@ -1,0 +1,5 @@
+memmap2-0.9.11
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Dan Burkert <dan@danburkert.com>; Yevhenii Reizner <razrfalcon@gmail.com>; The Contributors
+Repository: https://github.com/RazrFalcon/memmap2-rs
+Published source revision: 7d76ad3157383db5670fd7e012f44de42aa7444b

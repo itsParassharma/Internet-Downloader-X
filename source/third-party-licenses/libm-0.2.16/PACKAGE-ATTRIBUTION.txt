@@ -1,0 +1,5 @@
+libm-0.2.16
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>; Amanieu d'Antras <amanieu@gmail.com>; Jorge Aparicio <japaricious@gmail.com>; Trevor Gross <tg@trevorgross.com>
+Repository: https://github.com/rust-lang/compiler-builtins
+Published source revision: dfd2203a4d6110820ad7bb65cafe1bf331a03a3d

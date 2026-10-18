@@ -1,0 +1,5 @@
+slotmap-1.1.1
+License expression from published Cargo metadata: Zlib
+Package authors (not substituted for upstream copyright notices): Orson Peters <orsonpeters@gmail.com>
+Repository: https://github.com/orlp/slotmap
+Published source revision: 2d56154b9b628f7d7a506f24ebc4f55a13ec8fed

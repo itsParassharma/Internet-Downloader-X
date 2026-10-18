@@ -1,0 +1,5 @@
+hashbrown-0.16.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Amanieu d'Antras <amanieu@gmail.com>
+Repository: https://github.com/rust-lang/hashbrown
+Published source revision: 1876e4f02708b93903d55ef598f68e82a826518f

@@ -1,0 +1,5 @@
+r-efi-6.0.0
+License expression from published Cargo metadata: MIT OR Apache-2.0 OR LGPL-2.1-or-later
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/r-efi/r-efi
+Published source revision: 7e1b0322d31d625f81a5656096330934f9cd835d

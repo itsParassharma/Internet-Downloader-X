@@ -1,0 +1,1112 @@
+{
+  "source_filename": "IDMan.exe",
+  "source_sha256": "e3fc655a335e17a6fdd09a9b315291d0c8863180f0d801e5dd7433c9e56afbd8",
+  "extracted_resources": [
+    {
+      "file": "menu_129.bin",
+      "resource_type": 4,
+      "resource_id": 129,
+      "language": 1033,
+      "file_offset": "0x39f360",
+      "bytes": 2594,
+      "sha256": "0d25269cad09d2e1a797a8aba49322304d22489acbe35ad651ef5bc4337d1efc",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "menu_256.bin",
+      "resource_type": 4,
+      "resource_id": 256,
+      "language": 1033,
+      "file_offset": "0x39fd88",
+      "bytes": 414,
+      "sha256": "7114f374f48db98ff811672d3fca9597ad52467c936497b63381f63f90010274",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_100.bin",
+      "resource_type": 5,
+      "resource_id": 100,
+      "language": 1033,
+      "file_offset": "0x38d988",
+      "bytes": 1242,
+      "sha256": "c5a1de0209bfd0772b4cedec31c615b0bf3d2f41b55d82231b9b51b79f06286e",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_102.bin",
+      "resource_type": 5,
+      "resource_id": 102,
+      "language": 1033,
+      "file_offset": "0x38e850",
+      "bytes": 404,
+      "sha256": "553b33a47d285a263832af0b8e3410f70c86c8996c08675fe2a7df7912d6735c",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_103.bin",
+      "resource_type": 5,
+      "resource_id": 103,
+      "language": 1033,
+      "file_offset": "0x38cc48",
+      "bytes": 624,
+      "sha256": "e890c13f55cfda0cf1f49950ac8a45ba9b44dee7d7fcc4e196836f71e33517d4",
+      "used_by_native_progress": true
+    },
+    {
+      "file": "dialog_105.bin",
+      "resource_type": 5,
+      "resource_id": 105,
+      "language": 1033,
+      "file_offset": "0x38e698",
+      "bytes": 434,
+      "sha256": "4ec5a7e4419cee4306d46fed9efd84b70d162bc044bc5f3069864e76f65f8f5b",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_130.bin",
+      "resource_type": 5,
+      "resource_id": 130,
+      "language": 1033,
+      "file_offset": "0x38ceb8",
+      "bytes": 952,
+      "sha256": "e642a3c6c84c35ee63e639940228a196e652e70132672d116285df8b4d9b96ee",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_135.bin",
+      "resource_type": 5,
+      "resource_id": 135,
+      "language": 1033,
+      "file_offset": "0x38d488",
+      "bytes": 1278,
+      "sha256": "324c974d59a2b5cc279945eb4189fadd404dc7387b7e09c0a50327ae3d32d6d4",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_138.bin",
+      "resource_type": 5,
+      "resource_id": 138,
+      "language": 1033,
+      "file_offset": "0x38c900",
+      "bytes": 840,
+      "sha256": "5d758c044ee9dc4c1b7f481e6b0c2a2cc9fd2d78f2fd32f1e8a6eceb43bb1407",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_139.bin",
+      "resource_type": 5,
+      "resource_id": 139,
+      "language": 1033,
+      "file_offset": "0x38f390",
+      "bytes": 1638,
+      "sha256": "688f4785175fc3e5d0ee5fb9bbf5f00da5388dac2aa1949c21a723800be3f641",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_140.bin",
+      "resource_type": 5,
+      "resource_id": 140,
+      "language": 1033,
+      "file_offset": "0x38f9f8",
+      "bytes": 2066,
+      "sha256": "4b38d4bb9e3e6948e22cda27198ef39beb0ad8043e8df47bccb2bdb0d875964d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_141.bin",
+      "resource_type": 5,
+      "resource_id": 141,
+      "language": 1033,
+      "file_offset": "0x390210",
+      "bytes": 1282,
+      "sha256": "5595c09d44e1e18c085bed7d390ab405b64e368f1c4c9fc9ca1a1607f05ccce6",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_143.bin",
+      "resource_type": 5,
+      "resource_id": 143,
+      "language": 1033,
+      "file_offset": "0x390718",
+      "bytes": 1322,
+      "sha256": "4e776e6c243bd8e736b24c44a4a2a7bfff120fb9a8b5362ec25e5b3dd27751ef",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_144.bin",
+      "resource_type": 5,
+      "resource_id": 144,
+      "language": 1033,
+      "file_offset": "0x390c48",
+      "bytes": 288,
+      "sha256": "78b7c99bead644921acab8e35e2609c4f96d10d62c410b1fdc00ad88a8e43405",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_145.bin",
+      "resource_type": 5,
+      "resource_id": 145,
+      "language": 1033,
+      "file_offset": "0x38e9e8",
+      "bytes": 398,
+      "sha256": "adf58942f0907adb74c8bc98f53209e1a1c24296d3ac109cf36f59fb11c105ac",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_146.bin",
+      "resource_type": 5,
+      "resource_id": 146,
+      "language": 1033,
+      "file_offset": "0x38eb78",
+      "bytes": 640,
+      "sha256": "5a28b8363bfc02c95b75a2f85d69c355f6be5758bf5e2beda68acbf219e25a8d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_147.bin",
+      "resource_type": 5,
+      "resource_id": 147,
+      "language": 1033,
+      "file_offset": "0x38c808",
+      "bytes": 246,
+      "sha256": "ab26b059b4234166f80c494386d3fa4e82c4e9aa45215d87c3cbe5478e15301f",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_148.bin",
+      "resource_type": 5,
+      "resource_id": 148,
+      "language": 1033,
+      "file_offset": "0x38d270",
+      "bytes": 534,
+      "sha256": "b31680559ee5b9b342cbf1ad268f93481fce73c5ac86625a866e2573cb071ab9",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_150.bin",
+      "resource_type": 5,
+      "resource_id": 150,
+      "language": 1033,
+      "file_offset": "0x38de68",
+      "bytes": 496,
+      "sha256": "823cf31752b62116c364155346c0071f055b5fcde9021d0587a9dfb65a6fd4cf",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_182.bin",
+      "resource_type": 5,
+      "resource_id": 182,
+      "language": 1033,
+      "file_offset": "0x38edf8",
+      "bytes": 214,
+      "sha256": "7abeb8c1ee83234c691556bc83efda6c1e2e2da69ccbbee854a0ee109f34ef0c",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_184.bin",
+      "resource_type": 5,
+      "resource_id": 184,
+      "language": 1033,
+      "file_offset": "0x38e058",
+      "bytes": 190,
+      "sha256": "535b880fc3c8cf584b998f4a29db2c7fa13a5d4929dcb33e76b66b70544721bc",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_185.bin",
+      "resource_type": 5,
+      "resource_id": 185,
+      "language": 1033,
+      "file_offset": "0x38eed0",
+      "bytes": 1042,
+      "sha256": "7019f2c55aaa1ded0ab3f234e48593472f0128c7400f464c8073b3fcef7835a9",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_186.bin",
+      "resource_type": 5,
+      "resource_id": 186,
+      "language": 1033,
+      "file_offset": "0x38e118",
+      "bytes": 346,
+      "sha256": "6e5eeb07442472e5555317df23479bca1945229bd0e0a3a259a50a0dc6be1252",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_187.bin",
+      "resource_type": 5,
+      "resource_id": 187,
+      "language": 1033,
+      "file_offset": "0x38e278",
+      "bytes": 188,
+      "sha256": "97dfc4188804500180d50363f12f8812c3321ab0b88cf087a9a33481186e9cbb",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_190.bin",
+      "resource_type": 5,
+      "resource_id": 190,
+      "language": 1033,
+      "file_offset": "0x38e338",
+      "bytes": 224,
+      "sha256": "dcef1002b055d2b6440ca0e4bd4b10f8c6bf87a63f91550a28198dc0d5b4454d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_191.bin",
+      "resource_type": 5,
+      "resource_id": 191,
+      "language": 1033,
+      "file_offset": "0x38e418",
+      "bytes": 346,
+      "sha256": "7969748d3261947520150ac2d680f56917c41e71371880a9944e4322046c4a8b",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_193.bin",
+      "resource_type": 5,
+      "resource_id": 193,
+      "language": 1033,
+      "file_offset": "0x38e578",
+      "bytes": 286,
+      "sha256": "3c8997989c8b05b325560263b9d56d3f0ef4a30fe862d0f93c3e7887c456194d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_194.bin",
+      "resource_type": 5,
+      "resource_id": 194,
+      "language": 1033,
+      "file_offset": "0x38f2e8",
+      "bytes": 162,
+      "sha256": "53a2dcff2df5f11bda6ea42c81cc7afcc0ca51a5c8cbac71b1ff30981a918a4d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_195.bin",
+      "resource_type": 5,
+      "resource_id": 195,
+      "language": 1033,
+      "file_offset": "0x390d68",
+      "bytes": 430,
+      "sha256": "bac7099776872714289814d43ebf7ffb49177c51010d15ee5fe0bcc66f6f3e3d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_196.bin",
+      "resource_type": 5,
+      "resource_id": 196,
+      "language": 1033,
+      "file_offset": "0x390f18",
+      "bytes": 190,
+      "sha256": "cc3b824d234c3f2329c10a2b4619003719878d615d2f60d25656a6ad9f51fa93",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_204.bin",
+      "resource_type": 5,
+      "resource_id": 204,
+      "language": 1033,
+      "file_offset": "0x390fd8",
+      "bytes": 1270,
+      "sha256": "cd9bdf1e2c8fbcef23b2636b80d2dae385f5214e91b24b48dadfcf3eb5272ad7",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_208.bin",
+      "resource_type": 5,
+      "resource_id": 208,
+      "language": 1033,
+      "file_offset": "0x3914d0",
+      "bytes": 394,
+      "sha256": "42992a13add18c7b95b82cd9443900ceca6608e7c4084888559da59cd93234d1",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_209.bin",
+      "resource_type": 5,
+      "resource_id": 209,
+      "language": 1033,
+      "file_offset": "0x391660",
+      "bytes": 870,
+      "sha256": "41dade4edd2ef8a6b71ea2213bab98609d4f877ab0dac1dc4ed878b1a548c5e1",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_226.bin",
+      "resource_type": 5,
+      "resource_id": 226,
+      "language": 1033,
+      "file_offset": "0x3919c8",
+      "bytes": 540,
+      "sha256": "666879d786ce514c6a21b13ac752ca58aae4281f12a5c9014d343fc55fda8b63",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_228.bin",
+      "resource_type": 5,
+      "resource_id": 228,
+      "language": 1033,
+      "file_offset": "0x391be8",
+      "bytes": 2168,
+      "sha256": "7980797101622d15f25b857c0396e8203f0990bdee593e973a104fecb852b96d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_229.bin",
+      "resource_type": 5,
+      "resource_id": 229,
+      "language": 1033,
+      "file_offset": "0x392460",
+      "bytes": 1824,
+      "sha256": "661350d3582c0c2d2040ee37192f1ea781d65b17bf9412a7ef6cee3f66cbeee4",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_230.bin",
+      "resource_type": 5,
+      "resource_id": 230,
+      "language": 1033,
+      "file_offset": "0x392b80",
+      "bytes": 210,
+      "sha256": "8f6480f21c69e1dda5b3fbe12bd070ba540c5c25c7857b5af1be92c10dbce2ab",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_231.bin",
+      "resource_type": 5,
+      "resource_id": 231,
+      "language": 1033,
+      "file_offset": "0x392c58",
+      "bytes": 1576,
+      "sha256": "94ef5ebb3e97bb8bc093c36d7bfa985fa13a9b38744e733432885ba12eb3afc5",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_232.bin",
+      "resource_type": 5,
+      "resource_id": 232,
+      "language": 1033,
+      "file_offset": "0x393280",
+      "bytes": 978,
+      "sha256": "d081b7f0c5036cf8b9902643cbd1ad037fc785fda8b2a88087623edf33945ee7",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_236.bin",
+      "resource_type": 5,
+      "resource_id": 236,
+      "language": 1033,
+      "file_offset": "0x393658",
+      "bytes": 634,
+      "sha256": "90393e1769b96c97c72f2ff6c8250d5aa5c71b64b4cd3252af02149fc0df4160",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_239.bin",
+      "resource_type": 5,
+      "resource_id": 239,
+      "language": 1033,
+      "file_offset": "0x3938d8",
+      "bytes": 220,
+      "sha256": "91e57f25b73117848d5832544c0caf0f1cb555bce552c9da095efd64e5b1316e",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_240.bin",
+      "resource_type": 5,
+      "resource_id": 240,
+      "language": 1033,
+      "file_offset": "0x3939b8",
+      "bytes": 2064,
+      "sha256": "0a6ea3442cb8542014e9c1e3018135034d8f481b5621a5f96fde141acd60d25d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_241.bin",
+      "resource_type": 5,
+      "resource_id": 241,
+      "language": 1033,
+      "file_offset": "0x3941c8",
+      "bytes": 548,
+      "sha256": "5fee366516255c1ac8e71d0425ffd50ef5b2c844277efd2d51399f97abc9ad88",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_242.bin",
+      "resource_type": 5,
+      "resource_id": 242,
+      "language": 1033,
+      "file_offset": "0x3943f0",
+      "bytes": 40,
+      "sha256": "cd4b8746510db6ee50db60a444f64a1494b7061b7cf0d075f003007c4ac6f009",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_244.bin",
+      "resource_type": 5,
+      "resource_id": 244,
+      "language": 1033,
+      "file_offset": "0x394418",
+      "bytes": 254,
+      "sha256": "c5d8ca1a3a040e685eda9c68ecb157714abb7a60b9adf7d96c1f03b50077b466",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_245.bin",
+      "resource_type": 5,
+      "resource_id": 245,
+      "language": 1033,
+      "file_offset": "0x394518",
+      "bytes": 442,
+      "sha256": "9966e7996712eba134a737af217ff483571e1744995d388a0c89d78f1331e90d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_257.bin",
+      "resource_type": 5,
+      "resource_id": 257,
+      "language": 1033,
+      "file_offset": "0x3946d8",
+      "bytes": 1822,
+      "sha256": "2ff1940e936b0cfc5006cef60ca9f923b11d2f6b494504d535555b31f2c4979d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_259.bin",
+      "resource_type": 5,
+      "resource_id": 259,
+      "language": 1033,
+      "file_offset": "0x394df8",
+      "bytes": 1178,
+      "sha256": "a3ba412b9ab15dbdfb3ee15de54ced519e57da13b9ca58660d4ade1dd9a23a92",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_262.bin",
+      "resource_type": 5,
+      "resource_id": 262,
+      "language": 1033,
+      "file_offset": "0x395298",
+      "bytes": 1130,
+      "sha256": "8687e7c8f377cb6f7062ab037d2a19b2aa9f3c0953425595677e46987c2d6b2f",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_264.bin",
+      "resource_type": 5,
+      "resource_id": 264,
+      "language": 1033,
+      "file_offset": "0x395708",
+      "bytes": 1894,
+      "sha256": "a8fa40a939ca67ab8b6e540ce6aa4b2982430edbd240c449be385ad433def2a4",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_268.bin",
+      "resource_type": 5,
+      "resource_id": 268,
+      "language": 1033,
+      "file_offset": "0x395e70",
+      "bytes": 282,
+      "sha256": "2c0d440835262ee2feb538f841d934a8c3588c16ddd80b6a23b7b896994de558",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_269.bin",
+      "resource_type": 5,
+      "resource_id": 269,
+      "language": 1033,
+      "file_offset": "0x395f90",
+      "bytes": 430,
+      "sha256": "6ff573acff04251ad5e5a28efdb98ad2591de0b0f68016f1397a9077afc3e8e6",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_270.bin",
+      "resource_type": 5,
+      "resource_id": 270,
+      "language": 1033,
+      "file_offset": "0x396140",
+      "bytes": 196,
+      "sha256": "54edf9ce45fe50b9bbf34a3d50e72f6dd30feb0bc4b16cc2f1e2cbf49bb8d8c3",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_271.bin",
+      "resource_type": 5,
+      "resource_id": 271,
+      "language": 1033,
+      "file_offset": "0x396208",
+      "bytes": 868,
+      "sha256": "db066bb967219dc19bfef7ff6ead600c747b15c0256f6d9c3b3a815e049c23f3",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_279.bin",
+      "resource_type": 5,
+      "resource_id": 279,
+      "language": 1033,
+      "file_offset": "0x396570",
+      "bytes": 634,
+      "sha256": "31cf632162905297035b3c390970f3d07e35e2d77900916abfc6e81150a9c389",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_280.bin",
+      "resource_type": 5,
+      "resource_id": 280,
+      "language": 1033,
+      "file_offset": "0x3967f0",
+      "bytes": 1818,
+      "sha256": "97329ee8ae28d8b0e0f351f53e1c908fbe77f93c41dedde24afae01802483f37",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_281.bin",
+      "resource_type": 5,
+      "resource_id": 281,
+      "language": 1033,
+      "file_offset": "0x396f10",
+      "bytes": 390,
+      "sha256": "81c62f4ca2c1a4100ef9ee1e799c93d1933e689ef95e23da4ce6f69afb777797",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_284.bin",
+      "resource_type": 5,
+      "resource_id": 284,
+      "language": 1033,
+      "file_offset": "0x397098",
+      "bytes": 2646,
+      "sha256": "ca1de73a0cf0cfbca392c5697426ddab16ad1ad00fa87e57e1515ebed11ec252",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_286.bin",
+      "resource_type": 5,
+      "resource_id": 286,
+      "language": 1033,
+      "file_offset": "0x397af0",
+      "bytes": 644,
+      "sha256": "0231cbf504aeeb768546a8658d1836cce4ed85b7eef441b8203934b2b45d42f4",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_290.bin",
+      "resource_type": 5,
+      "resource_id": 290,
+      "language": 1033,
+      "file_offset": "0x397d78",
+      "bytes": 444,
+      "sha256": "5fe5af8da21dd1bdfc1e9185c31b9ad854e25c6e56ee6ae684106983d7f52710",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_291.bin",
+      "resource_type": 5,
+      "resource_id": 291,
+      "language": 1033,
+      "file_offset": "0x397f38",
+      "bytes": 2014,
+      "sha256": "e88ba1c4960a0f305dc0987553b7c31f46a94a0aca505f3fc11b4be9f074e2fe",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_292.bin",
+      "resource_type": 5,
+      "resource_id": 292,
+      "language": 1033,
+      "file_offset": "0x398718",
+      "bytes": 292,
+      "sha256": "9bf2b648f5ec073ac02ad4d8aff7d4449acb5d2a3efdf25c9e631090c6936ae5",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_294.bin",
+      "resource_type": 5,
+      "resource_id": 294,
+      "language": 1033,
+      "file_offset": "0x398840",
+      "bytes": 994,
+      "sha256": "9d6139140f1ba5713324cfa7b3f3de9480c230a0ecd669abcf42c03434a41968",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_296.bin",
+      "resource_type": 5,
+      "resource_id": 296,
+      "language": 1033,
+      "file_offset": "0x398c28",
+      "bytes": 494,
+      "sha256": "675210324ea930621f866467b8b78de308c8b5172c7c5d223be10d5a82bb0bae",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_297.bin",
+      "resource_type": 5,
+      "resource_id": 297,
+      "language": 1033,
+      "file_offset": "0x398e18",
+      "bytes": 224,
+      "sha256": "448d43b4aabaadb6fa4a21af005dea5364d7de282679d04250191579eb1d9202",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_298.bin",
+      "resource_type": 5,
+      "resource_id": 298,
+      "language": 1033,
+      "file_offset": "0x398ef8",
+      "bytes": 1204,
+      "sha256": "64f0410d89cc940db7d26e6249afec1425acb9b46b5e334e1cb04cc1435b04cd",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_300.bin",
+      "resource_type": 5,
+      "resource_id": 300,
+      "language": 1033,
+      "file_offset": "0x3993b0",
+      "bytes": 238,
+      "sha256": "3cbd30e68231664dd0ae4655925d78dd411db99acaddcf94a87f1a333cab2ef4",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_302.bin",
+      "resource_type": 5,
+      "resource_id": 302,
+      "language": 1033,
+      "file_offset": "0x3994a0",
+      "bytes": 1166,
+      "sha256": "028be93d3a0b7652687185c6c4cc71c7750c0555f30464f9f17acdcbfaa2fb1c",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_303.bin",
+      "resource_type": 5,
+      "resource_id": 303,
+      "language": 1033,
+      "file_offset": "0x399930",
+      "bytes": 774,
+      "sha256": "47da8bd3cac7843ae98f73c09ab0028e83f058c1274e89e0a60d83d690e15eb8",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_304.bin",
+      "resource_type": 5,
+      "resource_id": 304,
+      "language": 1033,
+      "file_offset": "0x399c38",
+      "bytes": 248,
+      "sha256": "12e30357b1f278171b1dcf73aa2c296fb1248fe4cb8959378be5d45fdb8f5f3e",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_305.bin",
+      "resource_type": 5,
+      "resource_id": 305,
+      "language": 1033,
+      "file_offset": "0x399d30",
+      "bytes": 290,
+      "sha256": "59bcf3b330bc37ba00d407e95a895317b05d5d672b6ffc6f8252661dbc56c5d8",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_306.bin",
+      "resource_type": 5,
+      "resource_id": 306,
+      "language": 1033,
+      "file_offset": "0x399e58",
+      "bytes": 2058,
+      "sha256": "5552f99d2aff94d8ef1227fcb02e8a3f2278a588c1689bd050a782faf41c1d3b",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_307.bin",
+      "resource_type": 5,
+      "resource_id": 307,
+      "language": 1033,
+      "file_offset": "0x39a668",
+      "bytes": 426,
+      "sha256": "1be591b18b20544c90139761af1a9e1529699b455f16a61dbc12e9a60783e756",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_308.bin",
+      "resource_type": 5,
+      "resource_id": 308,
+      "language": 1033,
+      "file_offset": "0x39a818",
+      "bytes": 578,
+      "sha256": "d520ba54cfc00da58715dcf7b3b80bc307e8ec523831b55705c5eaa8285f10c5",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_309.bin",
+      "resource_type": 5,
+      "resource_id": 309,
+      "language": 1033,
+      "file_offset": "0x39aa60",
+      "bytes": 434,
+      "sha256": "99a97f563b4473a68475d2153983d057475b612a13f165ce689c115da1a22af6",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_310.bin",
+      "resource_type": 5,
+      "resource_id": 310,
+      "language": 1033,
+      "file_offset": "0x39ac18",
+      "bytes": 346,
+      "sha256": "e66fcd88b4ca7fc126f42ec5866c3687fcf0e1a06ead3d8be2653705e0c8ab9d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_332.bin",
+      "resource_type": 5,
+      "resource_id": 332,
+      "language": 1033,
+      "file_offset": "0x39ad78",
+      "bytes": 634,
+      "sha256": "a63157b76624e79d245ed8fee3ce54807e0f29ee214446c70b98cf2814b37926",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_334.bin",
+      "resource_type": 5,
+      "resource_id": 334,
+      "language": 1033,
+      "file_offset": "0x39aff8",
+      "bytes": 640,
+      "sha256": "e97ff5935a3d79d55cd066171f6ecfd4b007f31827a2c69a996091180ee82ed1",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_335.bin",
+      "resource_type": 5,
+      "resource_id": 335,
+      "language": 1033,
+      "file_offset": "0x39b278",
+      "bytes": 668,
+      "sha256": "e8706cc45410d3951c21a544791cbd160ea7397594933e937f0149044f74cbf2",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_336.bin",
+      "resource_type": 5,
+      "resource_id": 336,
+      "language": 1033,
+      "file_offset": "0x39b518",
+      "bytes": 812,
+      "sha256": "990c98c95ef4ccd67bce132ec356b02054174bbfefd4a9a342099b59806b184d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_337.bin",
+      "resource_type": 5,
+      "resource_id": 337,
+      "language": 1033,
+      "file_offset": "0x39b848",
+      "bytes": 832,
+      "sha256": "c7155a78e3fedc9f3faa7ca2d7e44daa5ae7d4d020be971dee5c0effba15ddb4",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_338.bin",
+      "resource_type": 5,
+      "resource_id": 338,
+      "language": 1033,
+      "file_offset": "0x39bb88",
+      "bytes": 610,
+      "sha256": "50ebfefcbed96cc82158e58e49b3fd17f272f8301c934798457f665132360e0f",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_339.bin",
+      "resource_type": 5,
+      "resource_id": 339,
+      "language": 1033,
+      "file_offset": "0x39bdf0",
+      "bytes": 484,
+      "sha256": "60cdbb97999a88571d6009ea1cd6890bcb5b1941b0ba39826b14d05dbcc15b8c",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_340.bin",
+      "resource_type": 5,
+      "resource_id": 340,
+      "language": 1033,
+      "file_offset": "0x39bfd8",
+      "bytes": 1460,
+      "sha256": "139f68653ffcce53e5a1f766b8c24b8a8d7184fd496b31e0d24ad6cb7b789512",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_341.bin",
+      "resource_type": 5,
+      "resource_id": 341,
+      "language": 1033,
+      "file_offset": "0x39c590",
+      "bytes": 166,
+      "sha256": "ad43a97db12fa8fc7f5a522a70252cd765a2243d2fdb7a99d3f91a4642f0576e",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_342.bin",
+      "resource_type": 5,
+      "resource_id": 342,
+      "language": 1033,
+      "file_offset": "0x39c638",
+      "bytes": 450,
+      "sha256": "f39300010144c0586dd458b1ff9a8381a9d95c78805e0cf47e1649dc0157954d",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_344.bin",
+      "resource_type": 5,
+      "resource_id": 344,
+      "language": 1033,
+      "file_offset": "0x39c800",
+      "bytes": 156,
+      "sha256": "17a0c39348c3dde2e29edc1888f0da6be3cd2829368fed355177864cfd30ad91",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_345.bin",
+      "resource_type": 5,
+      "resource_id": 345,
+      "language": 1033,
+      "file_offset": "0x39c8a0",
+      "bytes": 336,
+      "sha256": "a35c0d3efddf5965081ac2b96371653de970fb0460eeb0ab7658f5b63cb96ee1",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_348.bin",
+      "resource_type": 5,
+      "resource_id": 348,
+      "language": 1033,
+      "file_offset": "0x39c9f0",
+      "bytes": 1038,
+      "sha256": "d74fb6e64095ac968424a39009c690505396fe4ad101f62a2fb1405f8f23bb50",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_349.bin",
+      "resource_type": 5,
+      "resource_id": 349,
+      "language": 1033,
+      "file_offset": "0x39ce00",
+      "bytes": 170,
+      "sha256": "5fb1e08fd7fdf7bf05483cfb54eb778ec2998e80b76a2b980f370867bb3d0aeb",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_352.bin",
+      "resource_type": 5,
+      "resource_id": 352,
+      "language": 1033,
+      "file_offset": "0x39ceb0",
+      "bytes": 118,
+      "sha256": "677f51f0624313353a32f994d742bcac8656e3c2109b20cf1bfc30f4f221cb11",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_363.bin",
+      "resource_type": 5,
+      "resource_id": 363,
+      "language": 1033,
+      "file_offset": "0x39cf28",
+      "bytes": 754,
+      "sha256": "3ff2f023d90403b116d6303370f6b20f61c87363ef65f6078b6a05790e72e3cc",
+      "used_by_native_progress": true
+    },
+    {
+      "file": "dialog_364.bin",
+      "resource_type": 5,
+      "resource_id": 364,
+      "language": 1033,
+      "file_offset": "0x39d220",
+      "bytes": 904,
+      "sha256": "afe6a4334634023f5036acb69cb7d9cb156a99ec8d39e11d516aa15f5706ffdd",
+      "used_by_native_progress": true
+    },
+    {
+      "file": "dialog_365.bin",
+      "resource_type": 5,
+      "resource_id": 365,
+      "language": 1033,
+      "file_offset": "0x39d5a8",
+      "bytes": 624,
+      "sha256": "999d5452a67e883ba94c42764f81c3d38605c0cc65c22ed902b03c306a8399fa",
+      "used_by_native_progress": true
+    },
+    {
+      "file": "dialog_367.bin",
+      "resource_type": 5,
+      "resource_id": 367,
+      "language": 1033,
+      "file_offset": "0x39d818",
+      "bytes": 868,
+      "sha256": "8aefba27372d1a90449d66ebece9715dc27b381a9a69b8c20c60d16d685180bc",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_369.bin",
+      "resource_type": 5,
+      "resource_id": 369,
+      "language": 1033,
+      "file_offset": "0x39db80",
+      "bytes": 2222,
+      "sha256": "3952d9b4fbfbf5d4adb9e5fee6920bce50540f17dc2e18d69f2105c423294251",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_370.bin",
+      "resource_type": 5,
+      "resource_id": 370,
+      "language": 1033,
+      "file_offset": "0x39e430",
+      "bytes": 490,
+      "sha256": "a59fc244ab5501fa0bfdef7fb530f93ae4561de354efaa0c8d09ede664b743ef",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_381.bin",
+      "resource_type": 5,
+      "resource_id": 381,
+      "language": 1033,
+      "file_offset": "0x39e620",
+      "bytes": 266,
+      "sha256": "f330d8fa3cec25fe8292a6cbc60ae4ee29d27d616ebdad2a294fd331416cc7ca",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_487.bin",
+      "resource_type": 5,
+      "resource_id": 487,
+      "language": 1033,
+      "file_offset": "0x39e730",
+      "bytes": 542,
+      "sha256": "d7369811fb46b2c433689ab17d6f72a898a8b3dfbd078b44c2c8992c1eed6cd2",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_488.bin",
+      "resource_type": 5,
+      "resource_id": 488,
+      "language": 1033,
+      "file_offset": "0x39e950",
+      "bytes": 368,
+      "sha256": "83836cf2e82a9c8a2cba9de46fe49b20b240e2cf49f5c403cff5fdd9b54728ed",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_489.bin",
+      "resource_type": 5,
+      "resource_id": 489,
+      "language": 1033,
+      "file_offset": "0x39eac0",
+      "bytes": 698,
+      "sha256": "0aa8055c01543f40e0afc2511f28972dbfd99bdb41d0362a8a1531b541d3f283",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_494.bin",
+      "resource_type": 5,
+      "resource_id": 494,
+      "language": 1033,
+      "file_offset": "0x39ed80",
+      "bytes": 430,
+      "sha256": "4fc4bb13afabc7cd55c638d6def5599d843eac1c62dceb5b889090fe51e50f89",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_504.bin",
+      "resource_type": 5,
+      "resource_id": 504,
+      "language": 1033,
+      "file_offset": "0x39ef30",
+      "bytes": 64,
+      "sha256": "ec26f30e43bd23c946c32f431d01a89086cc9cbc8970b6c0c84be5731b2c4fc5",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_505.bin",
+      "resource_type": 5,
+      "resource_id": 505,
+      "language": 1033,
+      "file_offset": "0x39ef70",
+      "bytes": 270,
+      "sha256": "c7a5bfc8021e32141c9df0d825d9e85297e560c063f2c68270829f27a51128ba",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_506.bin",
+      "resource_type": 5,
+      "resource_id": 506,
+      "language": 1033,
+      "file_offset": "0x39f080",
+      "bytes": 736,
+      "sha256": "7f6bb5680811399164a42ef9d2a415b7c3babe440f88cec65cc5d638c3d9b984",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_30721.bin",
+      "resource_type": 5,
+      "resource_id": 30721,
+      "language": 1033,
+      "file_offset": "0x5ad658",
+      "bytes": 232,
+      "sha256": "6e113fd8e9f3156ae68251c6076beb9b59fe29e589d06398e7019802521f69d3",
+      "used_by_native_progress": false
+    },
+    {
+      "file": "dialog_30734.bin",
+      "resource_type": 5,
+      "resource_id": 30734,
+      "language": 1033,
+      "file_offset": "0x5ad740",
+      "bytes": 52,
+      "sha256": "4cf716efaf68e0cb2ec45ec55d291050b5712b05653cae68edbb999f803d2a98",
+      "used_by_native_progress": false
+    }
+  ],
+  "note": "All 105 dialog and two menu resources are preserved byte for byte. Templates contain layout, IDs, captions and font information, not executable behavior. IDX supplies new Rust handlers. See NATIVE-UI-DERIVATION.json for 100 rebranded layouts and NATIVE-UI-COVERAGE.json for the 33 routed templates and remaining gaps.",
+  "runtime_routed_dialog_ids": [
+    100,
+    102,
+    103,
+    130,
+    135,
+    139,
+    140,
+    141,
+    143,
+    145,
+    148,
+    185,
+    195,
+    239,
+    240,
+    241,
+    257,
+    259,
+    264,
+    280,
+    286,
+    291,
+    294,
+    306,
+    307,
+    308,
+    310,
+    337,
+    338,
+    363,
+    364,
+    365,
+    506
+  ]
+}

@@ -1,0 +1,31 @@
+[package]
+name = "idx"
+version = "0.7.0"
+edition = "2024"
+rust-version = "1.88"
+description = "IDX – Internet Downloader X, an open-source Windows download manager"
+license = "MIT"
+default-run = "idx"
+
+[dependencies]
+eframe = { version = "=0.33.3", default-features = false, features = ["default_fonts", "glow", "persistence", "x11", "wayland"] }
+egui_extras = { version = "=0.33.3", features = ["default"] }
+reqwest = { version = "0.12", default-features = false, features = ["blocking", "rustls-tls", "http2", "socks"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+chrono = { version = "0.4", features = ["serde"] }
+dirs = "6"
+rfd = "0.15"
+url = "2"
+sha2 = "0.10"
+regex = "1"
+roxmltree = "0.21"
+aes = "0.8"
+cbc = "0.1"
+tokio = { version = "1", features = ["rt", "time", "sync"] }
+
+[profile.release]
+opt-level = 2
+lto = "thin"
+strip = true
+

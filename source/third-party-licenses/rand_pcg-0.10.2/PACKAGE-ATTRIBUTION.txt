@@ -1,0 +1,5 @@
+rand_pcg-0.10.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rand Project Developers
+Repository: https://github.com/rust-random/rngs
+Published source revision: cc285e994b4dc236f138fafe2a59377ef63cdcfa

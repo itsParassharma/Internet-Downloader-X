@@ -1,0 +1,5 @@
+wgpu-core-27.0.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): gfx-rs developers
+Repository: https://github.com/gfx-rs/wgpu
+Published source revision: d61dc3af8856f0cd9023c5e888b791d1b7118559

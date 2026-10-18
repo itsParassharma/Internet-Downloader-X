@@ -1,0 +1,5 @@
+zerofrom-derive-0.1.8
+License expression from published Cargo metadata: Unicode-3.0
+Package authors (not substituted for upstream copyright notices): Manish Goregaokar <manishsmail@gmail.com>
+Repository: https://github.com/unicode-org/icu4x
+Published source revision: ce235d80cf7cbd028e8bd59920420e1203b205b3

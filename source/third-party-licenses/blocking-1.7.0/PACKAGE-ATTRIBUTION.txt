@@ -1,0 +1,5 @@
+blocking-1.7.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/smol-rs/blocking
+Published source revision: e29a5e6979f56c7537b04ab17ca7bdceee66ef5f

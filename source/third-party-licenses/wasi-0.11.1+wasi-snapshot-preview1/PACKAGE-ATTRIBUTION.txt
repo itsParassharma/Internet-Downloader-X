@@ -1,0 +1,5 @@
+wasi-0.11.1+wasi-snapshot-preview1
+License expression from published Cargo metadata: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): The Cranelift Project Developers
+Repository: https://github.com/bytecodealliance/wasi
+Published source revision: f136a81add9706ed0b36ac3c4b0da943de8e690d

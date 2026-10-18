@@ -1,0 +1,6 @@
+dispatch-0.2.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Steven Sheldon
+Repository: http://github.com/SSheldon/rust-dispatch
+Published source revision: 82d6c7a5b75dc0c71c3f46f87bb6c16a476f7748
+The pinned upstream archive declares or links the license rather than including the complete applicable text. A standard SPDX license text is supplied alongside upstream metadata; template placeholders are not assertions of an upstream copyright year.

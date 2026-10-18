@@ -1,0 +1,5 @@
+moxcms-0.8.1
+License expression from published Cargo metadata: BSD-3-Clause OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Radzivon Bartoshyk
+Repository: https://github.com/awxkee/moxcms.git
+Published source revision: c4affa196727d17f21a7f6f148a558867decb470

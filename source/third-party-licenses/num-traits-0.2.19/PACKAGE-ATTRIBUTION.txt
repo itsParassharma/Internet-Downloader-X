@@ -1,0 +1,5 @@
+num-traits-0.2.19
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rust Project Developers
+Repository: https://github.com/rust-num/num-traits
+Published source revision: 7ec3d41d39b28190ec1d42db38021107b3951f3a

@@ -1,0 +1,5 @@
+proc-macro2-1.0.107
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>; Alex Crichton <alex@alexcrichton.com>
+Repository: https://github.com/dtolnay/proc-macro2
+Published source revision: ed8a5497669cd63db33bf24646f261b012bbbc4a

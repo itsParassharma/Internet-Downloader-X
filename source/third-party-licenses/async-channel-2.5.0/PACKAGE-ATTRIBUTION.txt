@@ -1,0 +1,5 @@
+async-channel-2.5.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>
+Repository: https://github.com/smol-rs/async-channel
+Published source revision: 35a63c456aaa1906015f5a825e7e35505a749afa

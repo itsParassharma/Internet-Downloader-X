@@ -1,0 +1,5 @@
+smol_str-0.2.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Aleksey Kladov <aleksey.kladov@gmail.com>
+Repository: https://github.com/rust-analyzer/smol_str
+Published source revision: aea39b4974f55e9380556272b1335e2f6fd13cc7

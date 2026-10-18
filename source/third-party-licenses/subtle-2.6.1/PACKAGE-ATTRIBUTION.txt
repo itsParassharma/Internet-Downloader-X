@@ -1,0 +1,5 @@
+subtle-2.6.1
+License expression from published Cargo metadata: BSD-3-Clause
+Package authors (not substituted for upstream copyright notices): Isis Lovecruft <isis@patternsinthevoid.net>; Henry de Valence <hdevalence@hdevalence.ca>
+Repository: https://github.com/dalek-cryptography/subtle
+Published source revision: 5457b5448b021d1da101ababbb854e6657233943

@@ -1,0 +1,6 @@
+hexf-parse-0.2.1
+License expression from published Cargo metadata: CC0-1.0
+Package authors (not substituted for upstream copyright notices): Kang Seonghoon <public+rust@mearie.org>
+Repository: https://github.com/lifthrasiir/hexf
+Published source revision: 4225763d744183d720f575ae96d04161b4d08ea0
+The pinned upstream archive declares or links the license rather than including the complete applicable text. A standard SPDX license text is supplied alongside upstream metadata; template placeholders are not assertions of an upstream copyright year.

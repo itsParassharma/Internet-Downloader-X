@@ -1,0 +1,5 @@
+wayland-backend-0.3.17
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Elinor Berger <elinor@safaradeg.net>
+Repository: https://github.com/smithay/wayland-rs
+Published source revision: 72f7fe0d9e99cb720ed57ade0c3077aec533b6ab

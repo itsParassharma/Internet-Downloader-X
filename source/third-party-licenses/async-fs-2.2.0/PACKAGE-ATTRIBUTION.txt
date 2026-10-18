@@ -1,0 +1,5 @@
+async-fs-2.2.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>
+Repository: https://github.com/smol-rs/async-fs
+Published source revision: 39c8d7d5e8cd6c277a2524f483d57be831821d18

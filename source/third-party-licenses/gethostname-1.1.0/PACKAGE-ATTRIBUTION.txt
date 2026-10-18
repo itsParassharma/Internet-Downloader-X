@@ -1,0 +1,5 @@
+gethostname-1.1.0
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Sebastian Wiesner <sebastian@swsnr.de>
+Repository: https://codeberg.org/swsnr/gethostname.rs.git
+Published source revision: 7cffc339711704f29f72d51ebc483b3f28f10099

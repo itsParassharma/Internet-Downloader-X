@@ -1,0 +1,5 @@
+same-file-1.0.6
+License expression from published Cargo metadata: Unlicense/MIT
+Package authors (not substituted for upstream copyright notices): Andrew Gallant <jamslam@gmail.com>
+Repository: https://github.com/BurntSushi/same-file
+Published source revision: 5799cd323b8eefd17a089c950dac113f66c89c9e

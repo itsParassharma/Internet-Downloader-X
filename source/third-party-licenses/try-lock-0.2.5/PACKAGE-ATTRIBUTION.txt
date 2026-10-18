@@ -1,0 +1,5 @@
+try-lock-0.2.5
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/seanmonstar/try-lock
+Published source revision: fd160ecd9105e8afcc43dbea450a0ef6e5128cce

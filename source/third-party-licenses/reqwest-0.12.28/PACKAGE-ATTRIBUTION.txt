@@ -1,0 +1,5 @@
+reqwest-0.12.28
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/seanmonstar/reqwest
+Published source revision: ef2768a823b28bf00e23e218e034be035b08d770

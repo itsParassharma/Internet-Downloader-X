@@ -1,0 +1,5 @@
+bytemuck_derive-1.12.1
+License expression from published Cargo metadata: Zlib OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Lokathor <zefria@gmail.com>
+Repository: https://github.com/Lokathor/bytemuck
+Published source revision: 839ee557dd9b1ac5a0b0155cabba71f96b4ccd06

@@ -1,0 +1,5 @@
+arboard-3.6.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/1Password/arboard
+Published source revision: a3750c79a5d63f3987317e03c412b7d9dffdc2af

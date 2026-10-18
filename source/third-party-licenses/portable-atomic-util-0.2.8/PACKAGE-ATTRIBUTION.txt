@@ -1,0 +1,5 @@
+portable-atomic-util-0.2.8
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/taiki-e/portable-atomic-util
+Published source revision: 6fb276aeaee508914ef33918f2e3f003d6808ada

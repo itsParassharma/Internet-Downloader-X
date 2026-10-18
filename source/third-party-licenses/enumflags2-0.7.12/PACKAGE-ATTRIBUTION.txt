@@ -1,0 +1,5 @@
+enumflags2-0.7.12
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): maik klein <maikklein@googlemail.com>; Maja Kądziołka <maya@compilercrim.es>
+Repository: https://github.com/meithecatte/enumflags2
+Published source revision: 332c37f47577e5f6b7104419da7e761963032086

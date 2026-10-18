@@ -1,0 +1,5 @@
+errno-0.3.14
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Chris Wong <lambda.fairy@gmail.com>; Dan Gohman <dev@sunfishcode.online>
+Repository: https://github.com/lambda-fairy/rust-errno
+Published source revision: ffc03bfb9eb491013567115e6eea560948cd9e52

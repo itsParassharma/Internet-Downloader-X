@@ -1,0 +1,5 @@
+ordered-stream-0.2.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Daniel De Graaf <code@danieldg.net>; Zeeshan Ali Khan <zeeshanak@gnome.org>
+Repository: https://github.com/danieldg/ordered-stream
+Published source revision: 5c58ca1a3d680c2406f0c6a1520c3476c27048aa

@@ -1,0 +1,5 @@
+want-0.3.2
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/seanmonstar/want
+Published source revision: 322291ce5a87c72ecfd83d383d0d7f5245cf72c6

@@ -1,0 +1,5 @@
+async-task-4.7.1
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>
+Repository: https://github.com/smol-rs/async-task
+Published source revision: 3065c372e1ef1611230195ad7f3aae80ffde8261

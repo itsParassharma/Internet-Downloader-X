@@ -1,0 +1,5 @@
+zerocopy-derive-0.8.62
+License expression from published Cargo metadata: BSD-2-Clause OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/google/zerocopy
+Published source revision: dcb8149c97301e67388c8d10ff025d43226994db

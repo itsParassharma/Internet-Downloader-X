@@ -1,0 +1,5 @@
+windows-sys-0.60.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Microsoft
+Repository: https://github.com/microsoft/windows-rs
+Published source revision: 4b8893b307719ec23cce698269ca572ef301dc5c

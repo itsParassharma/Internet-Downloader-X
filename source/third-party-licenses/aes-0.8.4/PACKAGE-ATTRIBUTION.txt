@@ -1,0 +1,4 @@
+aes-0.8.4
+License: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/block-ciphers
+Published source revision: f2dbee516b4d0cf4cb4f3045d09e35b5fd80087b

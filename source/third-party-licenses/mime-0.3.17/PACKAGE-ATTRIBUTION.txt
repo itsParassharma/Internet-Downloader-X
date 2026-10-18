@@ -1,0 +1,5 @@
+mime-0.3.17
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/hyperium/mime
+Published source revision: ce5062d216bf757a0ed3fc70f0fe255d1c8d74ae

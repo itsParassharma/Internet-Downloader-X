@@ -1,0 +1,5 @@
+tower-service-0.3.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Tower Maintainers <team@tower-rs.com>
+Repository: https://github.com/tower-rs/tower
+Published source revision: 646804d77eebf072dac180cb5e1256b9ee7e0229

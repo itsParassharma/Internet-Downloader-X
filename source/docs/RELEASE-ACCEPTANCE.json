@@ -1,0 +1,68 @@
+{
+  "checks": [
+    "Manifest V3 service worker starts in real Chromium",
+    "Installer requires no extension ID and leaves browser registration unchanged",
+    "Opening IDX configures its bundled identity automatically; copied extension folder retains same identity; no copied ID or popup required",
+    "IDX app connection handler creates valid Chrome and Edge manifests without PowerShell; reconnect is idempotent",
+    "Both installed binaries match the current release build SHA-256",
+    "Isolated installer leaves existing IDX Start Menu shortcuts unchanged",
+    "Real Chromium native-messaging ping returns IDX 0.7.0",
+    "Connection checks queue no downloads",
+    "Exclusions persist after reload; automatic capture is on by default",
+    "Popup fits 401-pixel width without horizontal overflow",
+    "Live browser downloads use extension/site category folder and unmatched files retain default folder",
+    "Real extension -> native host -> durable inbox -> completed Rust HTTP download, exact bytes and source page",
+    "Trusted floating-panel click -> native host -> Rust media download, exact bytes, filename and Referer",
+    "Real Chrome download event automatically transfers to Rust and cancels the held browser copy after acknowledgement",
+    "Unavailable native host resumes the held browser transfer and preserves the exact file",
+    "Response MIME discovers media URLs without file extensions",
+    "Opaque media URLs preserve a playable filename and exact video bytes in Rust",
+    "Dynamic players and embedded frames receive separate media panels",
+    "Panel preferences apply live and mini mode preserves the download action",
+    "HttpOnly browser cookies allow an authenticated direct download without storing credentials in the library",
+    "HLS TS: trusted panel click, authenticated Rust segment download, playable MP4 with audio and identical decoded video frames",
+    "AES-128 HLS: trusted panel click, authenticated Rust segment download, playable MP4 with audio and identical decoded video frames",
+    "HLS separate audio/video: trusted panel click, authenticated Rust segment download, playable MP4 with audio and identical decoded video frames",
+    "HLS byte ranges: trusted panel click, authenticated Rust segment download, playable MP4 with audio and identical decoded video frames",
+    "DASH separate audio/video: trusted panel click, authenticated Rust segment download, playable MP4 with audio and identical decoded video frames",
+    "Stream requests respect browser session cookies; library and inbox contain no plaintext cookie secret",
+    "Popup has no JavaScript page errors",
+    "Uninstaller removes app files and preserves test library, completed file and existing shortcuts"
+  ],
+  "extension_id": "efpcefgckblkklcemllbkjmbamhhajjl",
+  "screenshots": [
+    "extension-setup.png",
+    "extension-connected.png",
+    "extension-popup.png",
+    "media-panel.png",
+    "media-menu.png",
+    "stream-quality-menu.png"
+  ],
+  "binary_sha256": {
+    "idx.exe": "4ae04175fe649788d48b27ca254b9ace0e1cd171a81a08928edf490ef7ab3cd5",
+    "idx-native-host.exe": "60af50ad997e027b8574d583ab22c008a8d31891b8374d7f345bd0d82612ea9f"
+  },
+  "download_sha256": "efab2ca5ea5cee742f47afe1c2b1ed4a385d44c7291d0a787cf8328a7cd1a7cd",
+  "ok": true,
+  "registry_restored": true,
+  "date": "2026-10-18",
+  "test_run": "run-1792243751733",
+  "rust_tests": {
+    "application_passed": 106,
+    "native_host_passed": 26
+  },
+  "extension_mock_checks": {
+    "automatic_capture": 44,
+    "protocol_provenance": 12,
+    "media_rules": 20,
+    "media_background": 13,
+    "browser_sessions": 8
+  },
+  "rust_toolchain": "1.99.1 x86_64-pc-windows-msvc",
+  "desktop_visual_acceptance": {
+    "status": "partial",
+    "observed": "IDX main window and menu inspected; exact original overlay comparison remains pending."
+  },
+  "live_browser_download_event_cancellation_verified": true,
+  "all_18979_function_ports_complete": false
+}

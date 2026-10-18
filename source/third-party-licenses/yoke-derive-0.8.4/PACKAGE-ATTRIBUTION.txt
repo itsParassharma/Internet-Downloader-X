@@ -1,0 +1,5 @@
+yoke-derive-0.8.4
+License expression from published Cargo metadata: Unicode-3.0
+Package authors (not substituted for upstream copyright notices): Manish Goregaokar <manishsmail@gmail.com>
+Repository: https://github.com/unicode-org/icu4x
+Published source revision: a59ab860d4bda548e94dfbf992d87fe1f761bc55

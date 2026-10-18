@@ -1,0 +1,278 @@
+[
+  {
+    "address": "0x460856",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnColumnclickUrlList()\\n\",1);"
+  },
+  {
+    "address": "0x460c38",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::CreateTreePopupMenu()\\r\\n\",1);"
+  },
+  {
+    "address": "0x462ddd",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::CDownloaderDlg()\\n\",1);"
+  },
+  {
+    "address": "0x462f9e",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::~CDownloaderDlg()\\n\",1);"
+  },
+  {
+    "address": "0x463f53",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnItemchangedUrllist()\\n\",1);"
+  },
+  {
+    "address": "0x46656e",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnProperties()\\n\",1);"
+  },
+  {
+    "address": "0x47037a",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::AttachToolbarImages()\\n\",1);"
+  },
+  {
+    "address": "0x476d8e",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnStop()\\n\",1);"
+  },
+  {
+    "address": "0x477296",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnSize()\\n\",1);"
+  },
+  {
+    "address": "0x4773f7",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnPauseAll()\\n\",1);"
+  },
+  {
+    "address": "0x478011",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::ExportListToFile()\\n\",1);"
+  },
+  {
+    "address": "0x4783e6",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::ImportListFromFile()\\n\",1);"
+  },
+  {
+    "address": "0x4827ac",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::ShowInitialDownloadDlg()\\n\",1);"
+  },
+  {
+    "address": "0x482cfa",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::ProcessOnNewUrl2()\\n\",1);"
+  },
+  {
+    "address": "0x48665c",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnStopAll()\\n\",1);"
+  },
+  {
+    "address": "0x486eee",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnTimer(nIDEvent = REGISTR_TIMER)\\n\",1);"
+  },
+  {
+    "address": "0x487023",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnTimer(nIDEvent = TIPOFTHEDAY_TIMER)\\n\",1);"
+  },
+  {
+    "address": "0x487815",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnTimer(nIDEvent = 14)\\r\\n\",1);"
+  },
+  {
+    "address": "0x487d34",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnTimer(nIDEvent = UPDATE_TIMER)\\n\",1);"
+  },
+  {
+    "address": "0x487e22",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnTimer(nIDEvent = CHECK_LNG_TIMER)\\n\",1);"
+  },
+  {
+    "address": "0x488427",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnTimer(nIDEvent = QUEUE_TIMER)\\n\",1);"
+  },
+  {
+    "address": "0x4898b9",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnExit()\\n\",1);"
+  },
+  {
+    "address": "0x49afc5",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::ProcessOnNewUrl()\\n\",1);"
+  },
+  {
+    "address": "0x4f6fe1",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMTreeCtrlDropTarget::OnDragEnter()\\n\",1);"
+  },
+  {
+    "address": "0x4f71b8",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMTreeCtrlDropTarget::OnDragOver()\\n\",1);"
+  },
+  {
+    "address": "0x4f7463",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMTreeCtrlDropTarget::OnDrop()\\n\",1);"
+  },
+  {
+    "address": "0x4c7cd0",
+    "excerpt": "FUN_004c4da0(\"Cannot open(/create) registry key during CIDMFoldersTree::SetVisiblity().\\r\\n\",1);"
+  },
+  {
+    "address": "0x4c7dd0",
+    "excerpt": "FUN_004c4da0(\"Cannot open(/create) registry key during CIDMFoldersTree::CheckQAU().\\r\\n\",1);"
+  },
+  {
+    "address": "0x4c7ed0",
+    "excerpt": "FUN_004c4da0(\"Cannot open(/create) registry key during CIDMFoldersTree::DeleteQAU().\\r\\n\",1);"
+  },
+  {
+    "address": "0x4c8280",
+    "excerpt": "FUN_004c4da0(\"Cannot open(/create) registry subkey during CIDMFoldersTree::Save().\\r\\n\",1)"
+  },
+  {
+    "address": "0x4c8280",
+    "excerpt": "FUN_004c4da0(\"Cannot open(/create) registry key during CIDMFoldersTree::Save().\\r\\n\",1);"
+  },
+  {
+    "address": "0x4c91b0",
+    "excerpt": "FUN_004c4da0(\"Cannot open(/create) registry key during CIDMFoldersTree::DeleteItem().\\r\\n\",1);"
+  },
+  {
+    "address": "0x4caf02",
+    "excerpt": "FUN_004c4da0(\"Unk err in CIDMLC::DSA\",1);"
+  },
+  {
+    "address": "0x4cb9d0",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMListCtrl::Initialize()\\n\",1);"
+  },
+  {
+    "address": "0x4cba8b",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMListCtrl::OnCreate()\\n\",1);"
+  },
+  {
+    "address": "0x4cbc53",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMListCtrl::DrawSortArrow()\",1);"
+  },
+  {
+    "address": "0x4cc98e",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMListCtrl::OnBegindrag()\\n\",1);"
+  },
+  {
+    "address": "0x4cd6f7",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CIDMListCtrl::AddItem()\\n\",1);"
+  },
+  {
+    "address": "0x4ceff0",
+    "excerpt": "FUN_004c4da0(\"Cannot open(/create) registry key during CIDMMainDlgTree::OnEditItem().\\r\\n\",1);"
+  },
+  {
+    "address": "0x440cb1",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::OnInitDialog()\\n\",1);"
+  },
+  {
+    "address": "0x44127d",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::AddDownload()\\n\",1);"
+  },
+  {
+    "address": "0x4413b9",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::OnStart()\\n\",1);"
+  },
+  {
+    "address": "0x4416db",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::OnDownloadLater()\\n\",1);"
+  },
+  {
+    "address": "0x442b6c",
+    "excerpt": "_sprintf((char *)(unaff_EBP + 0x8ca4),\"CDownload::OnCommand(wParam = %ld)\\n\","
+  },
+  {
+    "address": "0x444d39",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloadComponents::StartDownload()\\n\",1);"
+  },
+  {
+    "address": "0x444e8f",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloadComponents::OnTimer()\\n\",1);"
+  },
+  {
+    "address": "0x4539aa",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderApp::InitInstance()\\n\",1);"
+  },
+  {
+    "address": "0x4560ea",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnRestore()\\n\",1);"
+  },
+  {
+    "address": "0x456a57",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnNotifyIcon()\\n\",1);"
+  },
+  {
+    "address": "0x456ae3",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnRclickUrllist()\\n\",1);"
+  },
+  {
+    "address": "0x4571ea",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::SendRegistrationInfo()\\n\",1);"
+  },
+  {
+    "address": "0x457742",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnTutorials()\\n\",1);"
+  },
+  {
+    "address": "0x457ae6",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::GetStartDlgVisibility()\\r\\n\",1);"
+  },
+  {
+    "address": "0x458236",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::DrawGhost()\\n\",1);"
+  },
+  {
+    "address": "0x4585cb",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::NeedCheckLngFile()\\n\",1);"
+  },
+  {
+    "address": "0x45d4e1",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnPaint()\\n\",1);"
+  },
+  {
+    "address": "0x45d687",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnOptions()\\n\",1);"
+  },
+  {
+    "address": "0x45d7fd",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnResumeAll()\\n\",1);"
+  },
+  {
+    "address": "0x45d8b3",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnAbout()\\n\",1);"
+  },
+  {
+    "address": "0x45deee",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnLButtonDown(), step1\\n\",1);"
+  },
+  {
+    "address": "0x45dfa7",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnLButtonUp()\\n\",1);"
+  },
+  {
+    "address": "0x45e139",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnLButtonUp()\\n\",1);"
+  },
+  {
+    "address": "0x45e22d",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnSetCursor()\\n\",1);"
+  },
+  {
+    "address": "0x45e313",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownloaderDlg::OnMouseMove()\\n\",1);"
+  },
+  {
+    "address": "0x43be2c",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::OnClose()\\n\",1);"
+  },
+  {
+    "address": "0x43be97",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::OnClose(), s2\\n\",1);"
+  },
+  {
+    "address": "0x43bfdb",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::OnTimer()\\n\",1);"
+  },
+  {
+    "address": "0x43ca56",
+    "excerpt": "FUN_004c4da0(\"Unknown error during CDownload::OnZipPreview()\\n\",1);"
+  },
+  {
+    "address": "0x43d13c",
+    "excerpt": "FUN_004b6b30(\"CDownload::CDownload()\");"
+  }
+]

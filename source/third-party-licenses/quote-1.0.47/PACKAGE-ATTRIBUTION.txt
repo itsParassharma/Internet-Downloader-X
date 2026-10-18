@@ -1,0 +1,5 @@
+quote-1.0.47
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/quote
+Published source revision: 723dcb47d3f0ddc896e17287c8a8d3f2ea2317d5

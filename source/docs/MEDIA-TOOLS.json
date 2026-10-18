@@ -1,0 +1,19 @@
+{
+  "source_url": "https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2026-10-16-13-04/ffmpeg-n9.0.2-28-g669f5ab083-win64-lgpl-shared-9.0.zip",
+  "archive_sha256": "337bccf4f9ed8594255572907d0c3c19e673894713d63d92664d846c4ad183c8",
+  "files": {
+    "avcodec-63.dll": "47749bbea8f0faca931c447192f9ff54df66f2c0f6c31e58bdb4c809134d0626",
+    "avdevice-63.dll": "062b76ea429d7a1526b45c82869d8a9812f55c7d2683a6a1b0ccc316712d6590",
+    "avfilter-12.dll": "afd9df5e44f6ec7d55960ac9f7dd431c7fb99245f77632518343a2a904871571",
+    "avformat-63.dll": "bde29812a8faeb4d546120e3a0ef87e9b7508385ba4e4ba3f37783039414323e",
+    "avutil-61.dll": "514c3b03e85a76b8776fb1646314899685db48762921c204841af2ab082ba6d5",
+    "ffmpeg.exe": "cf4629b3d812bf38e329672bf567ad5746e70098de13d63e1640862b2c9c33e2",
+    "ffprobe.exe": "4369b34e1e550385d83279096bf2c70052953c94467d2df56d30f0c1c6a35162",
+    "LICENSE.txt": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768",
+    "swresample-7.dll": "47a0db55a9c74c08f5683632e32e5f2e2480658c777da5a8a07b4c4ac5750fdb",
+    "swscale-10.dll": "01aea0e5c5962f13fbb24736ae88b313ecbd2d60a9d049ba615e79ec57ede944"
+  },
+  "version": "n9.0.2-28-g669f5ab083-20261016",
+  "build_source": "https://github.com/BtbN/FFmpeg-Builds/tree/63ac326",
+  "ffmpeg_source": "https://github.com/FFmpeg/FFmpeg/tree/669f5ab083"
+}

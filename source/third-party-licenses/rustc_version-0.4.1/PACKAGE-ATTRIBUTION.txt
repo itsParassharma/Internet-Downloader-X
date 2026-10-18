@@ -1,0 +1,5 @@
+rustc_version-0.4.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/djc/rustc-version-rs
+Published source revision: eeca449cca83e24150e46739e797aa82e9142809

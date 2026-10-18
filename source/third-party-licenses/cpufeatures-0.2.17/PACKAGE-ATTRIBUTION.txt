@@ -1,0 +1,5 @@
+cpufeatures-0.2.17
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): RustCrypto Developers
+Repository: https://github.com/RustCrypto/utils
+Published source revision: 9d92d5e95ab4c07c5d8bfd024bf2a17e96d20feb

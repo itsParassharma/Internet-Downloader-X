@@ -1,0 +1,5 @@
+android-properties-0.2.2
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Mikhail Lappo <mikhail.lappo@esrlabs.com>
+Repository: https://github.com/miklelappo/android-properties
+Published source revision: 35f123fa53be399307eb861b033a62f0ed193d83

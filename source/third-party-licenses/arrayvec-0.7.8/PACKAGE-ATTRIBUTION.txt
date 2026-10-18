@@ -1,0 +1,5 @@
+arrayvec-0.7.8
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): bluss
+Repository: https://github.com/bluss/arrayvec
+Published source revision: 0cb664cf505844348538230479b0040b44f3faf1

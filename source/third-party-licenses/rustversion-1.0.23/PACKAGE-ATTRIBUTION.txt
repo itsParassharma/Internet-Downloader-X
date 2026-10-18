@@ -1,0 +1,5 @@
+rustversion-1.0.23
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/rustversion
+Published source revision: 3a7c76605450b9a7299c6502a421909de9126a59

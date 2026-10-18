@@ -1,0 +1,5 @@
+ecolor-0.33.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Emil Ernerfeldt <emil.ernerfeldt@gmail.com>; Andreas Reich <reichandreas@gmx.de>
+Repository: https://github.com/emilk/egui
+Published source revision: 44cdd653e2317d300fb8a6c9c36b03f23991e803

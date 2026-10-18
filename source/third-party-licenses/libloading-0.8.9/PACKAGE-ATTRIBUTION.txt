@@ -1,0 +1,5 @@
+libloading-0.8.9
+License expression from published Cargo metadata: ISC
+Package authors (not substituted for upstream copyright notices): Simonas Kazlauskas <libloading@kazlauskas.me>
+Repository: https://github.com/nagisa/rust_libloading/
+Published source revision: f4ec9e702de2d0778bccff8525dc44e4cacac2d1

@@ -1,0 +1,5 @@
+half-2.7.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Kathryn Long <squeeself@gmail.com>
+Repository: https://github.com/VoidStarKat/half-rs
+Published source revision: 8cc891f3e4aad956eca7fa79b1f42f87ecd141ae

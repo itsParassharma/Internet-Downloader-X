@@ -1,0 +1,5 @@
+phf_shared-0.11.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Steven Fackler <sfackler@gmail.com>
+Repository: https://github.com/rust-phf/rust-phf
+Published source revision: 9b679189639fec8d449cd2f1759fad5dc0ef38db

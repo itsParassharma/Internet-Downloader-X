@@ -1,0 +1,5 @@
+nohash-hasher-0.2.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Parity Technologies <admin@parity.io>
+Repository: https://github.com/paritytech/nohash-hasher
+Published source revision: 99b021664e9d7fd3e1f7ffb8633a137e21e12149

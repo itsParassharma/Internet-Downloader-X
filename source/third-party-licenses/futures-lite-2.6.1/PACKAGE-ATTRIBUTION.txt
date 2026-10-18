@@ -1,0 +1,5 @@
+futures-lite-2.6.1
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>; Contributors to futures-rs
+Repository: https://github.com/smol-rs/futures-lite
+Published source revision: 226ce18976d8714d6bd9700b61dcc81d7200bc9a

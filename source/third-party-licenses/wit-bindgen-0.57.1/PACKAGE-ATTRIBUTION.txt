@@ -1,0 +1,5 @@
+wit-bindgen-0.57.1
+License expression from published Cargo metadata: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>
+Repository: https://github.com/bytecodealliance/wit-bindgen
+Published source revision: 2e00369a643c0c8048b8636401e36b0cbf2dfb05

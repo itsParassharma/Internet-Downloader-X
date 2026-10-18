@@ -1,0 +1,5 @@
+smithay-clipboard-0.7.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Kirill Chibisov <contact@kchibisov.com>; Elinor Berger <elinor@safaradeg.net>
+Repository: https://github.com/smithay/smithay-clipboard
+Published source revision: 26c2f53f15f6bdc4f41a442d0ae2c2d63bbc617c

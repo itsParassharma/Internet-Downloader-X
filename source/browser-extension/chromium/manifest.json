@@ -1,0 +1,55 @@
+{
+  "manifest_version": 3,
+  "name": "IDX – Internet Downloader X",
+  "version": "0.7.0",
+  "description": "Automatically send downloads to IDX and download direct video, HLS and DASH from floating player panels.",
+  "permissions": [
+    "nativeMessaging",
+    "contextMenus",
+    "activeTab",
+    "storage",
+    "downloads",
+    "webRequest",
+    "cookies"
+  ],
+  "incognito": "not_allowed",
+  "minimum_chrome_version": "109",
+  "options_ui": {
+    "page": "popup.html",
+    "open_in_tab": true
+  },
+  "icons": {
+    "16": "icons/idx-16.png",
+    "32": "icons/idx-32.png",
+    "48": "icons/idx-48.png",
+    "128": "icons/idx-128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "IDX is enabled. Click to disable on this tab.",
+    "default_icon": {
+      "16": "icons/idx-16.png",
+      "32": "icons/idx-32.png"
+    }
+  },
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnG/WgD0rGXfWxXQlFMfVfhgDLqcfhpWFCFk+i9jNoeg5prAv20VFxiDUUv+pVu7fIbzS9yVXl6DSa6bbCO8PYSRLvSzxP+HP78acjgWfNwkPeTrz96dKTNeTZiRlAeACo93NI++1JW3nO/O8ie2komW/S8sWReE0N1L2idPq2/Csr2JzOEfqOvN6Uq63sy7CuxpdxOPQMXe5jvyZ7UFW3cb8PSvRSVzIzhBtrn6aXzntTf8hhfpJJyEz+mjd89hrVVhlD/eo8R3Pw49pE2iebpBnb2Fw+d7j7QA3hiZeKh1J0mBIjE6Tt83DTmMqhShn2ufHbO+QaDm5p9V0zeL8QwIDAQAB",
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "media-content.js"
+      ],
+      "all_frames": true,
+      "run_at": "document_start"
+    }
+  ]
+}

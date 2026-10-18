@@ -1,0 +1,5 @@
+version_check-0.9.5
+License expression from published Cargo metadata: MIT/Apache-2.0
+Package authors (not substituted for upstream copyright notices): Sergio Benitez <sb@sergio.bz>
+Repository: https://github.com/SergioBenitez/version_check
+Published source revision: d77ef9f27cc336719b2d839d09ee6635dd22f758

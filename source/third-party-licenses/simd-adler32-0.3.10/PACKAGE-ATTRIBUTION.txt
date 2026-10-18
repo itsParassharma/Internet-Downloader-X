@@ -1,0 +1,5 @@
+simd-adler32-0.3.10
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Marvin Countryman <me@maar.vin>
+Repository: https://github.com/mcountryman/simd-adler32
+Published source revision: d93164f98d7fe2daf883f2e1bec82778dd26199a

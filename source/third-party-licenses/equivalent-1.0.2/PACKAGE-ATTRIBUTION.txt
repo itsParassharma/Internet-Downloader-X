@@ -1,0 +1,5 @@
+equivalent-1.0.2
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/indexmap-rs/equivalent
+Published source revision: 44cdd44f8b8ebb5f9ae096c7550a5e74ffb7d6ae

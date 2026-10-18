@@ -1,0 +1,25 @@
+enum-map-2.7.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Kamila Borowska <kamila@borowska.pw>
+Repository: https://codeberg.org/xfix/enum-map
+Published source revision: c788a9c4bd0431308d889942719f7a38761d9884
+
+Copyright statements recovered verbatim from package text/source headers:
+// SPDX-FileCopyrightText: 2017 - 2021 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2017 - 2022 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2017 - 2023 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2018 - 2022 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2019 Riey <creeper844@gmail.com>
+// SPDX-FileCopyrightText: 2020 Amanieu d'Antras <amanieu@gmail.com>
+// SPDX-FileCopyrightText: 2021 Alex Sayers <alex@asayers.com>
+// SPDX-FileCopyrightText: 2021 Bruno Corrêa Zimmermann <brunoczim@gmail.com>
+// SPDX-FileCopyrightText: 2021 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2021 micycle
+// SPDX-FileCopyrightText: 2022 Cass Fridkin <cass@cloudflare.com>
+// SPDX-FileCopyrightText: 2022 Mateusz Kowalczyk <fuuzetsu@fuuzetsu.co.uk>
+// SPDX-FileCopyrightText: 2022 philipp <descpl@yahoo.de>
+// SPDX-FileCopyrightText: 2023 Nicolas Carranza <nicarran@yandex.com>
+Copyright (c) <year> <copyright holders>
+SPDX-FileCopyrightText: 2017 - 2023 Kamila Borowska <kamila@borowska.pw>
+SPDX-FileCopyrightText: 2018 - 2023 Kamila Borowska <kamila@borowska.pw>
+SPDX-FileCopyrightText: 2021 Alex Sayers <alex@asayers.com>

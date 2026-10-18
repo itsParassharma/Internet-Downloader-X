@@ -1,0 +1,5 @@
+zbus_names-4.3.4
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Zeeshan Ali Khan <zeeshanak@gnome.org>
+Repository: https://github.com/z-galaxy/zbus/
+Published source revision: 39483146d1e625a0a6da297b3aa1749ddf4bfe2a

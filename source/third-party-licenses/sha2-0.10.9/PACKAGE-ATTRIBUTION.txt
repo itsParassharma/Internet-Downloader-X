@@ -1,0 +1,5 @@
+sha2-0.10.9
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): RustCrypto Developers
+Repository: https://github.com/RustCrypto/hashes
+Published source revision: 82c36a428f8d6f05f3bfccdedb243e9d1f85359d

@@ -1,0 +1,5 @@
+flate2-1.1.10
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>; Josh Triplett <josh@joshtriplett.org>
+Repository: https://github.com/rust-lang/flate2-rs
+Published source revision: ed93d4fc60eaf876c6aded741bf992d524551930

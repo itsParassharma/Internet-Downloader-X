@@ -1,0 +1,4 @@
+inout-0.1.4
+License: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/utils
+Published source revision: 784ff3c76c907f80363ada7dc69c1d5831d4789f

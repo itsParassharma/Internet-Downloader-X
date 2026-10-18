@@ -1,0 +1,44 @@
+name: Windows checks
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: windows-latest
+    timeout-minutes: 45
+    defaults:
+      run:
+        working-directory: source
+        shell: pwsh
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: false
+      - name: Select current stable Rust
+        run: |
+          rustup update stable --no-self-update
+          rustup default stable
+          rustup component add rustfmt
+      - name: Check formatting and browser identity
+        run: |
+          cargo fmt --all -- --check
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          python tools/sync_extension_identity.py --check
+      - name: Verify the pinned media helper
+        run: python tools/fetch_media_tools.py
+      - name: Run Rust regression tests
+        run: cargo test --locked
+      - name: Run extension checks
+        run: |
+          foreach ($suite in @('automatic-capture', 'native-protocol', 'media', 'media-background', 'browser-session')) {
+            node "browser-extension/tests/$suite.test.cjs"
+            if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
+          }
+      - name: Build Windows release executables
+        run: cargo build --release --locked --bins

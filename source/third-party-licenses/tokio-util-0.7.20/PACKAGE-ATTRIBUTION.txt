@@ -1,0 +1,5 @@
+tokio-util-0.7.20
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Tokio Contributors <team@tokio.rs>
+Repository: https://github.com/tokio-rs/tokio
+Published source revision: 5ec9e6b8d5a7111fe9cd35a637bd8b4e4eb1e483

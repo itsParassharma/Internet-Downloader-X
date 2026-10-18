@@ -1,0 +1,5 @@
+owned_ttf_parser-0.25.1
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Butler <alexheretic@gmail.com>
+Repository: https://github.com/alexheretic/owned-ttf-parser
+Published source revision: 3abee95150b4c32f16ffbaf1bb922a68b465d48b

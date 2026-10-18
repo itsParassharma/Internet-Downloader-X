@@ -1,0 +1,5 @@
+slab-0.4.12
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Carl Lerche <me@carllerche.com>
+Repository: https://github.com/tokio-rs/slab
+Published source revision: a1e4346070a48c936d808de75191dee5d01e433c

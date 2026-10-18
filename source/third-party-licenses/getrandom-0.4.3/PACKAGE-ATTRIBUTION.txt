@@ -1,0 +1,5 @@
+getrandom-0.4.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rand Project Developers
+Repository: https://github.com/rust-random/getrandom
+Published source revision: 5e7cd5733536844a9856dc7259bd4696bbe5e3ae

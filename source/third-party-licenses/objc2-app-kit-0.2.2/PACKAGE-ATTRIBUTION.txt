@@ -1,0 +1,5 @@
+objc2-app-kit-0.2.2
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/madsmtm/objc2
+Published source revision: e282618be4c3a3b9542957e0c8540e9588472ce8

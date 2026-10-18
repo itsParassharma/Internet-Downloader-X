@@ -1,0 +1,5 @@
+calloop-0.14.5
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Elinor Berger <elinor@safaradeg.net>
+Repository: https://github.com/Smithay/calloop
+Published source revision: c0d9940eb4764e6a244f0ee46bc99e988f9d9b7c

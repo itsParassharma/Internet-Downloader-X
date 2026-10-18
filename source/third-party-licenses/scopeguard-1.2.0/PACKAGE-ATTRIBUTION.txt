@@ -1,0 +1,5 @@
+scopeguard-1.2.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): bluss
+Repository: https://github.com/bluss/scopeguard
+Published source revision: bb988222848d39b0b9037b29da3a3a1eb05ebf4b

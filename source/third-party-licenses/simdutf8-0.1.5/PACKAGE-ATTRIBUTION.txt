@@ -1,0 +1,5 @@
+simdutf8-0.1.5
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Hans Kratz <hans@appfour.com>
+Repository: https://github.com/rusticstuff/simdutf8
+Published source revision: 87ee8d9d20b849eae1974a82b248ee6fe7491bcc

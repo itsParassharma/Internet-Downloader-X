@@ -1,0 +1,1 @@
+Original IDX X-and-download-arrow artwork, copyright (c) 2026 IDX Contributors. MIT licensed; see ../LICENSE. Editable source: idx.svg. It is distinct from the original application resources in idm/.

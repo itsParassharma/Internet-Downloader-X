@@ -1,0 +1,5 @@
+rustc-hash-2.1.3
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): The Rust Project Developers
+Repository: https://github.com/rust-lang/rustc-hash
+Published source revision: c13e7ccca705e6255387a2ebc6dca142d6881621

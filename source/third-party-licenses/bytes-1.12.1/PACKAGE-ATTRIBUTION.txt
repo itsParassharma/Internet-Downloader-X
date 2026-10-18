@@ -1,0 +1,5 @@
+bytes-1.12.1
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Carl Lerche <me@carllerche.com>; Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/tokio-rs/bytes
+Published source revision: 76c0fbb54ed4336caf9d2311658a2f4a5627c21d

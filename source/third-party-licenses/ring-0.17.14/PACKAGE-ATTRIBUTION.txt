@@ -1,0 +1,5 @@
+ring-0.17.14
+License expression from published Cargo metadata: Apache-2.0 AND ISC
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/briansmith/ring
+Published source revision: 2723abbca9e83347d82b056d5b239c6604f786df

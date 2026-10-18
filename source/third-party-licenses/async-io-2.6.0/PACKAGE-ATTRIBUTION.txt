@@ -1,0 +1,5 @@
+async-io-2.6.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>
+Repository: https://github.com/smol-rs/async-io
+Published source revision: 576b470ca3cadefdec8b169279df23c9a0a63495

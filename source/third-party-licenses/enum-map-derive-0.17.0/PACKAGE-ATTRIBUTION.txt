@@ -1,0 +1,16 @@
+enum-map-derive-0.17.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Kamila Borowska <kamila@borowska.pw>
+Repository: https://codeberg.org/xfix/enum-map
+Published source revision: 2026968c30ad14d268f3d70c618a704e22a3b980
+
+Copyright statements recovered verbatim from package text/source headers:
+// SPDX-FileCopyrightText: 2017 - 2022 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2018 hcpl <hcpl.prog@gmail.com>
+// SPDX-FileCopyrightText: 2019 mara <vmedea@protonmail.com>
+// SPDX-FileCopyrightText: 2021 - 2022 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2021 - 2023 Kamila Borowska <kamila@borowska.pw>
+// SPDX-FileCopyrightText: 2021 Bruno Corrêa Zimmermann <brunoczim@gmail.com>
+// SPDX-FileCopyrightText: 2021 Dietrich <dietrich@teilgedanken.de>
+Copyright (c) <year> <copyright holders>
+SPDX-FileCopyrightText: 2022 Kamila Borowska <kamila@borowska.pw>

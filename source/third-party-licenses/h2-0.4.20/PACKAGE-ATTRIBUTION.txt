@@ -1,0 +1,5 @@
+h2-0.4.20
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Carl Lerche <me@carllerche.com>; Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/hyperium/h2
+Published source revision: b0e890842ac16d3c76836fd4fcc06421acb15fa7

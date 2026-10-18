@@ -1,0 +1,5 @@
+downcast-rs-1.2.1
+License expression from published Cargo metadata: MIT/Apache-2.0
+Package authors (not substituted for upstream copyright notices): Ashish Myles <marcianx@gmail.com>; Runji Wang <wangrunji0408@163.com>
+Repository: https://github.com/marcianx/downcast-rs
+Published source revision: c4c48bad50482df2544115ba971acfd5916e6140

@@ -1,0 +1,5 @@
+serde_urlencoded-0.7.1
+License expression from published Cargo metadata: MIT/Apache-2.0
+Package authors (not substituted for upstream copyright notices): Anthony Ramine <n.oxyde@gmail.com>
+Repository: https://github.com/nox/serde_urlencoded
+Published source revision: d8bc15d16adf6b3ba6ae46d199d7109cf5079efa

@@ -1,0 +1,5 @@
+libredox-0.1.25
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): 4lDO2 <4lDO2@protonmail.com>
+Repository: https://gitlab.redox-os.org/redox-os/libredox.git
+Published source revision: 9a9fc664b027a93a2fa5b27167858956c7566d2d

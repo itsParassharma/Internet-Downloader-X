@@ -1,0 +1,5 @@
+webbrowser-1.2.4
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Amod Malviya @amodm
+Repository: https://github.com/amodm/webbrowser-rs
+Published source revision: 13fdff33e967dd160581ce8ac45a8c3588e8eb59

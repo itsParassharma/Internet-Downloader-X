@@ -1,0 +1,5 @@
+rand-0.10.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rand Project Developers; The Rust Project Developers
+Repository: https://github.com/rust-random/rand
+Published source revision: 9e7d328f60d6372ae22927f37d1a816fc980f25e

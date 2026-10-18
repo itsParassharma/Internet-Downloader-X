@@ -1,0 +1,5 @@
+xkeysym-0.2.1
+License expression from published Cargo metadata: MIT OR Apache-2.0 OR Zlib
+Package authors (not substituted for upstream copyright notices): John Nunley <jtnunley01@gmail.com>
+Repository: https://github.com/notgull/xkeysym
+Published source revision: 77596eb8319f8d7a97db6477f307a94a0905c439

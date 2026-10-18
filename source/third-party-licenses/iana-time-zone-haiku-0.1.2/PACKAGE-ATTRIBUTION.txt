@@ -1,0 +1,5 @@
+iana-time-zone-haiku-0.1.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): René Kijewski <crates.io@k6i.de>
+Repository: https://github.com/strawlab/iana-time-zone
+Published source revision: 668ef37a89162b7d24fb1cf8ee90054a8a2f3ad9

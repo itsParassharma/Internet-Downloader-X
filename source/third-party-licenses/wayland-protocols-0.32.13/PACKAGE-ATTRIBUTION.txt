@@ -1,0 +1,5 @@
+wayland-protocols-0.32.13
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Elinor Berger <elinor@safaradeg.net>
+Repository: https://github.com/smithay/wayland-rs
+Published source revision: 661cf141f5de4ec83559125b3d8bb1c79f25116b

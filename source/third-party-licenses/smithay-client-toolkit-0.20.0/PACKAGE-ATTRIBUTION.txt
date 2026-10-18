@@ -1,0 +1,5 @@
+smithay-client-toolkit-0.20.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Elinor Berger <elinor@safaradeg.net>; i509VCB <mail@i509.me>; Ashley Wulber <ashley@system76.com>
+Repository: https://github.com/smithay/client-toolkit
+Published source revision: 8a0b33616145b38c7f989f8e468d57e69a2a6748

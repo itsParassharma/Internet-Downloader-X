@@ -1,0 +1,5 @@
+xkbcommon-dl-0.4.2
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Francesca Frangipane <francesca@comfysoft.net>
+Repository: https://github.com/rust-windowing/xkbcommon-dl
+Published source revision: 631fcaac6bb5607585527d8e89ddfc26fa8ec285

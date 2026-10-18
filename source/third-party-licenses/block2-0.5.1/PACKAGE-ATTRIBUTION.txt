@@ -1,0 +1,5 @@
+block2-0.5.1
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Steven Sheldon; Mads Marquart <mads@marquart.dk>
+Repository: https://github.com/madsmtm/objc2
+Published source revision: 4fc083f1c6d6784577e38b0ee8dbd344481e2fd2

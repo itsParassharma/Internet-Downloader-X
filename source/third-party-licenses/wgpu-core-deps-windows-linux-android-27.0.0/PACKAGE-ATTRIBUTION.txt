@@ -1,0 +1,5 @@
+wgpu-core-deps-windows-linux-android-27.0.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): gfx-rs developers
+Repository: https://github.com/gfx-rs/wgpu
+Published source revision: 482a983e1006333dc249bd1a08b04db3e4a48230

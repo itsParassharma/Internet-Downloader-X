@@ -1,0 +1,5 @@
+ndk-context-0.1.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rust Windowing contributors
+Repository: https://github.com/rust-windowing/android-ndk-rs
+Published source revision: 10f2ba388fca20f7349996ebae26ccda7a6fda5c

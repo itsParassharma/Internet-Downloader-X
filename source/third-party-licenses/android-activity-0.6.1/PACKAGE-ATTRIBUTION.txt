@@ -1,0 +1,5 @@
+android-activity-0.6.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rust-mobile/android-activity
+Published source revision: b4ddf059b77be12cdb955d394e65a92e7568d936

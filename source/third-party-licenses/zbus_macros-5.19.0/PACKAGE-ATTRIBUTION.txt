@@ -1,0 +1,5 @@
+zbus_macros-5.19.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Marc-André Lureau <marcandre.lureau@redhat.com>; Zeeshan Ali Khan <zeeshanak@gnome.org>
+Repository: https://github.com/z-galaxy/zbus/
+Published source revision: 7518d73db4dbf830ec1c9c43865bf8aeae9a8ffd

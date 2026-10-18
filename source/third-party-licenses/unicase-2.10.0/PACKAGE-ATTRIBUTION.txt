@@ -1,0 +1,5 @@
+unicase-2.10.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/seanmonstar/unicase
+Published source revision: 1e739ff80fe2297c52efda9d05f0bea1038a7eb9

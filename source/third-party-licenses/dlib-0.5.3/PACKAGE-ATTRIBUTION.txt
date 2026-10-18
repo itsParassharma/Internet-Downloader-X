@@ -1,0 +1,5 @@
+dlib-0.5.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Elinor Berger <elinor@safaradeg.net>
+Repository: https://github.com/elinorbgr/dlib
+Published source revision: ab1a79fd8b92a331a5f123be9e1dcbbcbd48dbf8

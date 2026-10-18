@@ -1,0 +1,5 @@
+crunchy-0.2.4
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Eira Fransham <jackefransham@gmail.com>
+Repository: https://github.com/eira-fransham/crunchy
+Published source revision: ba7b86cea6ba89ccfc72ccb24cc4a4ac6d9c6272

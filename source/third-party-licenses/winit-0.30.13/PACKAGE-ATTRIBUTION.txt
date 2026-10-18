@@ -1,0 +1,5 @@
+winit-0.30.13
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): The winit contributors; Pierre Krieger <pierre.krieger1708@gmail.com>
+Repository: https://github.com/rust-windowing/winit
+Published source revision: e9809ef54b18499bb4f2cac945719ecc2a61061b

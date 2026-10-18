@@ -1,0 +1,5 @@
+stable_deref_trait-1.2.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Robert Grosse <n210241048576@gmail.com>
+Repository: https://github.com/storyyeller/stable_deref_trait
+Published source revision: 30002b4228f7cdee309217b6bf6eee099dda0b00

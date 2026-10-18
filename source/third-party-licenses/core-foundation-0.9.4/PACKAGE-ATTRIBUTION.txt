@@ -1,0 +1,5 @@
+core-foundation-0.9.4
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Servo Project Developers
+Repository: https://github.com/servo/core-foundation-rs
+Published source revision: 795398aa3775bbdaf03419fcd2cc0dad7ebbc4dc

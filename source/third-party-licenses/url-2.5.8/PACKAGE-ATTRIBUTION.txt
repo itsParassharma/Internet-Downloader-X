@@ -1,0 +1,5 @@
+url-2.5.8
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The rust-url developers
+Repository: https://github.com/servo/rust-url
+Published source revision: d6ea13c5f8e7e6e627f6390161b3e185bda5e5ce

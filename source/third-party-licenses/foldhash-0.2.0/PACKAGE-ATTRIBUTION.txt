@@ -1,0 +1,5 @@
+foldhash-0.2.0
+License expression from published Cargo metadata: Zlib
+Package authors (not substituted for upstream copyright notices): Orson Peters <orsonpeters@gmail.com>
+Repository: https://github.com/orlp/foldhash
+Published source revision: 8f878c636fda9c9e93384824ea45e06d03f009f5

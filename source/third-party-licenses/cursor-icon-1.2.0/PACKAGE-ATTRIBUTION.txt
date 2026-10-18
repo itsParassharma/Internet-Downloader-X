@@ -1,0 +1,5 @@
+cursor-icon-1.2.0
+License expression from published Cargo metadata: MIT OR Apache-2.0 OR Zlib
+Package authors (not substituted for upstream copyright notices): Kirill Chibisov <contact@kchibisov.com>
+Repository: https://github.com/rust-windowing/cursor-icon
+Published source revision: 766287581de8b4895d018c2d15ada77627a954f0

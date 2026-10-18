@@ -1,0 +1,5 @@
+xml-rs-0.8.29
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Vladimir Matveev <vmatveev@citrine.cc>
+Repository: https://github.com/kornelski/xml-rs
+Published source revision: 33cdf417b112c0ebd1f0858b2a67464b3712a4c6

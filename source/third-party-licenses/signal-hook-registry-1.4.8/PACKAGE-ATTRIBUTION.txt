@@ -1,0 +1,5 @@
+signal-hook-registry-1.4.8
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Michal 'vorner' Vaner <vorner@vorner.cz>; Masaki Hara <ackie.h.gmai@gmail.com>
+Repository: https://github.com/vorner/signal-hook
+Published source revision: 4d5fd6a6663be38e70774e4ac733d65916c70951

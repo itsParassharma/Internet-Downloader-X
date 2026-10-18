@@ -1,0 +1,5 @@
+parking-2.2.1
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>; The Rust Project Developers
+Repository: https://github.com/smol-rs/parking
+Published source revision: 0ece32dbfd6cd1bc1510ede6ed56acb772edf83f

@@ -1,0 +1,5 @@
+combine-4.6.8
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Markus Westerlind <marwes91@gmail.com>
+Repository: https://github.com/Marwes/combine
+Published source revision: 678a1b8c9311c4323d7289d7caba8ee9b607100e

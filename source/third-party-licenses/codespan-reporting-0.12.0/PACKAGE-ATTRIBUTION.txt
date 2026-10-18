@@ -1,0 +1,5 @@
+codespan-reporting-0.12.0
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Brendan Zabarauskas <bjzaba@yahoo.com.au>
+Repository: https://github.com/brendanzab/codespan
+Published source revision: 3d3a03a8fcc30cc10b783b16c62029d5c232059b

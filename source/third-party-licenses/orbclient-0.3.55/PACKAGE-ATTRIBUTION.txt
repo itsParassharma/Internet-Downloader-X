@@ -1,0 +1,5 @@
+orbclient-0.3.55
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Jeremy Soller <jackpot51@gmail.com>
+Repository: https://gitlab.redox-os.org/redox-os/orbclient
+Published source revision: 5e16bc813e6c53fe40a6145975b2566fb0e890b6

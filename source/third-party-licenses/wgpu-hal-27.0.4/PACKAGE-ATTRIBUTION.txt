@@ -1,0 +1,5 @@
+wgpu-hal-27.0.4
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): gfx-rs developers
+Repository: https://github.com/gfx-rs/wgpu
+Published source revision: af91efa93da2af9366b252ed7b9a089175f4874e

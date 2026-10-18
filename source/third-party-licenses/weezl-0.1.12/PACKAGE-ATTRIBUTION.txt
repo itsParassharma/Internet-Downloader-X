@@ -1,0 +1,5 @@
+weezl-0.1.12
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The image-rs Developers
+Repository: https://github.com/image-rs/weezl
+Published source revision: c75ea1f6d935cc56bad8674396b7cb0dd7275f99

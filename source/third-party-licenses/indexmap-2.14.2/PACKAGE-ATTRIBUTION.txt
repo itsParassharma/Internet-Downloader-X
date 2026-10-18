@@ -1,0 +1,5 @@
+indexmap-2.14.2
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/indexmap-rs/indexmap
+Published source revision: 41a870887c4c77adf665886e63df08f406bfe37a

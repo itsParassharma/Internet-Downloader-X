@@ -1,0 +1,5 @@
+calloop-wayland-source-0.3.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Kirill Chibisov <contact@kchibisov.com>
+Repository: https://github.com/smithay/calloop-wayland-source
+Published source revision: 47ce61c2629c102bb37e893640037610e29dfd38

@@ -1,0 +1,5 @@
+autocfg-1.5.1
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Josh Stone <cuviper@gmail.com>
+Repository: https://github.com/cuviper/autocfg
+Published source revision: 2799b09c24e6632f8e653c5cd8fc303e85a906ba

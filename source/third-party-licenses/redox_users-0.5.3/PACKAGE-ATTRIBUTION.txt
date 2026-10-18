@@ -1,0 +1,5 @@
+redox_users-0.5.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Jose Narvaez <goyox86@gmail.com>; Wesley Hershberger <mggmugginsmc@gmail.com>
+Repository: https://gitlab.redox-os.org/redox-os/users
+Published source revision: de8f9f9c87411871903b778519c8b264afe1df5b

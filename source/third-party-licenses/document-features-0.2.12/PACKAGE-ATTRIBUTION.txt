@@ -1,0 +1,5 @@
+document-features-0.2.12
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Slint Developers <info@slint.dev>
+Repository: https://github.com/slint-ui/document-features
+Published source revision: 721e708012254b81760bd2befdae0970e7a2615e

@@ -1,0 +1,5 @@
+synstructure-0.14.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Nika Layzell <nika@thelayzells.com>
+Repository: https://github.com/mystor/synstructure
+Published source revision: 30cfafe36e42405e717a8e55da042a2835a698d7

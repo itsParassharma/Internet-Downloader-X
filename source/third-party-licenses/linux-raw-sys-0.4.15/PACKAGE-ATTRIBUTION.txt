@@ -1,0 +1,5 @@
+linux-raw-sys-0.4.15
+License expression from published Cargo metadata: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Dan Gohman <dev@sunfishcode.online>
+Repository: https://github.com/sunfishcode/linux-raw-sys
+Published source revision: 77e4a4223b14957ad8fa2958ea411cd4b54314e7

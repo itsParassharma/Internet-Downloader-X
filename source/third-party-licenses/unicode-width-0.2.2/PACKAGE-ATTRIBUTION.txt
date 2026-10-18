@@ -1,0 +1,5 @@
+unicode-width-0.2.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): kwantam <kwantam@gmail.com>; Manish Goregaokar <manishsmail@gmail.com>
+Repository: https://github.com/unicode-rs/unicode-width
+Published source revision: 9d98411769fe13c7c18cab0b3fbbab29ba8350ea

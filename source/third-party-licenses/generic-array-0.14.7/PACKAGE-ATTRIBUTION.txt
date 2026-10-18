@@ -1,0 +1,5 @@
+generic-array-0.14.7
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Bartłomiej Kamiński <fizyk20@gmail.com>; Aaron Trent <novacrazy@gmail.com>
+Repository: https://github.com/fizyk20/generic-array.git
+Published source revision: 1397d2bb40c406901b7827161b73b34b056cbe3a

@@ -1,0 +1,5 @@
+dpi-0.1.2
+License expression from published Cargo metadata: Apache-2.0 AND MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rust-windowing/winit
+Published source revision: 587ade844dfb0eada3696ba1cb263c66eea80581

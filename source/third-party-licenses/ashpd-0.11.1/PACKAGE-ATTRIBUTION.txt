@@ -1,0 +1,5 @@
+ashpd-0.11.1
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Bilal Elmoussaoui <bil.elmoussaoui@gmail.com>
+Repository: https://github.com/bilelmoussaoui/ashpd
+Published source revision: 5784b882111f205887187a68c142e766096da4de

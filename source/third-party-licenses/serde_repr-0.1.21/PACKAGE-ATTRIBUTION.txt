@@ -1,0 +1,5 @@
+serde_repr-0.1.21
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/serde-repr
+Published source revision: 205ce23cf7c55981be8c1e02ac87695c57a13ee0

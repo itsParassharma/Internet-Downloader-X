@@ -1,0 +1,5 @@
+mime_guess2-2.3.1
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Austin Bonander <austin.bonander@gmail.com>
+Repository: https://github.com/ttys3/mime_guess2
+Published source revision: bdf9851ae06d50d514a3761febc09076db059818

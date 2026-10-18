@@ -1,0 +1,5 @@
+static_assertions-1.1.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Nikolai Vazquez
+Repository: https://github.com/nvzqz/static-assertions-rs
+Published source revision: 18bc65a094d890fe1faa5d3ccb70f12b89eabf56

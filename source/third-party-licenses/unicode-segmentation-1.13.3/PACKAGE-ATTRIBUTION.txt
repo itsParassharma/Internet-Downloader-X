@@ -1,0 +1,5 @@
+unicode-segmentation-1.13.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): kwantam <kwantam@gmail.com>; Manish Goregaokar <manishsmail@gmail.com>
+Repository: https://github.com/unicode-rs/unicode-segmentation
+Published source revision: 66a032fd8d667bc47ac5b640b151dff3f5356d07

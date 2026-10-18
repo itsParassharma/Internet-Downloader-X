@@ -1,0 +1,5 @@
+event-listener-5.4.2
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>; John Nunley <dev@notgull.net>
+Repository: https://github.com/smol-rs/event-listener
+Published source revision: 77004ac77dcef7884bf71a99c276a50f83a7fa4e

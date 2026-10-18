@@ -1,0 +1,27 @@
+SUPPLIED APPLICATION IMAGE ASSETS
+
+These images were extracted from the user-supplied Internet Download Manager
+6.43 build 15 files at the user's explicit direction. The user stated that they
+have permission to modify and redistribute the supplied work. These are original
+source-application images, not newly drawn IDX artwork.
+
+Source application: IDMan.exe
+SHA-256: e3fc655a335e17a6fdd09a9b315291d0c8863180f0d801e5dd7433c9e56afbd8
+Toolbar skin: Toolbar/3d_style_3.tbi and its 3d_large_3 bitmap files
+Source product attribution: Internet Download Manager / Tonec
+
+asset-map.json records original file or PE resource IDs, language, offsets,
+dimensions, and hashes. Raw RGBA files preserve the original image channels,
+including alpha from 32-bit BMP resources. PNGs are lossless decoded previews.
+The extracted main-icon preview in this directory records RT_GROUP_ICON 128.
+It is retained as reference material. The released application's main icon,
+installer icon and browser logo use separately created IDX artwork.
+
+The classic skin has no separate disabled strip; its disabled appearance is
+derived as grayscale at runtime. The flat alternatives retain the original
+disabled strip, RT_BITMAP 497.
+
+The MIT license supplied with IDX covers the new Rust implementation. Extracted
+source-application artwork retains its provenance; reuse and redistribution rely
+on the user's stated rights rather than the MIT notice alone. No original
+application code or licensing implementation is included in these image files.

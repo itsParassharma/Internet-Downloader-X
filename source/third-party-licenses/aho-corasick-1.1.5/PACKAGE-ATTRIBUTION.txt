@@ -1,0 +1,5 @@
+aho-corasick-1.1.5
+License expression from published Cargo metadata: Unlicense OR MIT
+Package authors (not substituted for upstream copyright notices): Andrew Gallant <jamslam@gmail.com>
+Repository: https://github.com/BurntSushi/aho-corasick
+Published source revision: 5178060ce73d91938f8582d0360e3be031380440

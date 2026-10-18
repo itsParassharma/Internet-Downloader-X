@@ -1,0 +1,5 @@
+miniz_oxide-0.9.1
+License expression from published Cargo metadata: MIT OR Zlib OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Frommi <daniil.liferenko@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>; Rich Geldreich richgel99@gmail.com
+Repository: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+Published source revision: 4e582392df3a739d2b0dfd2c537dc33e8942be38

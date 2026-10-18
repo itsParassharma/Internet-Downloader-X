@@ -1,0 +1,5 @@
+ron-0.11.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Christopher Durham <cad97@cad97.com>; Dzmitry Malyshau <kvarkus@gmail.com>; Thomas Schaller <torkleyy@gmail.com>; Juniper Tyree <juniper.tyree@helsinki.fi>
+Repository: https://github.com/ron-rs/ron
+Published source revision: cdd9fccd76e4c2f515706453f7c0e4351b8f3784

@@ -1,0 +1,5 @@
+num_enum_derive-0.7.6
+License expression from published Cargo metadata: BSD-3-Clause OR MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Daniel Wagner-Hall <dawagner@gmail.com>; Daniel Henry-Mantilla <daniel.henry.mantilla@gmail.com>; Vincent Esche <regexident@gmail.com>
+Repository: https://github.com/illicitonion/num_enum
+Published source revision: f11d81c6cb644489f8a0fc24f9eea9a53d66f92e

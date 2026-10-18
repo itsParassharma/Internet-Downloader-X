@@ -1,0 +1,5 @@
+tokio-rustls-0.26.6
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rustls/tokio-rustls
+Published source revision: 8aebb7c9556ea8024c1b974b84a4a6f2e306889a

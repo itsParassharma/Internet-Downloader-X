@@ -1,0 +1,5 @@
+iana-time-zone-0.1.65
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Andrew Straw <strawman@astraw.com>; René Kijewski <rene.kijewski@fu-berlin.de>; Ryan Lopopolo <rjl@hyperbo.la>
+Repository: https://github.com/strawlab/iana-time-zone
+Published source revision: 3726968181ae67d95c8de2f750a95b9c703ae4c8

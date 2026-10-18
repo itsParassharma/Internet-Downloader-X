@@ -1,0 +1,5 @@
+option-ext-0.2.0
+License expression from published Cargo metadata: MPL-2.0
+Package authors (not substituted for upstream copyright notices): Simon Ochsenreither <simon@ochsenreither.de>
+Repository: https://github.com/soc/option-ext.git
+Published source revision: 272f22fc9ea1ac6b08f01704af52c4ac338df4e2

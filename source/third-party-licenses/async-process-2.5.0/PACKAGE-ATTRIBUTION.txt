@@ -1,0 +1,5 @@
+async-process-2.5.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>
+Repository: https://github.com/smol-rs/async-process
+Published source revision: 81112a911898d607d176d37b85f56a1da0061455

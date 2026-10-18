@@ -1,0 +1,5 @@
+semver-1.0.28
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/semver
+Published source revision: 7625c7aa3f0e8ba21e099d1765bcebcb72aa8816

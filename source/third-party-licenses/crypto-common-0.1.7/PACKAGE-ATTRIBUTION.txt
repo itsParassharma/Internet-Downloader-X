@@ -1,0 +1,5 @@
+crypto-common-0.1.7
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): RustCrypto Developers
+Repository: https://github.com/RustCrypto/traits
+Published source revision: 66a997ccf5776ce873da5a48e2885a9908e940f6

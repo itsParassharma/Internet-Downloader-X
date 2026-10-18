@@ -1,0 +1,5 @@
+pin-project-lite-0.2.17
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/taiki-e/pin-project-lite
+Published source revision: 3bdf763446aa78f90e3bdac1ef583e014832ab4c

@@ -1,0 +1,4 @@
+cipher-0.4.4
+License: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/traits
+Published source revision: 0af93f6076a76757c65cb2ef6f6abd9756440478

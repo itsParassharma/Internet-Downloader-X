@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-15",
+  "internal_functions_recovered": 18979,
+  "individual_C_pseudocode_files": 18979,
+  "all_reference_files_present_and_crc_valid": true,
+  "decompilation_failures": 0,
+  "all_18979_functions_implemented_in_rust": false,
+  "individual_function_mapping": "Not completed; see FEATURE-PARITY.md for the implemented independent feature set.",
+  "reference_archive_sha256": "b4c6f95e03f4bab6f341df6e6250dbc9d4411a295e76f2c160908f677acaaf31",
+  "original_3d_toolbar_pixel_verification": [
+    {
+      "file": "3d_large_3.bmp",
+      "source_sha256": "9b6dc7965adc42116ecb2673e626dd9a6718c18ee9af7bec257dae7c4349ce99",
+      "decoded_rgba_matches_exactly": true
+    },
+    {
+      "file": "3d_largeHot_3.bmp",
+      "source_sha256": "2c07b067a6b06c7d87d408e16f7047615b098db2328515e92166fdd6422e7099",
+      "decoded_rgba_matches_exactly": true
+    }
+  ],
+  "asset_hash_checks": [
+    {
+      "asset": "toolbar_normal",
+      "sha256": "d1bc02b7b6ff93ee164ef7a050dcdb2032e56208711162c2472060688d117aba",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "toolbar_hot",
+      "sha256": "071b1fdad25bba1a6550bec0f7250ca781674a6a967db74c745840e61bfda364",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "toolbar_hdpi",
+      "sha256": "bc5567e3c7ea1fd89d72c4059e332c7f421f6476a4025a38f8c6c447391542dc",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "toolbar_hdpi_hot",
+      "sha256": "be95ae459577f342522fa6552cd36233291446bb5c16cdbac4ec208c19bd016a",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "toolbar_flat_normal",
+      "sha256": "13295ef995991681cb9fb02910b818a537550f2864e7518be0a5296f6c555bcb",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "toolbar_flat_hot",
+      "sha256": "9d6c349c19f9ebed6f8cd58947fda62cf2afbaa097e0ade3bae1c28785c11e91",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "toolbar_flat_disabled",
+      "sha256": "6d5e6fc207e470ae3dc0a79b08d4fc1e9c1df6e9d1c7af0764b2ac5cbc48809e",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_all",
+      "sha256": "6dd478a7d93c16bbbca97ed5c91627edfefe24ce4d823cd8df796a7f9a48b9d1",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_unfinished",
+      "sha256": "4749d401668892445b99768ecc1271e5311e002fa385c108bca90766212e332c",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_finished",
+      "sha256": "64fc7f08db99e115357da9461198a1c81eaf1ca9bd2172947b0ae2193a3547c9",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_compressed",
+      "sha256": "7a7de2a43cc9937d316a079ef25d7905fe81a19fa122c9fc6df4758fcbd9ad1a",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_documents",
+      "sha256": "202b461394f7910f477086fe89eacd88a5c1bed4392784c612bdab1c12cd8fea",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_music",
+      "sha256": "a47ccd4a7c1b3fa2f4e20cb83230bbc4d817af60ec99a67b441116a8c692cef8",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_programs",
+      "sha256": "370800f2671eb7d223a70e65ce867efc6d6325f191d60a7008c7f9a1966f48e2",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_video",
+      "sha256": "aa1edc323c00ccb9203dae578f8c4787f8749439a737bd137aeae34a49aa4fff",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_other",
+      "sha256": "202b461394f7910f477086fe89eacd88a5c1bed4392784c612bdab1c12cd8fea",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_queues",
+      "sha256": "243b1d58a13e4cdf22c933fb2ae9143e36988b6e402904b7c7c9e6200378df42",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "sidebar_grabber",
+      "sha256": "970a63dfc55eb37f02309842f0257c70254022d2b72dd6b40298009886c43b13",
+      "matches_extraction_record": true
+    },
+    {
+      "asset": "app_icon",
+      "sha256": "e9a03f78447bbd6aa66ab3c02c8004df0773058657daf205f1ddd6fea3a81b59",
+      "matches_extraction_record": true
+    }
+  ],
+  "idx_logo_is_distinct_from_original": true,
+  "idx_logo_rgba_sha256": "00b97fc2b1acbcee106ec5c9ce0c50c9066bd7da79601058775256a013be5f3e",
+  "notes": [
+    "The original 12-image strips are retained; the UI displays 11 relevant toolbar actions (Tell a Friend is omitted).",
+    "Original normal and hover 3D pixels are preserved; disabled buttons use a grayscale derivative.",
+    "Original category/sidebar resources are reused. The main icon and extension icon use original IDX artwork.",
+    "A decompiled reference archive is not a complete Rust implementation."
+  ],
+  "native_dialog_resources": {
+    "directly_embedded_unmodified_progress_templates": [
+      103,
+      363,
+      364,
+      365
+    ],
+    "native_runtime_routes": [
+      100,
+      102,
+      103,
+      130,
+      135,
+      139,
+      140,
+      141,
+      143,
+      145,
+      148,
+      185,
+      195,
+      239,
+      240,
+      241,
+      257,
+      259,
+      264,
+      280,
+      286,
+      291,
+      294,
+      306,
+      307,
+      308,
+      310,
+      337,
+      338,
+      363,
+      364,
+      365,
+      506
+    ],
+    "all_extracted_dialogs": 105,
+    "all_extracted_menus": 2,
+    "derived_layouts": 100,
+    "unrouted_derived_layouts": 67,
+    "registration_menu_and_dialog_absent": true,
+    "all_original_dialog_behavior_implemented": false,
+    "manifest": "NATIVE-UI-EXTRACTION.json",
+    "derivation": "NATIVE-UI-DERIVATION.json",
+    "coverage": "NATIVE-UI-COVERAGE.json",
+    "event_handlers": "New Rust code; original executable behavior is not embedded."
+  },
+  "native_main_manual_transfer": {
+    "bytes": 16777216,
+    "connections": 8,
+    "status": "Complete",
+    "expected_and_actual_sha256": "341aacac661ccb210720bedaa9ead5d668fe5ea41a73532fc147c71e34040df1",
+    "entered_through": "Original Add URL 148, Download File Info 130 and IDX More options",
+    "completion_dialog": 286
+  }
+}

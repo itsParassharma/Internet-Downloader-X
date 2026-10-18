@@ -1,0 +1,5 @@
+cc-1.8.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rust-lang/cc-rs
+Published source revision: d0454eee9b9f046c4c3462b59e78145d81cc6b92

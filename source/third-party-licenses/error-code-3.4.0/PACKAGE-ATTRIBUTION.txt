@@ -1,0 +1,5 @@
+error-code-3.4.0
+License expression from published Cargo metadata: BSL-1.0
+Package authors (not substituted for upstream copyright notices): Douman <douman@gmx.se>
+Repository: https://github.com/DoumanAsh/error-code
+Published source revision: e4615e514db3ff64f5f1b328b4865b20a3dcdbc3

@@ -1,0 +1,2694 @@
+IDX – Internet Downloader X: third-party notices
+
+IDX original Rust source is MIT licensed. Dependencies retain their own licenses.
+Selected original IDM UI resources are separate; see assets/RESOURCE-NOTICE.txt.
+This inventory covers all 446 locked external packages, including build-only and non-Windows dependencies.
+Presence in this inventory is not a claim that a package is linked into the Windows executable.
+Bundled license texts preserve upstream content. PACKAGE-ATTRIBUTION.txt records published author/license metadata.
+Missing root license files were recovered from exact published source revisions; PROVENANCE.json records sources and hashes.
+For packages whose published revision declares or links a license without its full text, standard SPDX license texts and the original manifest are included and labelled.
+Rust standard-library copyright/licenses and GNU/LLVM/MinGW runtime notices are in third-party-licenses/rust-and-windows-runtimes.
+Fonts embedded by epaint_default_fonts have their own font licenses and metadata in its directory.
+Windows system DLLs are supplied by Windows and are not redistributed here.
+
+ab_glyph-0.2.32
+  License: Apache-2.0
+  Authors: Alex Butler <alexheretic@gmail.com>
+  Source: https://github.com/alexheretic/ab-glyph
+  License files: third-party-licenses/ab_glyph-0.2.32/LICENSE
+
+ab_glyph_rasterizer-0.1.10
+  License: Apache-2.0
+  Authors: Alex Butler <alexheretic@gmail.com>
+  Source: https://github.com/alexheretic/ab-glyph
+  License files: third-party-licenses/ab_glyph_rasterizer-0.1.10/LICENSE
+
+accesskit-0.21.1
+  License: MIT OR Apache-2.0
+  Authors: The AccessKit contributors
+  Source: https://github.com/AccessKit/accesskit
+  License files: third-party-licenses/accesskit-0.21.1/upstream/LICENSE-APACHE, third-party-licenses/accesskit-0.21.1/upstream/LICENSE-MIT
+
+adler2-2.0.1
+  License: 0BSD OR MIT OR Apache-2.0
+  Authors: Jonas Schievink <jonasschievink@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>
+  Source: https://github.com/oyvindln/adler2
+  License files: third-party-licenses/adler2-2.0.1/LICENSE-0BSD, third-party-licenses/adler2-2.0.1/LICENSE-APACHE, third-party-licenses/adler2-2.0.1/LICENSE-MIT
+
+ahash-0.8.12
+  License: MIT OR Apache-2.0
+  Authors: Tom Kaitchuck <Tom.Kaitchuck@gmail.com>
+  Source: https://github.com/tkaitchuck/ahash
+  License files: third-party-licenses/ahash-0.8.12/LICENSE-APACHE, third-party-licenses/ahash-0.8.12/LICENSE-MIT
+
+aho-corasick-1.1.5
+  License: Unlicense OR MIT
+  Authors: Andrew Gallant <jamslam@gmail.com>
+  Source: https://github.com/BurntSushi/aho-corasick
+  License files: third-party-licenses/aho-corasick-1.1.5/COPYING, third-party-licenses/aho-corasick-1.1.5/LICENSE-MIT, third-party-licenses/aho-corasick-1.1.5/UNLICENSE
+
+android-activity-0.6.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-mobile/android-activity
+  License files: third-party-licenses/android-activity-0.6.1/LICENSE, third-party-licenses/android-activity-0.6.1/LICENSE-APACHE, third-party-licenses/android-activity-0.6.1/LICENSE-MIT
+
+android-properties-0.2.2
+  License: MIT
+  Authors: Mikhail Lappo <mikhail.lappo@esrlabs.com>
+  Source: https://github.com/miklelappo/android-properties
+  License files: third-party-licenses/android-properties-0.2.2/LICENSE
+
+android_system_properties-0.1.6
+  License: MIT OR Apache-2.0
+  Authors: Nicolas Silva <nical@fastmail.com>
+  Source: https://github.com/nical/android_system_properties
+  License files: third-party-licenses/android_system_properties-0.1.6/LICENSE-APACHE, third-party-licenses/android_system_properties-0.1.6/LICENSE-MIT
+
+arboard-3.6.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/1Password/arboard
+  License files: third-party-licenses/arboard-3.6.1/LICENSE-APACHE.txt, third-party-licenses/arboard-3.6.1/LICENSE-MIT.txt
+
+arrayvec-0.7.8
+  License: MIT OR Apache-2.0
+  Authors: bluss
+  Source: https://github.com/bluss/arrayvec
+  License files: third-party-licenses/arrayvec-0.7.8/LICENSE-APACHE, third-party-licenses/arrayvec-0.7.8/LICENSE-MIT
+
+as-raw-xcb-connection-1.0.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/psychon/as-raw-xcb-connection
+  License files: third-party-licenses/as-raw-xcb-connection-1.0.1/LICENSE-APACHE, third-party-licenses/as-raw-xcb-connection-1.0.1/LICENSE-MIT
+
+ashpd-0.11.1
+  License: MIT
+  Authors: Bilal Elmoussaoui <bil.elmoussaoui@gmail.com>
+  Source: https://github.com/bilelmoussaoui/ashpd
+  License files: third-party-licenses/ashpd-0.11.1/LICENSE
+
+async-broadcast-0.7.2
+  License: MIT OR Apache-2.0
+  Authors: Stjepan Glavina <stjepang@gmail.com>; Yoshua Wuyts <yoshuawuyts@gmail.com>; Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/smol-rs/async-broadcast
+  License files: third-party-licenses/async-broadcast-0.7.2/LICENSE-APACHE, third-party-licenses/async-broadcast-0.7.2/LICENSE-MIT
+
+async-channel-2.5.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/async-channel
+  License files: third-party-licenses/async-channel-2.5.0/LICENSE-APACHE, third-party-licenses/async-channel-2.5.0/LICENSE-MIT
+
+async-executor-1.14.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>; John Nunley <dev@notgull.net>
+  Source: https://github.com/smol-rs/async-executor
+  License files: third-party-licenses/async-executor-1.14.0/LICENSE-APACHE, third-party-licenses/async-executor-1.14.0/LICENSE-MIT
+
+async-fs-2.2.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/async-fs
+  License files: third-party-licenses/async-fs-2.2.0/LICENSE-APACHE, third-party-licenses/async-fs-2.2.0/LICENSE-MIT
+
+async-io-2.6.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/async-io
+  License files: third-party-licenses/async-io-2.6.0/LICENSE-APACHE, third-party-licenses/async-io-2.6.0/LICENSE-MIT
+
+async-lock-3.4.2
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/async-lock
+  License files: third-party-licenses/async-lock-3.4.2/LICENSE-APACHE, third-party-licenses/async-lock-3.4.2/LICENSE-MIT
+
+async-net-2.0.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/async-net
+  License files: third-party-licenses/async-net-2.0.0/LICENSE-APACHE, third-party-licenses/async-net-2.0.0/LICENSE-MIT
+
+async-process-2.5.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/async-process
+  License files: third-party-licenses/async-process-2.5.0/LICENSE-APACHE, third-party-licenses/async-process-2.5.0/LICENSE-MIT
+
+async-recursion-1.2.0
+  License: MIT OR Apache-2.0
+  Authors: Robert Usher <266585+dcchut@users.noreply.github.com>
+  Source: https://github.com/dcchut/async-recursion
+  License files: third-party-licenses/async-recursion-1.2.0/LICENSE-APACHE, third-party-licenses/async-recursion-1.2.0/LICENSE-MIT
+
+async-signal-0.2.14
+  License: Apache-2.0 OR MIT
+  Authors: John Nunley <dev@notgull.net>
+  Source: https://github.com/smol-rs/async-signal
+  License files: third-party-licenses/async-signal-0.2.14/LICENSE-APACHE, third-party-licenses/async-signal-0.2.14/LICENSE-MIT
+
+async-task-4.7.1
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/async-task
+  License files: third-party-licenses/async-task-4.7.1/LICENSE-APACHE, third-party-licenses/async-task-4.7.1/LICENSE-MIT
+
+async-trait-0.1.92
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/async-trait
+  License files: third-party-licenses/async-trait-0.1.92/LICENSE-APACHE, third-party-licenses/async-trait-0.1.92/LICENSE-MIT
+
+atomic-waker-1.1.2
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>; Contributors to futures-rs
+  Source: https://github.com/smol-rs/atomic-waker
+  License files: third-party-licenses/atomic-waker-1.1.2/LICENSE-APACHE, third-party-licenses/atomic-waker-1.1.2/LICENSE-MIT, third-party-licenses/atomic-waker-1.1.2/LICENSE-THIRD-PARTY
+
+autocfg-1.5.1
+  License: Apache-2.0 OR MIT
+  Authors: Josh Stone <cuviper@gmail.com>
+  Source: https://github.com/cuviper/autocfg
+  License files: third-party-licenses/autocfg-1.5.1/LICENSE-APACHE, third-party-licenses/autocfg-1.5.1/LICENSE-MIT
+
+base64-0.22.1
+  License: MIT OR Apache-2.0
+  Authors: Marshall Pierce <marshall@mpierce.org>
+  Source: https://github.com/marshallpierce/rust-base64
+  License files: third-party-licenses/base64-0.22.1/LICENSE-APACHE, third-party-licenses/base64-0.22.1/LICENSE-MIT
+
+base64-0.23.1
+  License: MIT OR Apache-2.0
+  Authors: Marshall Pierce <marshall@mpierce.org>
+  Source: https://github.com/marshallpierce/rust-base64
+  License files: third-party-licenses/base64-0.23.1/LICENSE-APACHE, third-party-licenses/base64-0.23.1/LICENSE-MIT
+
+bit-set-0.8.0
+  License: Apache-2.0 OR MIT
+  Authors: Alexis Beingessner <a.beingessner@gmail.com>
+  Source: https://github.com/contain-rs/bit-set
+  License files: third-party-licenses/bit-set-0.8.0/LICENSE-APACHE, third-party-licenses/bit-set-0.8.0/LICENSE-MIT
+
+bit-vec-0.8.0
+  License: Apache-2.0 OR MIT
+  Authors: Alexis Beingessner <a.beingessner@gmail.com>
+  Source: https://github.com/contain-rs/bit-vec
+  License files: third-party-licenses/bit-vec-0.8.0/LICENSE-APACHE, third-party-licenses/bit-vec-0.8.0/LICENSE-MIT
+
+bitflags-1.3.2
+  License: MIT/Apache-2.0
+  Authors: The Rust Project Developers
+  Source: https://github.com/bitflags/bitflags
+  License files: third-party-licenses/bitflags-1.3.2/LICENSE-APACHE, third-party-licenses/bitflags-1.3.2/LICENSE-MIT
+
+bitflags-2.13.2
+  License: MIT OR Apache-2.0
+  Authors: The Rust Project Developers
+  Source: https://github.com/bitflags/bitflags
+  License files: third-party-licenses/bitflags-2.13.2/LICENSE-APACHE, third-party-licenses/bitflags-2.13.2/LICENSE-MIT
+
+block-buffer-0.10.4
+  License: MIT OR Apache-2.0
+  Authors: RustCrypto Developers
+  Source: https://github.com/RustCrypto/utils
+  License files: third-party-licenses/block-buffer-0.10.4/LICENSE-APACHE, third-party-licenses/block-buffer-0.10.4/LICENSE-MIT
+
+block2-0.5.1
+  License: MIT
+  Authors: Steven Sheldon; Mads Marquart <mads@marquart.dk>
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/block2-0.5.1/upstream/LICENSE.txt
+
+block2-0.6.2
+  License: MIT
+  Authors: Mads Marquart <mads@marquart.dk>
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/block2-0.6.2/Cargo.toml.orig, third-party-licenses/block2-0.6.2/LICENSE-MIT-standard-text.txt, third-party-licenses/block2-0.6.2/upstream/LICENSE.md
+
+blocking-1.7.0
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/smol-rs/blocking
+  License files: third-party-licenses/blocking-1.7.0/LICENSE-APACHE, third-party-licenses/blocking-1.7.0/LICENSE-MIT
+
+bumpalo-3.20.3
+  License: MIT OR Apache-2.0
+  Authors: Nick Fitzgerald <fitzgen@gmail.com>
+  Source: https://github.com/fitzgen/bumpalo
+  License files: third-party-licenses/bumpalo-3.20.3/LICENSE-APACHE, third-party-licenses/bumpalo-3.20.3/LICENSE-MIT
+
+bytemuck-1.25.2
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: Lokathor <zefria@gmail.com>
+  Source: https://github.com/Lokathor/bytemuck
+  License files: third-party-licenses/bytemuck-1.25.2/LICENSE-APACHE, third-party-licenses/bytemuck-1.25.2/LICENSE-MIT, third-party-licenses/bytemuck-1.25.2/LICENSE-ZLIB
+
+bytemuck_derive-1.12.1
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: Lokathor <zefria@gmail.com>
+  Source: https://github.com/Lokathor/bytemuck
+  License files: third-party-licenses/bytemuck_derive-1.12.1/LICENSE-APACHE, third-party-licenses/bytemuck_derive-1.12.1/LICENSE-MIT, third-party-licenses/bytemuck_derive-1.12.1/LICENSE-ZLIB
+
+byteorder-lite-0.1.0
+  License: Unlicense OR MIT
+  Authors: 
+  Source: https://github.com/image-rs/byteorder-lite
+  License files: third-party-licenses/byteorder-lite-0.1.0/LICENSE-MIT, third-party-licenses/byteorder-lite-0.1.0/UNLICENSE
+
+bytes-1.12.1
+  License: MIT
+  Authors: Carl Lerche <me@carllerche.com>; Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/tokio-rs/bytes
+  License files: third-party-licenses/bytes-1.12.1/LICENSE
+
+calloop-0.13.0
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/Smithay/calloop
+  License files: third-party-licenses/calloop-0.13.0/LICENSE.txt
+
+calloop-0.14.5
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/Smithay/calloop
+  License files: third-party-licenses/calloop-0.14.5/LICENSE.txt
+
+calloop-wayland-source-0.3.0
+  License: MIT
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/smithay/calloop-wayland-source
+  License files: third-party-licenses/calloop-wayland-source-0.3.0/LICENSE.txt
+
+calloop-wayland-source-0.4.1
+  License: MIT
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/smithay/calloop-wayland-source
+  License files: third-party-licenses/calloop-wayland-source-0.4.1/LICENSE.txt
+
+cc-1.8.0
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/cc-rs
+  License files: third-party-licenses/cc-1.8.0/LICENSE-APACHE, third-party-licenses/cc-1.8.0/LICENSE-MIT
+
+cfg-if-1.0.5
+  License: MIT OR Apache-2.0
+  Authors: Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/rust-lang/cfg-if
+  License files: third-party-licenses/cfg-if-1.0.5/LICENSE-APACHE, third-party-licenses/cfg-if-1.0.5/LICENSE-MIT
+
+cfg_aliases-0.2.2
+  License: MIT
+  Authors: Zicklag <zicklag@katharostech.com>
+  Source: https://github.com/katharostech/cfg_aliases
+  License files: third-party-licenses/cfg_aliases-0.2.2/LICENSE, third-party-licenses/cfg_aliases-0.2.2/NOTICES.md
+
+cgl-0.3.2
+  License: MIT / Apache-2.0
+  Authors: The Servo Project Developers
+  Source: https://github.com/servo/cgl-rs
+  License files: third-party-licenses/cgl-0.3.2/COPYING, third-party-licenses/cgl-0.3.2/LICENSE-APACHE, third-party-licenses/cgl-0.3.2/LICENSE-MIT
+
+chacha20-0.10.2
+  License: MIT OR Apache-2.0
+  Authors: RustCrypto Developers
+  Source: https://github.com/RustCrypto/stream-ciphers
+  License files: third-party-licenses/chacha20-0.10.2/LICENSE-APACHE, third-party-licenses/chacha20-0.10.2/LICENSE-MIT
+
+chrono-0.4.45
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/chronotope/chrono
+  License files: third-party-licenses/chrono-0.4.45/LICENSE.txt
+
+clipboard-win-5.4.1
+  License: BSL-1.0
+  Authors: Douman <douman@gmx.se>
+  Source: https://github.com/DoumanAsh/clipboard-win
+  License files: third-party-licenses/clipboard-win-5.4.1/upstream/LICENSE
+
+codespan-reporting-0.12.0
+  License: Apache-2.0
+  Authors: Brendan Zabarauskas <bjzaba@yahoo.com.au>
+  Source: https://github.com/brendanzab/codespan
+  License files: third-party-licenses/codespan-reporting-0.12.0/LICENSE
+
+combine-4.6.8
+  License: MIT
+  Authors: Markus Westerlind <marwes91@gmail.com>
+  Source: https://github.com/Marwes/combine
+  License files: third-party-licenses/combine-4.6.8/LICENSE
+
+concurrent-queue-2.5.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>; Taiki Endo <te316e89@gmail.com>; John Nunley <dev@notgull.net>
+  Source: https://github.com/smol-rs/concurrent-queue
+  License files: third-party-licenses/concurrent-queue-2.5.0/LICENSE-APACHE, third-party-licenses/concurrent-queue-2.5.0/LICENSE-MIT
+
+core-foundation-0.9.4
+  License: MIT OR Apache-2.0
+  Authors: The Servo Project Developers
+  Source: https://github.com/servo/core-foundation-rs
+  License files: third-party-licenses/core-foundation-0.9.4/LICENSE-APACHE, third-party-licenses/core-foundation-0.9.4/LICENSE-MIT
+
+core-foundation-sys-0.8.7
+  License: MIT OR Apache-2.0
+  Authors: The Servo Project Developers
+  Source: https://github.com/servo/core-foundation-rs
+  License files: third-party-licenses/core-foundation-sys-0.8.7/LICENSE-APACHE, third-party-licenses/core-foundation-sys-0.8.7/LICENSE-MIT
+
+core-graphics-0.23.2
+  License: MIT OR Apache-2.0
+  Authors: The Servo Project Developers
+  Source: https://github.com/servo/core-foundation-rs
+  License files: third-party-licenses/core-graphics-0.23.2/COPYRIGHT, third-party-licenses/core-graphics-0.23.2/LICENSE-APACHE, third-party-licenses/core-graphics-0.23.2/LICENSE-MIT
+
+core-graphics-types-0.1.3
+  License: MIT OR Apache-2.0
+  Authors: The Servo Project Developers
+  Source: https://github.com/servo/core-foundation-rs
+  License files: third-party-licenses/core-graphics-types-0.1.3/LICENSE-APACHE, third-party-licenses/core-graphics-types-0.1.3/LICENSE-MIT
+
+cpufeatures-0.2.17
+  License: MIT OR Apache-2.0
+  Authors: RustCrypto Developers
+  Source: https://github.com/RustCrypto/utils
+  License files: third-party-licenses/cpufeatures-0.2.17/LICENSE-APACHE, third-party-licenses/cpufeatures-0.2.17/LICENSE-MIT
+
+cpufeatures-0.3.1
+  License: MIT OR Apache-2.0
+  Authors: RustCrypto Developers
+  Source: https://github.com/RustCrypto/utils
+  License files: third-party-licenses/cpufeatures-0.3.1/LICENSE-APACHE, third-party-licenses/cpufeatures-0.3.1/LICENSE-MIT
+
+crc32fast-1.5.2
+  License: MIT OR Apache-2.0
+  Authors: Sam Rijs <srijs@airpost.net>; Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/srijs/rust-crc32fast
+  License files: third-party-licenses/crc32fast-1.5.2/LICENSE-APACHE, third-party-licenses/crc32fast-1.5.2/LICENSE-MIT
+
+crossbeam-utils-0.8.23
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/crossbeam-rs/crossbeam
+  License files: third-party-licenses/crossbeam-utils-0.8.23/LICENSE-APACHE, third-party-licenses/crossbeam-utils-0.8.23/LICENSE-MIT
+
+crunchy-0.2.4
+  License: MIT
+  Authors: Eira Fransham <jackefransham@gmail.com>
+  Source: https://github.com/eira-fransham/crunchy
+  License files: third-party-licenses/crunchy-0.2.4/LICENSE
+
+crypto-common-0.1.7
+  License: MIT OR Apache-2.0
+  Authors: RustCrypto Developers
+  Source: https://github.com/RustCrypto/traits
+  License files: third-party-licenses/crypto-common-0.1.7/LICENSE-APACHE, third-party-licenses/crypto-common-0.1.7/LICENSE-MIT
+
+cursor-icon-1.2.0
+  License: MIT OR Apache-2.0 OR Zlib
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/rust-windowing/cursor-icon
+  License files: third-party-licenses/cursor-icon-1.2.0/LICENSE-APACHE, third-party-licenses/cursor-icon-1.2.0/LICENSE-MIT, third-party-licenses/cursor-icon-1.2.0/LICENSE-ZLIB
+
+digest-0.10.7
+  License: MIT OR Apache-2.0
+  Authors: RustCrypto Developers
+  Source: https://github.com/RustCrypto/traits
+  License files: third-party-licenses/digest-0.10.7/LICENSE-APACHE, third-party-licenses/digest-0.10.7/LICENSE-MIT
+
+dirs-6.0.0
+  License: MIT OR Apache-2.0
+  Authors: Simon Ochsenreither <simon@ochsenreither.de>
+  Source: https://github.com/soc/dirs-rs
+  License files: third-party-licenses/dirs-6.0.0/LICENSE-APACHE, third-party-licenses/dirs-6.0.0/LICENSE-MIT
+
+dirs-sys-0.5.0
+  License: MIT OR Apache-2.0
+  Authors: Simon Ochsenreither <simon@ochsenreither.de>
+  Source: https://github.com/dirs-dev/dirs-sys-rs
+  License files: third-party-licenses/dirs-sys-0.5.0/LICENSE-APACHE, third-party-licenses/dirs-sys-0.5.0/LICENSE-MIT
+
+dispatch-0.2.0
+  License: MIT
+  Authors: Steven Sheldon
+  Source: http://github.com/SSheldon/rust-dispatch
+  License files: third-party-licenses/dispatch-0.2.0/Cargo.toml.orig, third-party-licenses/dispatch-0.2.0/LICENSE-MIT-standard-text.txt
+
+dispatch2-0.3.1
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: Mads Marquart <mads@marquart.dk>; Mary <mary@mary.zone>
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/dispatch2-0.3.1/Cargo.toml.orig, third-party-licenses/dispatch2-0.3.1/LICENSE-MIT-standard-text.txt, third-party-licenses/dispatch2-0.3.1/upstream/LICENSE.md
+
+displaydoc-0.2.7
+  License: MIT OR Apache-2.0
+  Authors: Jane Lusby <jlusby@yaah.dev>
+  Source: https://github.com/yaahc/displaydoc
+  License files: third-party-licenses/displaydoc-0.2.7/LICENSE-APACHE, third-party-licenses/displaydoc-0.2.7/LICENSE-MIT
+
+dlib-0.5.3
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/elinorbgr/dlib
+  License files: third-party-licenses/dlib-0.5.3/LICENSE.txt
+
+document-features-0.2.12
+  License: MIT OR Apache-2.0
+  Authors: Slint Developers <info@slint.dev>
+  Source: https://github.com/slint-ui/document-features
+  License files: third-party-licenses/document-features-0.2.12/LICENSE-APACHE, third-party-licenses/document-features-0.2.12/LICENSE-MIT
+
+downcast-rs-1.2.1
+  License: MIT/Apache-2.0
+  Authors: Ashish Myles <marcianx@gmail.com>; Runji Wang <wangrunji0408@163.com>
+  Source: https://github.com/marcianx/downcast-rs
+  License files: third-party-licenses/downcast-rs-1.2.1/LICENSE-APACHE, third-party-licenses/downcast-rs-1.2.1/LICENSE-MIT
+
+dpi-0.1.2
+  License: Apache-2.0 AND MIT
+  Authors: 
+  Source: https://github.com/rust-windowing/winit
+  License files: third-party-licenses/dpi-0.1.2/LICENSE, third-party-licenses/dpi-0.1.2/LICENSE-LIBM-MIT
+
+ecolor-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>; Andreas Reich <reichandreas@gmx.de>
+  Source: https://github.com/emilk/egui
+  License files: third-party-licenses/ecolor-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/ecolor-0.33.3/upstream/LICENSE-MIT
+
+eframe-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui/tree/main/crates/eframe
+  License files: third-party-licenses/eframe-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/eframe-0.33.3/upstream/LICENSE-MIT
+
+egui-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui
+  License files: third-party-licenses/egui-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/egui-0.33.3/upstream/LICENSE-MIT
+
+egui-wgpu-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Nils Hasenbanck <nils@hasenbanck.de>; embotech <opensource@embotech.com>; Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui/tree/main/crates/egui-wgpu
+  License files: third-party-licenses/egui-wgpu-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/egui-wgpu-0.33.3/upstream/LICENSE-MIT
+
+egui-winit-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui/tree/main/crates/egui-winit
+  License files: third-party-licenses/egui-winit-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/egui-winit-0.33.3/upstream/LICENSE-MIT
+
+egui_extras-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Dominik Rössler <dominik@freshx.de>; Emil Ernerfeldt <emil.ernerfeldt@gmail.com>; René Rössler <rene@freshx.de>
+  Source: https://github.com/emilk/egui
+  License files: third-party-licenses/egui_extras-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/egui_extras-0.33.3/upstream/LICENSE-MIT
+
+egui_glow-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui/tree/main/crates/egui_glow
+  License files: third-party-licenses/egui_glow-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/egui_glow-0.33.3/upstream/LICENSE-MIT
+
+emath-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui/tree/main/crates/emath
+  License files: third-party-licenses/emath-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/emath-0.33.3/upstream/LICENSE-MIT
+
+endi-1.1.1
+  License: MIT
+  Authors: Zeeshan Ali Khan <zeenix@gmail.com>
+  Source: https://github.com/zeenix/endi
+  License files: third-party-licenses/endi-1.1.1/LICENSE-MIT
+
+enum-map-2.7.3
+  License: MIT OR Apache-2.0
+  Authors: Kamila Borowska <kamila@borowska.pw>
+  Source: https://codeberg.org/xfix/enum-map
+  License files: third-party-licenses/enum-map-2.7.3/upstream/LICENSES/Apache-2.0.txt, third-party-licenses/enum-map-2.7.3/upstream/LICENSES/MIT.txt
+
+enum-map-derive-0.17.0
+  License: MIT OR Apache-2.0
+  Authors: Kamila Borowska <kamila@borowska.pw>
+  Source: https://codeberg.org/xfix/enum-map
+  License files: third-party-licenses/enum-map-derive-0.17.0/upstream/LICENSES/Apache-2.0.txt, third-party-licenses/enum-map-derive-0.17.0/upstream/LICENSES/MIT.txt
+
+enumflags2-0.7.12
+  License: MIT OR Apache-2.0
+  Authors: maik klein <maikklein@googlemail.com>; Maja Kądziołka <maya@compilercrim.es>
+  Source: https://github.com/meithecatte/enumflags2
+  License files: third-party-licenses/enumflags2-0.7.12/LICENSE-APACHE, third-party-licenses/enumflags2-0.7.12/LICENSE-MIT
+
+enumflags2_derive-0.7.12
+  License: MIT OR Apache-2.0
+  Authors: maik klein <maikklein@googlemail.com>; Maja Kądziołka <maya@compilercrim.es>
+  Source: https://github.com/meithecatte/enumflags2
+  License files: third-party-licenses/enumflags2_derive-0.7.12/LICENSE-APACHE, third-party-licenses/enumflags2_derive-0.7.12/LICENSE-MIT
+
+enumn-0.1.14
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/enumn
+  License files: third-party-licenses/enumn-0.1.14/LICENSE-APACHE, third-party-licenses/enumn-0.1.14/LICENSE-MIT
+
+epaint-0.33.3
+  License: MIT OR Apache-2.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui/tree/main/crates/epaint
+  License files: third-party-licenses/epaint-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/epaint-0.33.3/upstream/LICENSE-MIT
+
+epaint_default_fonts-0.33.3
+  License: (MIT OR Apache-2.0) AND OFL-1.1 AND Ubuntu-font-1.0
+  Authors: Emil Ernerfeldt <emil.ernerfeldt@gmail.com>
+  Source: https://github.com/emilk/egui/tree/main/crates/epaint_default_fonts
+  License files: third-party-licenses/epaint_default_fonts-0.33.3/FONT-COPYRIGHTS-AND-LICENSE-METADATA.txt, third-party-licenses/epaint_default_fonts-0.33.3/fonts/emoji-icon-font-mit-license.txt, third-party-licenses/epaint_default_fonts-0.33.3/fonts/Hack-Regular.txt, third-party-licenses/epaint_default_fonts-0.33.3/fonts/OFL.txt, third-party-licenses/epaint_default_fonts-0.33.3/fonts/UFL.txt, third-party-licenses/epaint_default_fonts-0.33.3/upstream/LICENSE-APACHE, third-party-licenses/epaint_default_fonts-0.33.3/upstream/LICENSE-MIT
+
+equivalent-1.0.2
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/indexmap-rs/equivalent
+  License files: third-party-licenses/equivalent-1.0.2/LICENSE-APACHE, third-party-licenses/equivalent-1.0.2/LICENSE-MIT
+
+errno-0.3.14
+  License: MIT OR Apache-2.0
+  Authors: Chris Wong <lambda.fairy@gmail.com>; Dan Gohman <dev@sunfishcode.online>
+  Source: https://github.com/lambda-fairy/rust-errno
+  License files: third-party-licenses/errno-0.3.14/LICENSE-APACHE, third-party-licenses/errno-0.3.14/LICENSE-MIT
+
+error-code-3.4.0
+  License: BSL-1.0
+  Authors: Douman <douman@gmx.se>
+  Source: https://github.com/DoumanAsh/error-code
+  License files: third-party-licenses/error-code-3.4.0/LICENSE
+
+event-listener-5.4.2
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>; John Nunley <dev@notgull.net>
+  Source: https://github.com/smol-rs/event-listener
+  License files: third-party-licenses/event-listener-5.4.2/LICENSE-APACHE, third-party-licenses/event-listener-5.4.2/LICENSE-MIT
+
+event-listener-strategy-0.5.4
+  License: Apache-2.0 OR MIT
+  Authors: John Nunley <dev@notgull.net>
+  Source: https://github.com/smol-rs/event-listener-strategy
+  License files: third-party-licenses/event-listener-strategy-0.5.4/LICENSE-APACHE, third-party-licenses/event-listener-strategy-0.5.4/LICENSE-MIT
+
+fastrand-2.5.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>
+  Source: https://github.com/smol-rs/fastrand
+  License files: third-party-licenses/fastrand-2.5.0/LICENSE-APACHE, third-party-licenses/fastrand-2.5.0/LICENSE-MIT
+
+fax-0.2.7
+  License: MIT
+  Authors: Sebastian K <s3bk@protonmail.com>
+  Source: https://github.com/pdf-rs/fax
+  License files: third-party-licenses/fax-0.2.7/LICENSE
+
+fdeflate-0.3.7
+  License: MIT OR Apache-2.0
+  Authors: The image-rs Developers
+  Source: https://github.com/image-rs/fdeflate
+  License files: third-party-licenses/fdeflate-0.3.7/LICENSE-APACHE, third-party-licenses/fdeflate-0.3.7/LICENSE-MIT
+
+find-msvc-tools-0.1.14
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/cc-rs
+  License files: third-party-licenses/find-msvc-tools-0.1.14/LICENSE-APACHE, third-party-licenses/find-msvc-tools-0.1.14/LICENSE-MIT
+
+flate2-1.1.10
+  License: MIT OR Apache-2.0
+  Authors: Alex Crichton <alex@alexcrichton.com>; Josh Triplett <josh@joshtriplett.org>
+  Source: https://github.com/rust-lang/flate2-rs
+  License files: third-party-licenses/flate2-1.1.10/LICENSE-APACHE, third-party-licenses/flate2-1.1.10/LICENSE-MIT
+
+fnv-1.0.7
+  License: Apache-2.0 / MIT
+  Authors: Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/servo/rust-fnv
+  License files: third-party-licenses/fnv-1.0.7/LICENSE-APACHE, third-party-licenses/fnv-1.0.7/LICENSE-MIT
+
+foldhash-0.2.0
+  License: Zlib
+  Authors: Orson Peters <orsonpeters@gmail.com>
+  Source: https://github.com/orlp/foldhash
+  License files: third-party-licenses/foldhash-0.2.0/LICENSE
+
+foreign-types-0.5.0
+  License: MIT/Apache-2.0
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/sfackler/foreign-types
+  License files: third-party-licenses/foreign-types-0.5.0/LICENSE-APACHE, third-party-licenses/foreign-types-0.5.0/LICENSE-MIT
+
+foreign-types-macros-0.2.4
+  License: MIT/Apache-2.0
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/sfackler/foreign-types
+  License files: third-party-licenses/foreign-types-macros-0.2.4/LICENSE-APACHE, third-party-licenses/foreign-types-macros-0.2.4/LICENSE-MIT
+
+foreign-types-shared-0.3.1
+  License: MIT/Apache-2.0
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/sfackler/foreign-types
+  License files: third-party-licenses/foreign-types-shared-0.3.1/LICENSE-APACHE, third-party-licenses/foreign-types-shared-0.3.1/LICENSE-MIT
+
+form_urlencoded-1.2.2
+  License: MIT OR Apache-2.0
+  Authors: The rust-url developers
+  Source: https://github.com/servo/rust-url
+  License files: third-party-licenses/form_urlencoded-1.2.2/LICENSE-APACHE, third-party-licenses/form_urlencoded-1.2.2/LICENSE-MIT
+
+futures-channel-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/futures-rs
+  License files: third-party-licenses/futures-channel-0.3.34/LICENSE-APACHE, third-party-licenses/futures-channel-0.3.34/LICENSE-MIT
+
+futures-core-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/futures-rs
+  License files: third-party-licenses/futures-core-0.3.34/LICENSE-APACHE, third-party-licenses/futures-core-0.3.34/LICENSE-MIT
+
+futures-io-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/futures-rs
+  License files: third-party-licenses/futures-io-0.3.34/LICENSE-APACHE, third-party-licenses/futures-io-0.3.34/LICENSE-MIT
+
+futures-lite-2.6.1
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>; Contributors to futures-rs
+  Source: https://github.com/smol-rs/futures-lite
+  License files: third-party-licenses/futures-lite-2.6.1/LICENSE-APACHE, third-party-licenses/futures-lite-2.6.1/LICENSE-MIT, third-party-licenses/futures-lite-2.6.1/LICENSE-THIRD-PARTY
+
+futures-macro-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/futures-rs
+  License files: third-party-licenses/futures-macro-0.3.34/LICENSE-APACHE, third-party-licenses/futures-macro-0.3.34/LICENSE-MIT
+
+futures-sink-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/futures-rs
+  License files: third-party-licenses/futures-sink-0.3.34/LICENSE-APACHE, third-party-licenses/futures-sink-0.3.34/LICENSE-MIT
+
+futures-task-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/futures-rs
+  License files: third-party-licenses/futures-task-0.3.34/LICENSE-APACHE, third-party-licenses/futures-task-0.3.34/LICENSE-MIT
+
+futures-util-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/futures-rs
+  License files: third-party-licenses/futures-util-0.3.34/LICENSE-APACHE, third-party-licenses/futures-util-0.3.34/LICENSE-MIT
+
+generic-array-0.14.7
+  License: MIT
+  Authors: Bartłomiej Kamiński <fizyk20@gmail.com>; Aaron Trent <novacrazy@gmail.com>
+  Source: https://github.com/fizyk20/generic-array.git
+  License files: third-party-licenses/generic-array-0.14.7/LICENSE
+
+gethostname-1.1.0
+  License: Apache-2.0
+  Authors: Sebastian Wiesner <sebastian@swsnr.de>
+  Source: https://codeberg.org/swsnr/gethostname.rs.git
+  License files: third-party-licenses/gethostname-1.1.0/LICENSE
+
+getrandom-0.2.17
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers
+  Source: https://github.com/rust-random/getrandom
+  License files: third-party-licenses/getrandom-0.2.17/LICENSE-APACHE, third-party-licenses/getrandom-0.2.17/LICENSE-MIT
+
+getrandom-0.3.4
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers
+  Source: https://github.com/rust-random/getrandom
+  License files: third-party-licenses/getrandom-0.3.4/LICENSE-APACHE, third-party-licenses/getrandom-0.3.4/LICENSE-MIT
+
+getrandom-0.4.3
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers
+  Source: https://github.com/rust-random/getrandom
+  License files: third-party-licenses/getrandom-0.4.3/LICENSE-APACHE, third-party-licenses/getrandom-0.4.3/LICENSE-MIT
+
+gl_generator-0.14.0
+  License: Apache-2.0
+  Authors: Brendan Zabarauskas <bjzaba@yahoo.com.au>; Corey Richardson; Arseny Kapoulkine
+  Source: https://github.com/brendanzab/gl-rs/
+  License files: third-party-licenses/gl_generator-0.14.0/upstream/LICENSE
+
+glow-0.16.0
+  License: MIT OR Apache-2.0 OR Zlib
+  Authors: Joshua Groves <josh@joshgroves.com>; Dzmitry Malyshau <kvarkus@gmail.com>
+  Source: https://github.com/grovesNL/glow
+  License files: third-party-licenses/glow-0.16.0/LICENSE-APACHE, third-party-licenses/glow-0.16.0/LICENSE-MIT, third-party-licenses/glow-0.16.0/LICENSE-ZLIB
+
+glutin-0.32.3
+  License: Apache-2.0
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/rust-windowing/glutin
+  License files: third-party-licenses/glutin-0.32.3/LICENSE
+
+glutin-winit-0.5.0
+  License: MIT
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/rust-windowing/glutin
+  License files: third-party-licenses/glutin-winit-0.5.0/LICENSE
+
+glutin_egl_sys-0.7.1
+  License: Apache-2.0
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/rust-windowing/glutin
+  License files: third-party-licenses/glutin_egl_sys-0.7.1/LICENSE
+
+glutin_glx_sys-0.6.1
+  License: Apache-2.0
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/rust-windowing/glutin
+  License files: third-party-licenses/glutin_glx_sys-0.6.1/LICENSE
+
+glutin_wgl_sys-0.6.1
+  License: Apache-2.0
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/rust-windowing/glutin
+  License files: third-party-licenses/glutin_wgl_sys-0.6.1/LICENSE
+
+h2-0.4.20
+  License: MIT
+  Authors: Carl Lerche <me@carllerche.com>; Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/hyperium/h2
+  License files: third-party-licenses/h2-0.4.20/LICENSE
+
+half-2.7.1
+  License: MIT OR Apache-2.0
+  Authors: Kathryn Long <squeeself@gmail.com>
+  Source: https://github.com/VoidStarKat/half-rs
+  License files: third-party-licenses/half-2.7.1/LICENSE-APACHE, third-party-licenses/half-2.7.1/LICENSE-MIT
+
+hashbrown-0.16.1
+  License: MIT OR Apache-2.0
+  Authors: Amanieu d'Antras <amanieu@gmail.com>
+  Source: https://github.com/rust-lang/hashbrown
+  License files: third-party-licenses/hashbrown-0.16.1/LICENSE-APACHE, third-party-licenses/hashbrown-0.16.1/LICENSE-MIT
+
+hashbrown-0.17.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/hashbrown
+  License files: third-party-licenses/hashbrown-0.17.1/LICENSE-APACHE, third-party-licenses/hashbrown-0.17.1/LICENSE-MIT
+
+hermit-abi-0.5.3
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/hermit-os/hermit-rs
+  License files: third-party-licenses/hermit-abi-0.5.3/LICENSE-APACHE, third-party-licenses/hermit-abi-0.5.3/LICENSE-MIT
+
+hex-0.4.3
+  License: MIT OR Apache-2.0
+  Authors: KokaKiwi <kokakiwi@kokakiwi.net>
+  Source: https://github.com/KokaKiwi/rust-hex
+  License files: third-party-licenses/hex-0.4.3/LICENSE-APACHE, third-party-licenses/hex-0.4.3/LICENSE-MIT
+
+hexf-parse-0.2.1
+  License: CC0-1.0
+  Authors: Kang Seonghoon <public+rust@mearie.org>
+  Source: https://github.com/lifthrasiir/hexf
+  License files: third-party-licenses/hexf-parse-0.2.1/Cargo.toml.orig, third-party-licenses/hexf-parse-0.2.1/LICENSE-CC0-1.0-standard-text.txt
+
+home-0.5.12
+  License: MIT OR Apache-2.0
+  Authors: Brian Anderson <andersrb@gmail.com>
+  Source: https://github.com/rust-lang/cargo
+  License files: third-party-licenses/home-0.5.12/LICENSE-APACHE, third-party-licenses/home-0.5.12/LICENSE-MIT
+
+http-1.5.0
+  License: MIT OR Apache-2.0
+  Authors: Alex Crichton <alex@alexcrichton.com>; Carl Lerche <me@carllerche.com>; Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/hyperium/http
+  License files: third-party-licenses/http-1.5.0/LICENSE-APACHE, third-party-licenses/http-1.5.0/LICENSE-MIT
+
+http-body-1.1.0
+  License: MIT
+  Authors: Carl Lerche <me@carllerche.com>; Lucio Franco <luciofranco14@gmail.com>; Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/hyperium/http-body
+  License files: third-party-licenses/http-body-1.1.0/LICENSE
+
+http-body-util-0.1.5
+  License: MIT
+  Authors: Carl Lerche <me@carllerche.com>; Lucio Franco <luciofranco14@gmail.com>; Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/hyperium/http-body
+  License files: third-party-licenses/http-body-util-0.1.5/LICENSE
+
+httparse-1.10.1
+  License: MIT OR Apache-2.0
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/seanmonstar/httparse
+  License files: third-party-licenses/httparse-1.10.1/LICENSE-APACHE, third-party-licenses/httparse-1.10.1/LICENSE-MIT
+
+hyper-1.12.0
+  License: MIT
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/hyperium/hyper
+  License files: third-party-licenses/hyper-1.12.0/LICENSE
+
+hyper-rustls-0.27.10
+  License: Apache-2.0 OR ISC OR MIT
+  Authors: 
+  Source: https://github.com/rustls/hyper-rustls
+  License files: third-party-licenses/hyper-rustls-0.27.10/LICENSE-APACHE, third-party-licenses/hyper-rustls-0.27.10/LICENSE-ISC, third-party-licenses/hyper-rustls-0.27.10/LICENSE-MIT
+
+hyper-util-0.1.21
+  License: MIT
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/hyperium/hyper-util
+  License files: third-party-licenses/hyper-util-0.1.21/LICENSE
+
+iana-time-zone-0.1.65
+  License: MIT OR Apache-2.0
+  Authors: Andrew Straw <strawman@astraw.com>; René Kijewski <rene.kijewski@fu-berlin.de>; Ryan Lopopolo <rjl@hyperbo.la>
+  Source: https://github.com/strawlab/iana-time-zone
+  License files: third-party-licenses/iana-time-zone-0.1.65/LICENSE-APACHE, third-party-licenses/iana-time-zone-0.1.65/LICENSE-MIT
+
+iana-time-zone-haiku-0.1.2
+  License: MIT OR Apache-2.0
+  Authors: René Kijewski <crates.io@k6i.de>
+  Source: https://github.com/strawlab/iana-time-zone
+  License files: third-party-licenses/iana-time-zone-haiku-0.1.2/LICENSE-APACHE, third-party-licenses/iana-time-zone-haiku-0.1.2/LICENSE-MIT
+
+icu_collections-2.3.0
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/icu_collections-2.3.0/LICENSE
+
+icu_locale_core-2.3.0
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/icu_locale_core-2.3.0/LICENSE
+
+icu_normalizer-2.3.0
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/icu_normalizer-2.3.0/LICENSE
+
+icu_normalizer_data-2.3.0
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/icu_normalizer_data-2.3.0/LICENSE
+
+icu_properties-2.3.0
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/icu_properties-2.3.0/LICENSE
+
+icu_properties_data-2.3.0
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/icu_properties_data-2.3.0/LICENSE
+
+icu_provider-2.3.1
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/icu_provider-2.3.1/LICENSE
+
+idna-1.1.0
+  License: MIT OR Apache-2.0
+  Authors: The rust-url developers
+  Source: https://github.com/servo/rust-url/
+  License files: third-party-licenses/idna-1.1.0/LICENSE-APACHE, third-party-licenses/idna-1.1.0/LICENSE-MIT
+
+idna_adapter-1.2.2
+  License: Apache-2.0 OR MIT
+  Authors: The rust-url developers
+  Source: https://github.com/hsivonen/idna_adapter
+  License files: third-party-licenses/idna_adapter-1.2.2/LICENSE-APACHE, third-party-licenses/idna_adapter-1.2.2/LICENSE-MIT
+
+image-0.25.10
+  License: MIT OR Apache-2.0
+  Authors: The image-rs Developers
+  Source: https://github.com/image-rs/image
+  License files: third-party-licenses/image-0.25.10/LICENSE-APACHE, third-party-licenses/image-0.25.10/LICENSE-MIT
+
+indexmap-2.14.2
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/indexmap-rs/indexmap
+  License files: third-party-licenses/indexmap-2.14.2/LICENSE-APACHE, third-party-licenses/indexmap-2.14.2/LICENSE-MIT
+
+ipnet-2.12.2
+  License: MIT OR Apache-2.0
+  Authors: Kris Price <kris@krisprice.nz>
+  Source: https://github.com/krisprice/ipnet
+  License files: third-party-licenses/ipnet-2.12.2/LICENSE-APACHE, third-party-licenses/ipnet-2.12.2/LICENSE-MIT
+
+itoa-1.0.18
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/itoa
+  License files: third-party-licenses/itoa-1.0.18/LICENSE-APACHE, third-party-licenses/itoa-1.0.18/LICENSE-MIT
+
+jni-0.22.4
+  License: MIT OR Apache-2.0
+  Authors: jni team
+  Source: https://github.com/jni-rs/jni-rs
+  License files: third-party-licenses/jni-0.22.4/upstream/LICENSE-APACHE, third-party-licenses/jni-0.22.4/upstream/LICENSE-MIT
+
+jni-macros-0.22.4
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/jni-rs/jni-rs
+  License files: third-party-licenses/jni-macros-0.22.4/upstream/LICENSE-APACHE, third-party-licenses/jni-macros-0.22.4/upstream/LICENSE-MIT
+
+jni-sys-0.3.1
+  License: MIT OR Apache-2.0
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/jni-rs/jni-sys
+  License files: third-party-licenses/jni-sys-0.3.1/LICENSE-APACHE, third-party-licenses/jni-sys-0.3.1/LICENSE-MIT
+
+jni-sys-0.4.1
+  License: MIT OR Apache-2.0
+  Authors: Steven Fackler <sfackler@gmail.com>; Robert Bragg <robert@sixbynine.org>
+  Source: https://github.com/jni-rs/jni-sys
+  License files: third-party-licenses/jni-sys-0.4.1/LICENSE-APACHE, third-party-licenses/jni-sys-0.4.1/LICENSE-MIT
+
+jni-sys-macros-0.4.1
+  License: MIT OR Apache-2.0
+  Authors: Robert Bragg <robert@sixbynine.org>
+  Source: https://github.com/jni-rs/jni-sys
+  License files: third-party-licenses/jni-sys-macros-0.4.1/upstream/LICENSE-APACHE, third-party-licenses/jni-sys-macros-0.4.1/upstream/LICENSE-MIT
+
+jobserver-0.1.35
+  License: MIT OR Apache-2.0
+  Authors: Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/rust-lang/jobserver-rs
+  License files: third-party-licenses/jobserver-0.1.35/LICENSE-APACHE, third-party-licenses/jobserver-0.1.35/LICENSE-MIT
+
+js-sys-0.3.106
+  License: MIT OR Apache-2.0
+  Authors: The wasm-bindgen Developers
+  Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/js-sys
+  License files: third-party-licenses/js-sys-0.3.106/LICENSE-APACHE, third-party-licenses/js-sys-0.3.106/LICENSE-MIT
+
+khronos_api-3.1.0
+  License: Apache-2.0
+  Authors: Brendan Zabarauskas <bjzaba@yahoo.com.au>; Corey Richardson; Arseny Kapoulkine; Pierre Krieger <pierre.krieger1708@gmail.com>
+  Source: https://github.com/brendanzab/gl-rs/
+  License files: third-party-licenses/khronos_api-3.1.0/upstream/LICENSE
+
+libc-0.2.190
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rust-lang/libc
+  License files: third-party-licenses/libc-0.2.190/LICENSE-APACHE, third-party-licenses/libc-0.2.190/LICENSE-MIT
+
+libloading-0.8.9
+  License: ISC
+  Authors: Simonas Kazlauskas <libloading@kazlauskas.me>
+  Source: https://github.com/nagisa/rust_libloading/
+  License files: third-party-licenses/libloading-0.8.9/LICENSE
+
+libm-0.2.16
+  License: MIT
+  Authors: Alex Crichton <alex@alexcrichton.com>; Amanieu d'Antras <amanieu@gmail.com>; Jorge Aparicio <japaricious@gmail.com>; Trevor Gross <tg@trevorgross.com>
+  Source: https://github.com/rust-lang/compiler-builtins
+  License files: third-party-licenses/libm-0.2.16/LICENSE.txt
+
+libredox-0.1.25
+  License: MIT
+  Authors: 4lDO2 <4lDO2@protonmail.com>
+  Source: https://gitlab.redox-os.org/redox-os/libredox.git
+  License files: third-party-licenses/libredox-0.1.25/LICENSE
+
+linux-raw-sys-0.12.1
+  License: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+  Authors: Dan Gohman <dev@sunfishcode.online>
+  Source: https://github.com/sunfishcode/linux-raw-sys
+  License files: third-party-licenses/linux-raw-sys-0.12.1/COPYRIGHT, third-party-licenses/linux-raw-sys-0.12.1/LICENSE-APACHE, third-party-licenses/linux-raw-sys-0.12.1/LICENSE-Apache-2.0_WITH_LLVM-exception, third-party-licenses/linux-raw-sys-0.12.1/LICENSE-MIT
+
+linux-raw-sys-0.4.15
+  License: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+  Authors: Dan Gohman <dev@sunfishcode.online>
+  Source: https://github.com/sunfishcode/linux-raw-sys
+  License files: third-party-licenses/linux-raw-sys-0.4.15/COPYRIGHT, third-party-licenses/linux-raw-sys-0.4.15/LICENSE-APACHE, third-party-licenses/linux-raw-sys-0.4.15/LICENSE-Apache-2.0_WITH_LLVM-exception, third-party-licenses/linux-raw-sys-0.4.15/LICENSE-MIT
+
+litemap-0.8.3
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/litemap-0.8.3/LICENSE
+
+litrs-1.0.1
+  License: MIT OR Apache-2.0
+  Authors: Lukas Kalbertodt <lukas.kalbertodt@gmail.com>
+  Source: https://github.com/LukasKalbertodt/litrs
+  License files: third-party-licenses/litrs-1.0.1/LICENSE-APACHE, third-party-licenses/litrs-1.0.1/LICENSE-MIT
+
+lock_api-0.4.14
+  License: MIT OR Apache-2.0
+  Authors: Amanieu d'Antras <amanieu@gmail.com>
+  Source: https://github.com/Amanieu/parking_lot
+  License files: third-party-licenses/lock_api-0.4.14/LICENSE-APACHE, third-party-licenses/lock_api-0.4.14/LICENSE-MIT
+
+log-0.4.34
+  License: MIT OR Apache-2.0
+  Authors: The Rust Project Developers
+  Source: https://github.com/rust-lang/log
+  License files: third-party-licenses/log-0.4.34/LICENSE-APACHE, third-party-licenses/log-0.4.34/LICENSE-MIT
+
+lru-slab-0.1.3
+  License: MIT OR Apache-2.0 OR Zlib
+  Authors: Benjamin Saunders <ben.e.saunders@gmail.com>
+  Source: https://github.com/Ralith/lru-slab
+  License files: third-party-licenses/lru-slab-0.1.3/LICENSE-APACHE, third-party-licenses/lru-slab-0.1.3/LICENSE-MIT, third-party-licenses/lru-slab-0.1.3/LICENSE-ZLIB
+
+memchr-2.8.3
+  License: Unlicense OR MIT
+  Authors: Andrew Gallant <jamslam@gmail.com>; bluss
+  Source: https://github.com/BurntSushi/memchr
+  License files: third-party-licenses/memchr-2.8.3/COPYING, third-party-licenses/memchr-2.8.3/LICENSE-MIT, third-party-licenses/memchr-2.8.3/UNLICENSE
+
+memmap2-0.9.11
+  License: MIT OR Apache-2.0
+  Authors: Dan Burkert <dan@danburkert.com>; Yevhenii Reizner <razrfalcon@gmail.com>; The Contributors
+  Source: https://github.com/RazrFalcon/memmap2-rs
+  License files: third-party-licenses/memmap2-0.9.11/LICENSE-APACHE, third-party-licenses/memmap2-0.9.11/LICENSE-MIT
+
+memoffset-0.9.1
+  License: MIT
+  Authors: Gilad Naaman <gilad.naaman@gmail.com>
+  Source: https://github.com/Gilnaa/memoffset
+  License files: third-party-licenses/memoffset-0.9.1/LICENSE
+
+mime-0.3.17
+  License: MIT OR Apache-2.0
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/hyperium/mime
+  License files: third-party-licenses/mime-0.3.17/LICENSE-APACHE, third-party-licenses/mime-0.3.17/LICENSE-MIT
+
+mime_guess2-2.3.1
+  License: MIT
+  Authors: Austin Bonander <austin.bonander@gmail.com>
+  Source: https://github.com/ttys3/mime_guess2
+  License files: third-party-licenses/mime_guess2-2.3.1/LICENSE
+
+miniz_oxide-0.8.9
+  License: MIT OR Zlib OR Apache-2.0
+  Authors: Frommi <daniil.liferenko@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>; Rich Geldreich richgel99@gmail.com
+  Source: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+  License files: third-party-licenses/miniz_oxide-0.8.9/LICENSE, third-party-licenses/miniz_oxide-0.8.9/LICENSE-APACHE.md, third-party-licenses/miniz_oxide-0.8.9/LICENSE-MIT.md, third-party-licenses/miniz_oxide-0.8.9/LICENSE-ZLIB.md
+
+miniz_oxide-0.9.1
+  License: MIT OR Zlib OR Apache-2.0
+  Authors: Frommi <daniil.liferenko@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>; Rich Geldreich richgel99@gmail.com
+  Source: https://github.com/Frommi/miniz_oxide/tree/master/miniz_oxide
+  License files: third-party-licenses/miniz_oxide-0.9.1/LICENSE, third-party-licenses/miniz_oxide-0.9.1/LICENSE-APACHE.md, third-party-licenses/miniz_oxide-0.9.1/LICENSE-MIT.md, third-party-licenses/miniz_oxide-0.9.1/LICENSE-ZLIB.md
+
+mio-1.2.4
+  License: MIT
+  Authors: Carl Lerche <me@carllerche.com>; Thomas de Zeeuw <thomasdezeeuw@gmail.com>; Tokio Contributors <team@tokio.rs>
+  Source: https://github.com/tokio-rs/mio
+  License files: third-party-licenses/mio-1.2.4/LICENSE
+
+moxcms-0.8.1
+  License: BSD-3-Clause OR Apache-2.0
+  Authors: Radzivon Bartoshyk
+  Source: https://github.com/awxkee/moxcms.git
+  License files: third-party-licenses/moxcms-0.8.1/LICENSE-APACHE.md, third-party-licenses/moxcms-0.8.1/LICENSE.md
+
+naga-27.0.3
+  License: MIT OR Apache-2.0
+  Authors: gfx-rs developers
+  Source: https://github.com/gfx-rs/wgpu
+  License files: third-party-licenses/naga-27.0.3/LICENSE.APACHE, third-party-licenses/naga-27.0.3/LICENSE.MIT
+
+ndk-0.9.0
+  License: MIT OR Apache-2.0
+  Authors: The Rust Mobile contributors
+  Source: https://github.com/rust-mobile/ndk
+  License files: third-party-licenses/ndk-0.9.0/upstream/LICENSE-APACHE, third-party-licenses/ndk-0.9.0/upstream/LICENSE-MIT
+
+ndk-context-0.1.1
+  License: MIT OR Apache-2.0
+  Authors: The Rust Windowing contributors
+  Source: https://github.com/rust-windowing/android-ndk-rs
+  License files: third-party-licenses/ndk-context-0.1.1/upstream/LICENSE-APACHE, third-party-licenses/ndk-context-0.1.1/upstream/LICENSE-MIT
+
+ndk-sys-0.6.0+11769913
+  License: MIT OR Apache-2.0
+  Authors: The Rust Windowing contributors
+  Source: https://github.com/rust-mobile/ndk
+  License files: third-party-licenses/ndk-sys-0.6.0+11769913/upstream/LICENSE-APACHE, third-party-licenses/ndk-sys-0.6.0+11769913/upstream/LICENSE-MIT
+
+nohash-hasher-0.2.0
+  License: Apache-2.0 OR MIT
+  Authors: Parity Technologies <admin@parity.io>
+  Source: https://github.com/paritytech/nohash-hasher
+  License files: third-party-licenses/nohash-hasher-0.2.0/LICENSE-APACHE, third-party-licenses/nohash-hasher-0.2.0/LICENSE-MIT
+
+num-traits-0.2.19
+  License: MIT OR Apache-2.0
+  Authors: The Rust Project Developers
+  Source: https://github.com/rust-num/num-traits
+  License files: third-party-licenses/num-traits-0.2.19/LICENSE-APACHE, third-party-licenses/num-traits-0.2.19/LICENSE-MIT
+
+num_enum-0.7.6
+  License: BSD-3-Clause OR MIT OR Apache-2.0
+  Authors: Daniel Wagner-Hall <dawagner@gmail.com>; Daniel Henry-Mantilla <daniel.henry.mantilla@gmail.com>; Vincent Esche <regexident@gmail.com>
+  Source: https://github.com/illicitonion/num_enum
+  License files: third-party-licenses/num_enum-0.7.6/LICENSE-APACHE, third-party-licenses/num_enum-0.7.6/LICENSE-BSD, third-party-licenses/num_enum-0.7.6/LICENSE-MIT
+
+num_enum_derive-0.7.6
+  License: BSD-3-Clause OR MIT OR Apache-2.0
+  Authors: Daniel Wagner-Hall <dawagner@gmail.com>; Daniel Henry-Mantilla <daniel.henry.mantilla@gmail.com>; Vincent Esche <regexident@gmail.com>
+  Source: https://github.com/illicitonion/num_enum
+  License files: third-party-licenses/num_enum_derive-0.7.6/LICENSE-APACHE, third-party-licenses/num_enum_derive-0.7.6/LICENSE-BSD, third-party-licenses/num_enum_derive-0.7.6/LICENSE-MIT
+
+objc-sys-0.3.5
+  License: MIT
+  Authors: Mads Marquart <mads@marquart.dk>
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc-sys-0.3.5/upstream/LICENSE.txt
+
+objc2-0.5.3
+  License: MIT
+  Authors: Steven Sheldon; Mads Marquart <mads@marquart.dk>
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-0.5.3/upstream/LICENSE.txt
+
+objc2-0.6.5
+  License: MIT
+  Authors: Mads Marquart <mads@marquart.dk>
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-0.6.5/Cargo.toml.orig, third-party-licenses/objc2-0.6.5/LICENSE-MIT-standard-text.txt, third-party-licenses/objc2-0.6.5/upstream/LICENSE.md
+
+objc2-app-kit-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-app-kit-0.2.2/upstream/LICENSE.txt
+
+objc2-app-kit-0.3.2
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-app-kit-0.3.2/Cargo.toml.orig, third-party-licenses/objc2-app-kit-0.3.2/LICENSE-MIT-standard-text.txt, third-party-licenses/objc2-app-kit-0.3.2/upstream/LICENSE.md
+
+objc2-cloud-kit-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-cloud-kit-0.2.2/upstream/LICENSE.txt
+
+objc2-contacts-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-contacts-0.2.2/upstream/LICENSE.txt
+
+objc2-core-data-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-core-data-0.2.2/upstream/LICENSE.txt
+
+objc2-core-foundation-0.3.2
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-core-foundation-0.3.2/Cargo.toml.orig, third-party-licenses/objc2-core-foundation-0.3.2/LICENSE-MIT-standard-text.txt, third-party-licenses/objc2-core-foundation-0.3.2/upstream/LICENSE.md
+
+objc2-core-graphics-0.3.2
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-core-graphics-0.3.2/Cargo.toml.orig, third-party-licenses/objc2-core-graphics-0.3.2/LICENSE-MIT-standard-text.txt, third-party-licenses/objc2-core-graphics-0.3.2/upstream/LICENSE.md
+
+objc2-core-image-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-core-image-0.2.2/upstream/LICENSE.txt
+
+objc2-core-location-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-core-location-0.2.2/upstream/LICENSE.txt
+
+objc2-encode-4.1.0
+  License: MIT
+  Authors: Mads Marquart <mads@marquart.dk>
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-encode-4.1.0/Cargo.toml.orig, third-party-licenses/objc2-encode-4.1.0/LICENSE-MIT-standard-text.txt, third-party-licenses/objc2-encode-4.1.0/upstream/LICENSE.md
+
+objc2-foundation-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-foundation-0.2.2/upstream/LICENSE.txt
+
+objc2-foundation-0.3.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-foundation-0.3.2/Cargo.toml.orig, third-party-licenses/objc2-foundation-0.3.2/LICENSE-MIT-standard-text.txt, third-party-licenses/objc2-foundation-0.3.2/upstream/LICENSE.md
+
+objc2-io-surface-0.3.2
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-io-surface-0.3.2/Cargo.toml.orig, third-party-licenses/objc2-io-surface-0.3.2/LICENSE-MIT-standard-text.txt, third-party-licenses/objc2-io-surface-0.3.2/upstream/LICENSE.md
+
+objc2-link-presentation-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-link-presentation-0.2.2/upstream/LICENSE.txt
+
+objc2-metal-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-metal-0.2.2/upstream/LICENSE.txt
+
+objc2-quartz-core-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-quartz-core-0.2.2/upstream/LICENSE.txt
+
+objc2-symbols-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-symbols-0.2.2/upstream/LICENSE.txt
+
+objc2-ui-kit-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-ui-kit-0.2.2/upstream/LICENSE.txt
+
+objc2-uniform-type-identifiers-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-uniform-type-identifiers-0.2.2/upstream/LICENSE.txt
+
+objc2-user-notifications-0.2.2
+  License: MIT
+  Authors: 
+  Source: https://github.com/madsmtm/objc2
+  License files: third-party-licenses/objc2-user-notifications-0.2.2/upstream/LICENSE.txt
+
+once_cell-1.21.4
+  License: MIT OR Apache-2.0
+  Authors: Aleksey Kladov <aleksey.kladov@gmail.com>
+  Source: https://github.com/matklad/once_cell
+  License files: third-party-licenses/once_cell-1.21.4/LICENSE-APACHE, third-party-licenses/once_cell-1.21.4/LICENSE-MIT
+
+option-ext-0.2.0
+  License: MPL-2.0
+  Authors: Simon Ochsenreither <simon@ochsenreither.de>
+  Source: https://github.com/soc/option-ext.git
+  License files: third-party-licenses/option-ext-0.2.0/LICENSE.txt
+
+orbclient-0.3.55
+  License: MIT
+  Authors: Jeremy Soller <jackpot51@gmail.com>
+  Source: https://gitlab.redox-os.org/redox-os/orbclient
+  License files: third-party-licenses/orbclient-0.3.55/LICENSE
+
+ordered-stream-0.2.0
+  License: MIT OR Apache-2.0
+  Authors: Daniel De Graaf <code@danieldg.net>; Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/danieldg/ordered-stream
+  License files: third-party-licenses/ordered-stream-0.2.0/LICENSE-APACHE, third-party-licenses/ordered-stream-0.2.0/LICENSE-MIT
+
+owned_ttf_parser-0.25.1
+  License: Apache-2.0
+  Authors: Alex Butler <alexheretic@gmail.com>
+  Source: https://github.com/alexheretic/owned-ttf-parser
+  License files: third-party-licenses/owned_ttf_parser-0.25.1/LICENSE
+
+parking-2.2.1
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>; The Rust Project Developers
+  Source: https://github.com/smol-rs/parking
+  License files: third-party-licenses/parking-2.2.1/LICENSE-APACHE, third-party-licenses/parking-2.2.1/LICENSE-MIT, third-party-licenses/parking-2.2.1/LICENSE-THIRD-PARTY
+
+parking_lot-0.12.5
+  License: MIT OR Apache-2.0
+  Authors: Amanieu d'Antras <amanieu@gmail.com>
+  Source: https://github.com/Amanieu/parking_lot
+  License files: third-party-licenses/parking_lot-0.12.5/LICENSE-APACHE, third-party-licenses/parking_lot-0.12.5/LICENSE-MIT
+
+parking_lot_core-0.9.12
+  License: MIT OR Apache-2.0
+  Authors: Amanieu d'Antras <amanieu@gmail.com>
+  Source: https://github.com/Amanieu/parking_lot
+  License files: third-party-licenses/parking_lot_core-0.9.12/LICENSE-APACHE, third-party-licenses/parking_lot_core-0.9.12/LICENSE-MIT
+
+percent-encoding-2.3.2
+  License: MIT OR Apache-2.0
+  Authors: The rust-url developers
+  Source: https://github.com/servo/rust-url/
+  License files: third-party-licenses/percent-encoding-2.3.2/LICENSE-APACHE, third-party-licenses/percent-encoding-2.3.2/LICENSE-MIT
+
+phf-0.11.3
+  License: MIT
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/rust-phf/rust-phf
+  License files: third-party-licenses/phf-0.11.3/LICENSE
+
+phf_generator-0.11.3
+  License: MIT
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/rust-phf/rust-phf
+  License files: third-party-licenses/phf_generator-0.11.3/LICENSE
+
+phf_macros-0.11.3
+  License: MIT
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/rust-phf/rust-phf
+  License files: third-party-licenses/phf_macros-0.11.3/LICENSE
+
+phf_shared-0.11.3
+  License: MIT
+  Authors: Steven Fackler <sfackler@gmail.com>
+  Source: https://github.com/rust-phf/rust-phf
+  License files: third-party-licenses/phf_shared-0.11.3/LICENSE
+
+pin-project-1.1.13
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/taiki-e/pin-project
+  License files: third-party-licenses/pin-project-1.1.13/LICENSE-APACHE, third-party-licenses/pin-project-1.1.13/LICENSE-MIT
+
+pin-project-internal-1.1.13
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/taiki-e/pin-project
+  License files: third-party-licenses/pin-project-internal-1.1.13/LICENSE-APACHE, third-party-licenses/pin-project-internal-1.1.13/LICENSE-MIT
+
+pin-project-lite-0.2.17
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/taiki-e/pin-project-lite
+  License files: third-party-licenses/pin-project-lite-0.2.17/LICENSE-APACHE, third-party-licenses/pin-project-lite-0.2.17/LICENSE-MIT
+
+piper-0.2.5
+  License: MIT OR Apache-2.0
+  Authors: Stjepan Glavina <stjepang@gmail.com>; John Nunley <dev@notgull.net>
+  Source: https://github.com/smol-rs/piper
+  License files: third-party-licenses/piper-0.2.5/LICENSE-APACHE, third-party-licenses/piper-0.2.5/LICENSE-MIT
+
+pkg-config-0.3.34
+  License: MIT OR Apache-2.0
+  Authors: Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/rust-lang/pkg-config-rs
+  License files: third-party-licenses/pkg-config-0.3.34/LICENSE-APACHE, third-party-licenses/pkg-config-0.3.34/LICENSE-MIT
+
+plain-0.2.3
+  License: MIT/Apache-2.0
+  Authors: jzr
+  Source: https://github.com/randomites/plain
+  License files: third-party-licenses/plain-0.2.3/LICENSE-APACHE, third-party-licenses/plain-0.2.3/LICENSE-MIT
+
+png-0.18.1
+  License: MIT OR Apache-2.0
+  Authors: The image-rs Developers
+  Source: https://github.com/image-rs/image-png
+  License files: third-party-licenses/png-0.18.1/LICENSE-APACHE, third-party-licenses/png-0.18.1/LICENSE-MIT
+
+polling-3.11.0
+  License: Apache-2.0 OR MIT
+  Authors: Stjepan Glavina <stjepang@gmail.com>; John Nunley <dev@notgull.net>
+  Source: https://github.com/smol-rs/polling
+  License files: third-party-licenses/polling-3.11.0/LICENSE-APACHE, third-party-licenses/polling-3.11.0/LICENSE-MIT
+
+pollster-0.4.0
+  License: Apache-2.0/MIT
+  Authors: Joshua Barretto <joshua.s.barretto@gmail.com>
+  Source: https://github.com/zesterer/pollster
+  License files: third-party-licenses/pollster-0.4.0/LICENSE-APACHE, third-party-licenses/pollster-0.4.0/LICENSE-MIT
+
+portable-atomic-1.15.0
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/taiki-e/portable-atomic
+  License files: third-party-licenses/portable-atomic-1.15.0/LICENSE-APACHE, third-party-licenses/portable-atomic-1.15.0/LICENSE-MIT
+
+portable-atomic-util-0.2.8
+  License: Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/taiki-e/portable-atomic-util
+  License files: third-party-licenses/portable-atomic-util-0.2.8/LICENSE-APACHE, third-party-licenses/portable-atomic-util-0.2.8/LICENSE-MIT
+
+potential_utf-0.1.6
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/potential_utf-0.1.6/LICENSE
+
+ppv-lite86-0.2.21
+  License: MIT OR Apache-2.0
+  Authors: The CryptoCorrosion Contributors
+  Source: https://github.com/cryptocorrosion/cryptocorrosion
+  License files: third-party-licenses/ppv-lite86-0.2.21/LICENSE-APACHE, third-party-licenses/ppv-lite86-0.2.21/LICENSE-MIT
+
+proc-macro-crate-3.5.0
+  License: MIT OR Apache-2.0
+  Authors: Bastian Köcher <git@kchr.de>
+  Source: https://github.com/bkchr/proc-macro-crate
+  License files: third-party-licenses/proc-macro-crate-3.5.0/LICENSE-APACHE, third-party-licenses/proc-macro-crate-3.5.0/LICENSE-MIT
+
+proc-macro2-1.0.107
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>; Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/dtolnay/proc-macro2
+  License files: third-party-licenses/proc-macro2-1.0.107/LICENSE-APACHE, third-party-licenses/proc-macro2-1.0.107/LICENSE-MIT
+
+profiling-1.0.18
+  License: MIT OR Apache-2.0
+  Authors: Philip Degarmo <aclysma@gmail.com>
+  Source: https://github.com/aclysma/profiling
+  License files: third-party-licenses/profiling-1.0.18/upstream/LICENSE-APACHE, third-party-licenses/profiling-1.0.18/upstream/LICENSE-MIT
+
+pxfm-0.1.30
+  License: BSD-3-Clause OR Apache-2.0
+  Authors: Radzivon Bartoshyk
+  Source: https://github.com/awxkee/pxfm
+  License files: third-party-licenses/pxfm-0.1.30/LICENSE-APACHE.md, third-party-licenses/pxfm-0.1.30/LICENSE.md
+
+quick-error-2.0.1
+  License: MIT/Apache-2.0
+  Authors: Paul Colomiets <paul@colomiets.name>; Colin Kiegel <kiegel@gmx.de>
+  Source: http://github.com/tailhook/quick-error
+  License files: third-party-licenses/quick-error-2.0.1/LICENSE-APACHE, third-party-licenses/quick-error-2.0.1/LICENSE-MIT
+
+quick-xml-0.41.0
+  License: MIT
+  Authors: 
+  Source: https://github.com/tafia/quick-xml
+  License files: third-party-licenses/quick-xml-0.41.0/LICENSE-MIT.md
+
+quinn-0.11.12
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/quinn-rs/quinn
+  License files: third-party-licenses/quinn-0.11.12/LICENSE-APACHE, third-party-licenses/quinn-0.11.12/LICENSE-MIT
+
+quinn-proto-0.11.19
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/quinn-rs/quinn
+  License files: third-party-licenses/quinn-proto-0.11.19/LICENSE-APACHE, third-party-licenses/quinn-proto-0.11.19/LICENSE-MIT
+
+quinn-udp-0.5.16
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/quinn-rs/quinn
+  License files: third-party-licenses/quinn-udp-0.5.16/LICENSE-APACHE, third-party-licenses/quinn-udp-0.5.16/LICENSE-MIT
+
+quote-1.0.47
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/quote
+  License files: third-party-licenses/quote-1.0.47/LICENSE-APACHE, third-party-licenses/quote-1.0.47/LICENSE-MIT
+
+r-efi-5.3.0
+  License: MIT OR Apache-2.0 OR LGPL-2.1-or-later
+  Authors: 
+  Source: https://github.com/r-efi/r-efi
+  License files: third-party-licenses/r-efi-5.3.0/AUTHORS
+
+r-efi-6.0.0
+  License: MIT OR Apache-2.0 OR LGPL-2.1-or-later
+  Authors: 
+  Source: https://github.com/r-efi/r-efi
+  License files: third-party-licenses/r-efi-6.0.0/AUTHORS
+
+rand-0.10.3
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers; The Rust Project Developers
+  Source: https://github.com/rust-random/rand
+  License files: third-party-licenses/rand-0.10.3/COPYRIGHT, third-party-licenses/rand-0.10.3/LICENSE-APACHE, third-party-licenses/rand-0.10.3/LICENSE-MIT
+
+rand-0.8.8
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers; The Rust Project Developers
+  Source: https://github.com/rust-random/rand
+  License files: third-party-licenses/rand-0.8.8/COPYRIGHT, third-party-licenses/rand-0.8.8/LICENSE-APACHE, third-party-licenses/rand-0.8.8/LICENSE-MIT
+
+rand-0.9.5
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers; The Rust Project Developers
+  Source: https://github.com/rust-random/rand
+  License files: third-party-licenses/rand-0.9.5/COPYRIGHT, third-party-licenses/rand-0.9.5/LICENSE-APACHE, third-party-licenses/rand-0.9.5/LICENSE-MIT
+
+rand_chacha-0.9.0
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers; The Rust Project Developers; The CryptoCorrosion Contributors
+  Source: https://github.com/rust-random/rand
+  License files: third-party-licenses/rand_chacha-0.9.0/COPYRIGHT, third-party-licenses/rand_chacha-0.9.0/LICENSE-APACHE, third-party-licenses/rand_chacha-0.9.0/LICENSE-MIT
+
+rand_core-0.10.1
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers
+  Source: https://github.com/rust-random/rand_core
+  License files: third-party-licenses/rand_core-0.10.1/COPYRIGHT, third-party-licenses/rand_core-0.10.1/LICENSE-APACHE, third-party-licenses/rand_core-0.10.1/LICENSE-MIT
+
+rand_core-0.6.4
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers; The Rust Project Developers
+  Source: https://github.com/rust-random/rand
+  License files: third-party-licenses/rand_core-0.6.4/COPYRIGHT, third-party-licenses/rand_core-0.6.4/LICENSE-APACHE, third-party-licenses/rand_core-0.6.4/LICENSE-MIT
+
+rand_core-0.9.5
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers; The Rust Project Developers
+  Source: https://github.com/rust-random/rand
+  License files: third-party-licenses/rand_core-0.9.5/COPYRIGHT, third-party-licenses/rand_core-0.9.5/LICENSE-APACHE, third-party-licenses/rand_core-0.9.5/LICENSE-MIT
+
+rand_pcg-0.10.2
+  License: MIT OR Apache-2.0
+  Authors: The Rand Project Developers
+  Source: https://github.com/rust-random/rngs
+  License files: third-party-licenses/rand_pcg-0.10.2/COPYRIGHT, third-party-licenses/rand_pcg-0.10.2/LICENSE-APACHE, third-party-licenses/rand_pcg-0.10.2/LICENSE-MIT
+
+raw-window-handle-0.6.2
+  License: MIT OR Apache-2.0 OR Zlib
+  Authors: Osspial <osspial@gmail.com>
+  Source: https://github.com/rust-windowing/raw-window-handle
+  License files: third-party-licenses/raw-window-handle-0.6.2/LICENSE-APACHE.md, third-party-licenses/raw-window-handle-0.6.2/LICENSE-MIT.md, third-party-licenses/raw-window-handle-0.6.2/LICENSE-ZLIB.md
+
+redox_syscall-0.4.1
+  License: MIT
+  Authors: Jeremy Soller <jackpot51@gmail.com>
+  Source: https://gitlab.redox-os.org/redox-os/syscall
+  License files: third-party-licenses/redox_syscall-0.4.1/LICENSE
+
+redox_syscall-0.5.18
+  License: MIT
+  Authors: Jeremy Soller <jackpot51@gmail.com>
+  Source: https://gitlab.redox-os.org/redox-os/syscall
+  License files: third-party-licenses/redox_syscall-0.5.18/LICENSE
+
+redox_syscall-0.9.4
+  License: MIT
+  Authors: Jeremy Soller <jackpot51@gmail.com>
+  Source: https://gitlab.redox-os.org/redox-os/kernel
+  License files: third-party-licenses/redox_syscall-0.9.4/LICENSE
+
+redox_users-0.5.3
+  License: MIT
+  Authors: Jose Narvaez <goyox86@gmail.com>; Wesley Hershberger <mggmugginsmc@gmail.com>
+  Source: https://gitlab.redox-os.org/redox-os/users
+  License files: third-party-licenses/redox_users-0.5.3/LICENSE
+
+regex-1.13.1
+  License: MIT OR Apache-2.0
+  Authors: The Rust Project Developers; Andrew Gallant <jamslam@gmail.com>
+  Source: https://github.com/rust-lang/regex
+  License files: third-party-licenses/regex-1.13.1/LICENSE-APACHE, third-party-licenses/regex-1.13.1/LICENSE-MIT
+
+regex-automata-0.4.18
+  License: MIT OR Apache-2.0
+  Authors: The Rust Project Developers; Andrew Gallant <jamslam@gmail.com>
+  Source: https://github.com/rust-lang/regex
+  License files: third-party-licenses/regex-automata-0.4.18/LICENSE-APACHE, third-party-licenses/regex-automata-0.4.18/LICENSE-MIT
+
+regex-syntax-0.8.11
+  License: MIT OR Apache-2.0
+  Authors: The Rust Project Developers; Andrew Gallant <jamslam@gmail.com>
+  Source: https://github.com/rust-lang/regex
+  License files: third-party-licenses/regex-syntax-0.8.11/LICENSE-APACHE, third-party-licenses/regex-syntax-0.8.11/LICENSE-MIT, third-party-licenses/regex-syntax-0.8.11/src/unicode_tables/LICENSE-UNICODE
+
+renderdoc-sys-1.1.0
+  License: MIT OR Apache-2.0
+  Authors: Eyal Kalderon <ebkalderon@gmail.com>
+  Source: https://github.com/ebkalderon/renderdoc-rs
+  License files: third-party-licenses/renderdoc-sys-1.1.0/LICENSE-APACHE, third-party-licenses/renderdoc-sys-1.1.0/LICENSE-MIT
+
+reqwest-0.12.28
+  License: MIT OR Apache-2.0
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/seanmonstar/reqwest
+  License files: third-party-licenses/reqwest-0.12.28/LICENSE-APACHE, third-party-licenses/reqwest-0.12.28/LICENSE-MIT
+
+rfd-0.15.4
+  License: MIT
+  Authors: Poly <marynczak.bartlomiej@gmail.com>
+  Source: https://github.com/PolyMeilex/rfd
+  License files: third-party-licenses/rfd-0.15.4/LICENSE
+
+ring-0.17.14
+  License: Apache-2.0 AND ISC
+  Authors: 
+  Source: https://github.com/briansmith/ring
+  License files: third-party-licenses/ring-0.17.14/LICENSE, third-party-licenses/ring-0.17.14/LICENSE-BoringSSL, third-party-licenses/ring-0.17.14/LICENSE-other-bits, third-party-licenses/ring-0.17.14/src/polyfill/once_cell/LICENSE-APACHE, third-party-licenses/ring-0.17.14/src/polyfill/once_cell/LICENSE-MIT, third-party-licenses/ring-0.17.14/third_party/fiat/LICENSE
+
+ron-0.11.0
+  License: MIT OR Apache-2.0
+  Authors: Christopher Durham <cad97@cad97.com>; Dzmitry Malyshau <kvarkus@gmail.com>; Thomas Schaller <torkleyy@gmail.com>; Juniper Tyree <juniper.tyree@helsinki.fi>
+  Source: https://github.com/ron-rs/ron
+  License files: third-party-licenses/ron-0.11.0/LICENSE-APACHE, third-party-licenses/ron-0.11.0/LICENSE-MIT
+
+rustc-hash-1.1.0
+  License: Apache-2.0/MIT
+  Authors: The Rust Project Developers
+  Source: https://github.com/rust-lang-nursery/rustc-hash
+  License files: third-party-licenses/rustc-hash-1.1.0/LICENSE-APACHE, third-party-licenses/rustc-hash-1.1.0/LICENSE-MIT
+
+rustc-hash-2.1.3
+  License: Apache-2.0 OR MIT
+  Authors: The Rust Project Developers
+  Source: https://github.com/rust-lang/rustc-hash
+  License files: third-party-licenses/rustc-hash-2.1.3/LICENSE-APACHE, third-party-licenses/rustc-hash-2.1.3/LICENSE-MIT
+
+rustc_version-0.4.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/djc/rustc-version-rs
+  License files: third-party-licenses/rustc_version-0.4.1/LICENSE-APACHE, third-party-licenses/rustc_version-0.4.1/LICENSE-MIT
+
+rustix-0.38.44
+  License: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+  Authors: Dan Gohman <dev@sunfishcode.online>; Jakub Konka <kubkon@jakubkonka.com>
+  Source: https://github.com/bytecodealliance/rustix
+  License files: third-party-licenses/rustix-0.38.44/COPYRIGHT, third-party-licenses/rustix-0.38.44/LICENSE-APACHE, third-party-licenses/rustix-0.38.44/LICENSE-Apache-2.0_WITH_LLVM-exception, third-party-licenses/rustix-0.38.44/LICENSE-MIT
+
+rustix-1.1.5
+  License: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+  Authors: Dan Gohman <dev@sunfishcode.online>; Jakub Konka <kubkon@jakubkonka.com>
+  Source: https://github.com/bytecodealliance/rustix
+  License files: third-party-licenses/rustix-1.1.5/COPYRIGHT, third-party-licenses/rustix-1.1.5/LICENSE-APACHE, third-party-licenses/rustix-1.1.5/LICENSE-Apache-2.0_WITH_LLVM-exception, third-party-licenses/rustix-1.1.5/LICENSE-MIT
+
+rustls-0.23.45
+  License: Apache-2.0 OR ISC OR MIT
+  Authors: 
+  Source: https://github.com/rustls/rustls
+  License files: third-party-licenses/rustls-0.23.45/LICENSE-APACHE, third-party-licenses/rustls-0.23.45/LICENSE-ISC, third-party-licenses/rustls-0.23.45/LICENSE-MIT
+
+rustls-pki-types-1.15.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rustls/pki-types
+  License files: third-party-licenses/rustls-pki-types-1.15.1/LICENSE-APACHE, third-party-licenses/rustls-pki-types-1.15.1/LICENSE-MIT
+
+rustls-webpki-0.103.15
+  License: ISC
+  Authors: 
+  Source: https://github.com/rustls/webpki
+  License files: third-party-licenses/rustls-webpki-0.103.15/LICENSE
+
+rustversion-1.0.23
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/rustversion
+  License files: third-party-licenses/rustversion-1.0.23/LICENSE-APACHE, third-party-licenses/rustversion-1.0.23/LICENSE-MIT
+
+ryu-1.0.23
+  License: Apache-2.0 OR BSL-1.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/ryu
+  License files: third-party-licenses/ryu-1.0.23/LICENSE-APACHE, third-party-licenses/ryu-1.0.23/LICENSE-BOOST
+
+same-file-1.0.6
+  License: Unlicense/MIT
+  Authors: Andrew Gallant <jamslam@gmail.com>
+  Source: https://github.com/BurntSushi/same-file
+  License files: third-party-licenses/same-file-1.0.6/COPYING, third-party-licenses/same-file-1.0.6/LICENSE-MIT, third-party-licenses/same-file-1.0.6/UNLICENSE
+
+scoped-tls-1.0.1
+  License: MIT/Apache-2.0
+  Authors: Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/alexcrichton/scoped-tls
+  License files: third-party-licenses/scoped-tls-1.0.1/LICENSE-APACHE, third-party-licenses/scoped-tls-1.0.1/LICENSE-MIT
+
+scopeguard-1.2.0
+  License: MIT OR Apache-2.0
+  Authors: bluss
+  Source: https://github.com/bluss/scopeguard
+  License files: third-party-licenses/scopeguard-1.2.0/LICENSE-APACHE, third-party-licenses/scopeguard-1.2.0/LICENSE-MIT
+
+semver-1.0.28
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/semver
+  License files: third-party-licenses/semver-1.0.28/LICENSE-APACHE, third-party-licenses/semver-1.0.28/LICENSE-MIT
+
+serde-1.0.229
+  License: MIT OR Apache-2.0
+  Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>; David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/serde-rs/serde
+  License files: third-party-licenses/serde-1.0.229/LICENSE-APACHE, third-party-licenses/serde-1.0.229/LICENSE-MIT
+
+serde_core-1.0.229
+  License: MIT OR Apache-2.0
+  Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>; David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/serde-rs/serde
+  License files: third-party-licenses/serde_core-1.0.229/LICENSE-APACHE, third-party-licenses/serde_core-1.0.229/LICENSE-MIT
+
+serde_derive-1.0.229
+  License: MIT OR Apache-2.0
+  Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>; David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/serde-rs/serde
+  License files: third-party-licenses/serde_derive-1.0.229/LICENSE-APACHE, third-party-licenses/serde_derive-1.0.229/LICENSE-MIT
+
+serde_json-1.0.154
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/serde-rs/json
+  License files: third-party-licenses/serde_json-1.0.154/LICENSE-APACHE, third-party-licenses/serde_json-1.0.154/LICENSE-MIT
+
+serde_repr-0.1.21
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/serde-repr
+  License files: third-party-licenses/serde_repr-0.1.21/LICENSE-APACHE, third-party-licenses/serde_repr-0.1.21/LICENSE-MIT
+
+serde_urlencoded-0.7.1
+  License: MIT/Apache-2.0
+  Authors: Anthony Ramine <n.oxyde@gmail.com>
+  Source: https://github.com/nox/serde_urlencoded
+  License files: third-party-licenses/serde_urlencoded-0.7.1/LICENSE-APACHE, third-party-licenses/serde_urlencoded-0.7.1/LICENSE-MIT
+
+sha2-0.10.9
+  License: MIT OR Apache-2.0
+  Authors: RustCrypto Developers
+  Source: https://github.com/RustCrypto/hashes
+  License files: third-party-licenses/sha2-0.10.9/LICENSE-APACHE, third-party-licenses/sha2-0.10.9/LICENSE-MIT
+
+shlex-2.0.1
+  License: MIT OR Apache-2.0
+  Authors: comex <comexk@gmail.com>; Fenhl <fenhl@fenhl.net>; Adrian Taylor <adetaylor@chromium.org>; Alex Touchet <alextouchet@outlook.com>; Daniel Parks <dp+git@oxidized.org>; Garrett Berg <googberg@gmail.com>
+  Source: https://github.com/comex/rust-shlex
+  License files: third-party-licenses/shlex-2.0.1/LICENSE-APACHE, third-party-licenses/shlex-2.0.1/LICENSE-MIT
+
+signal-hook-registry-1.4.8
+  License: MIT OR Apache-2.0
+  Authors: Michal 'vorner' Vaner <vorner@vorner.cz>; Masaki Hara <ackie.h.gmai@gmail.com>
+  Source: https://github.com/vorner/signal-hook
+  License files: third-party-licenses/signal-hook-registry-1.4.8/LICENSE-APACHE, third-party-licenses/signal-hook-registry-1.4.8/LICENSE-MIT
+
+simd-adler32-0.3.10
+  License: MIT
+  Authors: Marvin Countryman <me@maar.vin>
+  Source: https://github.com/mcountryman/simd-adler32
+  License files: third-party-licenses/simd-adler32-0.3.10/LICENSE.md
+
+simd_cesu8-1.2.0
+  License: Apache-2.0 OR MIT
+  Authors: Sean C. Roach <me@seancroach.dev>
+  Source: https://github.com/seancroach/simd_cesu8
+  License files: third-party-licenses/simd_cesu8-1.2.0/LICENSE-APACHE, third-party-licenses/simd_cesu8-1.2.0/LICENSE-MIT
+
+simdutf8-0.1.5
+  License: MIT OR Apache-2.0
+  Authors: Hans Kratz <hans@appfour.com>
+  Source: https://github.com/rusticstuff/simdutf8
+  License files: third-party-licenses/simdutf8-0.1.5/LICENSE-Apache, third-party-licenses/simdutf8-0.1.5/LICENSE-MIT
+
+siphasher-1.0.4
+  License: MIT OR Apache-2.0
+  Authors: Frank Denis <github@pureftpd.org>
+  Source: https://github.com/jedisct1/rust-siphash
+  License files: third-party-licenses/siphasher-1.0.4/COPYING, third-party-licenses/siphasher-1.0.4/LICENSE-APACHE, third-party-licenses/siphasher-1.0.4/LICENSE-MIT
+
+slab-0.4.12
+  License: MIT
+  Authors: Carl Lerche <me@carllerche.com>
+  Source: https://github.com/tokio-rs/slab
+  License files: third-party-licenses/slab-0.4.12/LICENSE
+
+slotmap-1.1.1
+  License: Zlib
+  Authors: Orson Peters <orsonpeters@gmail.com>
+  Source: https://github.com/orlp/slotmap
+  License files: third-party-licenses/slotmap-1.1.1/LICENSE
+
+smallvec-1.16.3
+  License: MIT OR Apache-2.0
+  Authors: The Servo Project Developers
+  Source: https://github.com/servo/rust-smallvec
+  License files: third-party-licenses/smallvec-1.16.3/LICENSE-APACHE, third-party-licenses/smallvec-1.16.3/LICENSE-MIT
+
+smithay-client-toolkit-0.19.2
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>; i509VCB <mail@i509.me>; Ashley Wulber <ashley@system76.com>
+  Source: https://github.com/smithay/client-toolkit
+  License files: third-party-licenses/smithay-client-toolkit-0.19.2/LICENSE.txt
+
+smithay-client-toolkit-0.20.0
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>; i509VCB <mail@i509.me>; Ashley Wulber <ashley@system76.com>
+  Source: https://github.com/smithay/client-toolkit
+  License files: third-party-licenses/smithay-client-toolkit-0.20.0/LICENSE.txt
+
+smithay-clipboard-0.7.3
+  License: MIT
+  Authors: Kirill Chibisov <contact@kchibisov.com>; Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/smithay-clipboard
+  License files: third-party-licenses/smithay-clipboard-0.7.3/LICENSE
+
+smol_str-0.2.2
+  License: MIT OR Apache-2.0
+  Authors: Aleksey Kladov <aleksey.kladov@gmail.com>
+  Source: https://github.com/rust-analyzer/smol_str
+  License files: third-party-licenses/smol_str-0.2.2/LICENSE-APACHE, third-party-licenses/smol_str-0.2.2/LICENSE-MIT
+
+socket2-0.6.5
+  License: MIT OR Apache-2.0
+  Authors: Alex Crichton <alex@alexcrichton.com>; Thomas de Zeeuw <thomasdezeeuw@gmail.com>
+  Source: https://github.com/rust-lang/socket2
+  License files: third-party-licenses/socket2-0.6.5/LICENSE-APACHE, third-party-licenses/socket2-0.6.5/LICENSE-MIT
+
+stable_deref_trait-1.2.1
+  License: MIT OR Apache-2.0
+  Authors: Robert Grosse <n210241048576@gmail.com>
+  Source: https://github.com/storyyeller/stable_deref_trait
+  License files: third-party-licenses/stable_deref_trait-1.2.1/LICENSE-APACHE, third-party-licenses/stable_deref_trait-1.2.1/LICENSE-MIT
+
+static_assertions-1.1.0
+  License: MIT OR Apache-2.0
+  Authors: Nikolai Vazquez
+  Source: https://github.com/nvzqz/static-assertions-rs
+  License files: third-party-licenses/static_assertions-1.1.0/LICENSE-APACHE, third-party-licenses/static_assertions-1.1.0/LICENSE-MIT
+
+subtle-2.6.1
+  License: BSD-3-Clause
+  Authors: Isis Lovecruft <isis@patternsinthevoid.net>; Henry de Valence <hdevalence@hdevalence.ca>
+  Source: https://github.com/dalek-cryptography/subtle
+  License files: third-party-licenses/subtle-2.6.1/LICENSE
+
+syn-2.0.119
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/syn
+  License files: third-party-licenses/syn-2.0.119/LICENSE-APACHE, third-party-licenses/syn-2.0.119/LICENSE-MIT
+
+syn-3.0.8
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/syn
+  License files: third-party-licenses/syn-3.0.8/LICENSE-APACHE, third-party-licenses/syn-3.0.8/LICENSE-MIT
+
+sync_wrapper-1.0.2
+  License: Apache-2.0
+  Authors: Actyx AG <developer@actyx.io>
+  Source: https://github.com/Actyx/sync_wrapper
+  License files: third-party-licenses/sync_wrapper-1.0.2/LICENSE
+
+synstructure-0.14.0
+  License: MIT
+  Authors: Nika Layzell <nika@thelayzells.com>
+  Source: https://github.com/mystor/synstructure
+  License files: third-party-licenses/synstructure-0.14.0/LICENSE
+
+tempfile-3.27.0
+  License: MIT OR Apache-2.0
+  Authors: Steven Allen <steven@stebalien.com>; The Rust Project Developers; Ashley Mannix <ashleymannix@live.com.au>; Jason White <me@jasonwhite.io>
+  Source: https://github.com/Stebalien/tempfile
+  License files: third-party-licenses/tempfile-3.27.0/LICENSE-APACHE, third-party-licenses/tempfile-3.27.0/LICENSE-MIT
+
+thiserror-1.0.69
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/thiserror
+  License files: third-party-licenses/thiserror-1.0.69/LICENSE-APACHE, third-party-licenses/thiserror-1.0.69/LICENSE-MIT
+
+thiserror-2.0.21
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/thiserror
+  License files: third-party-licenses/thiserror-2.0.21/LICENSE-APACHE, third-party-licenses/thiserror-2.0.21/LICENSE-MIT
+
+thiserror-impl-1.0.69
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/thiserror
+  License files: third-party-licenses/thiserror-impl-1.0.69/LICENSE-APACHE, third-party-licenses/thiserror-impl-1.0.69/LICENSE-MIT
+
+thiserror-impl-2.0.21
+  License: MIT OR Apache-2.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/thiserror
+  License files: third-party-licenses/thiserror-impl-2.0.21/LICENSE-APACHE, third-party-licenses/thiserror-impl-2.0.21/LICENSE-MIT
+
+tiff-0.11.3
+  License: MIT
+  Authors: The image-rs Developers
+  Source: https://github.com/image-rs/image-tiff
+  License files: third-party-licenses/tiff-0.11.3/LICENSE, third-party-licenses/tiff-0.11.3/tests/COPYRIGHT
+
+tinystr-0.8.4
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/tinystr-0.8.4/LICENSE
+
+tinyvec-1.13.3
+  License: Zlib OR Apache-2.0 OR MIT
+  Authors: Lokathor <zefria@gmail.com>
+  Source: https://github.com/Lokathor/tinyvec
+  License files: third-party-licenses/tinyvec-1.13.3/LICENSE-APACHE.md, third-party-licenses/tinyvec-1.13.3/LICENSE-MIT.md, third-party-licenses/tinyvec-1.13.3/LICENSE-ZLIB.md
+
+tokio-1.53.2
+  License: MIT
+  Authors: Tokio Contributors <team@tokio.rs>
+  Source: https://github.com/tokio-rs/tokio
+  License files: third-party-licenses/tokio-1.53.2/LICENSE
+
+tokio-rustls-0.26.6
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/rustls/tokio-rustls
+  License files: third-party-licenses/tokio-rustls-0.26.6/LICENSE-APACHE, third-party-licenses/tokio-rustls-0.26.6/LICENSE-MIT
+
+tokio-util-0.7.20
+  License: MIT
+  Authors: Tokio Contributors <team@tokio.rs>
+  Source: https://github.com/tokio-rs/tokio
+  License files: third-party-licenses/tokio-util-0.7.20/LICENSE
+
+toml_datetime-1.1.2+spec-1.1.0
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/toml-rs/toml
+  License files: third-party-licenses/toml_datetime-1.1.2+spec-1.1.0/LICENSE-APACHE, third-party-licenses/toml_datetime-1.1.2+spec-1.1.0/LICENSE-MIT
+
+toml_edit-0.25.17+spec-1.1.0
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/toml-rs/toml
+  License files: third-party-licenses/toml_edit-0.25.17+spec-1.1.0/LICENSE-APACHE, third-party-licenses/toml_edit-0.25.17+spec-1.1.0/LICENSE-MIT
+
+toml_parser-1.1.5+spec-1.1.0
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/toml-rs/toml
+  License files: third-party-licenses/toml_parser-1.1.5+spec-1.1.0/LICENSE-APACHE, third-party-licenses/toml_parser-1.1.5+spec-1.1.0/LICENSE-MIT
+
+tower-0.5.3
+  License: MIT
+  Authors: Tower Maintainers <team@tower-rs.com>
+  Source: https://github.com/tower-rs/tower
+  License files: third-party-licenses/tower-0.5.3/LICENSE
+
+tower-http-0.6.11
+  License: MIT
+  Authors: Tower Maintainers <team@tower-rs.com>
+  Source: https://github.com/tower-rs/tower-http
+  License files: third-party-licenses/tower-http-0.6.11/LICENSE
+
+tower-layer-0.3.3
+  License: MIT
+  Authors: Tower Maintainers <team@tower-rs.com>
+  Source: https://github.com/tower-rs/tower
+  License files: third-party-licenses/tower-layer-0.3.3/LICENSE
+
+tower-service-0.3.3
+  License: MIT
+  Authors: Tower Maintainers <team@tower-rs.com>
+  Source: https://github.com/tower-rs/tower
+  License files: third-party-licenses/tower-service-0.3.3/LICENSE
+
+tracing-0.1.44
+  License: MIT
+  Authors: Eliza Weisman <eliza@buoyant.io>; Tokio Contributors <team@tokio.rs>
+  Source: https://github.com/tokio-rs/tracing
+  License files: third-party-licenses/tracing-0.1.44/LICENSE
+
+tracing-attributes-0.1.31
+  License: MIT
+  Authors: Tokio Contributors <team@tokio.rs>; Eliza Weisman <eliza@buoyant.io>; David Barsky <dbarsky@amazon.com>
+  Source: https://github.com/tokio-rs/tracing
+  License files: third-party-licenses/tracing-attributes-0.1.31/LICENSE
+
+tracing-core-0.1.36
+  License: MIT
+  Authors: Tokio Contributors <team@tokio.rs>
+  Source: https://github.com/tokio-rs/tracing
+  License files: third-party-licenses/tracing-core-0.1.36/LICENSE, third-party-licenses/tracing-core-0.1.36/src/spin/LICENSE
+
+try-lock-0.2.5
+  License: MIT
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/seanmonstar/try-lock
+  License files: third-party-licenses/try-lock-0.2.5/LICENSE
+
+ttf-parser-0.25.1
+  License: MIT OR Apache-2.0
+  Authors: Caleb Maclennan <caleb@alerque.com>; Laurenz Stampfl <laurenz.stampfl@gmail.com>; Yevhenii Reizner <razrfalcon@gmail.com>; خالد حسني (Khaled Hosny) <khaled@aliftype.com>
+  Source: https://github.com/harfbuzz/ttf-parser
+  License files: third-party-licenses/ttf-parser-0.25.1/LICENSE-APACHE, third-party-licenses/ttf-parser-0.25.1/LICENSE-MIT
+
+type-map-0.5.1
+  License: MIT/Apache-2.0
+  Authors: Jacob Brown <kardeiz@gmail.com>
+  Source: https://github.com/kardeiz/type-map
+  License files: third-party-licenses/type-map-0.5.1/LICENSE-APACHE, third-party-licenses/type-map-0.5.1/LICENSE-MIT
+
+typenum-1.20.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/paholg/typenum
+  License files: third-party-licenses/typenum-1.20.1/LICENSE, third-party-licenses/typenum-1.20.1/LICENSE-APACHE, third-party-licenses/typenum-1.20.1/LICENSE-MIT
+
+uds_windows-1.2.1
+  License: MIT
+  Authors: Azure IoT Edge Devs; Harald Hoyer <harald@redhat.com>
+  Source: https://github.com/haraldh/rust_uds_windows
+  License files: third-party-licenses/uds_windows-1.2.1/LICENSE
+
+unicase-2.10.0
+  License: MIT OR Apache-2.0
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/seanmonstar/unicase
+  License files: third-party-licenses/unicase-2.10.0/LICENSE-APACHE, third-party-licenses/unicase-2.10.0/LICENSE-MIT
+
+unicode-ident-1.0.27
+  License: (MIT OR Apache-2.0) AND Unicode-3.0
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/unicode-ident
+  License files: third-party-licenses/unicode-ident-1.0.27/LICENSE-APACHE, third-party-licenses/unicode-ident-1.0.27/LICENSE-MIT, third-party-licenses/unicode-ident-1.0.27/LICENSE-UNICODE
+
+unicode-segmentation-1.13.3
+  License: MIT OR Apache-2.0
+  Authors: kwantam <kwantam@gmail.com>; Manish Goregaokar <manishsmail@gmail.com>
+  Source: https://github.com/unicode-rs/unicode-segmentation
+  License files: third-party-licenses/unicode-segmentation-1.13.3/COPYRIGHT, third-party-licenses/unicode-segmentation-1.13.3/LICENSE-APACHE, third-party-licenses/unicode-segmentation-1.13.3/LICENSE-MIT
+
+unicode-width-0.2.2
+  License: MIT OR Apache-2.0
+  Authors: kwantam <kwantam@gmail.com>; Manish Goregaokar <manishsmail@gmail.com>
+  Source: https://github.com/unicode-rs/unicode-width
+  License files: third-party-licenses/unicode-width-0.2.2/COPYRIGHT, third-party-licenses/unicode-width-0.2.2/LICENSE-APACHE, third-party-licenses/unicode-width-0.2.2/LICENSE-MIT
+
+untrusted-0.9.0
+  License: ISC
+  Authors: Brian Smith <brian@briansmith.org>
+  Source: https://github.com/briansmith/untrusted
+  License files: third-party-licenses/untrusted-0.9.0/LICENSE.txt
+
+url-2.5.8
+  License: MIT OR Apache-2.0
+  Authors: The rust-url developers
+  Source: https://github.com/servo/rust-url
+  License files: third-party-licenses/url-2.5.8/LICENSE-APACHE, third-party-licenses/url-2.5.8/LICENSE-MIT
+
+urlencoding-2.1.3
+  License: MIT
+  Authors: Kornel <kornel@geekhood.net>; Bertram Truong <b@bertramtruong.com>
+  Source: https://github.com/kornelski/rust_urlencoding
+  License files: third-party-licenses/urlencoding-2.1.3/LICENSE
+
+utf8_iter-1.0.4
+  License: Apache-2.0 OR MIT
+  Authors: Henri Sivonen <hsivonen@hsivonen.fi>
+  Source: https://github.com/hsivonen/utf8_iter
+  License files: third-party-licenses/utf8_iter-1.0.4/COPYRIGHT, third-party-licenses/utf8_iter-1.0.4/LICENSE-APACHE, third-party-licenses/utf8_iter-1.0.4/LICENSE-MIT
+
+uuid-1.26.1
+  License: Apache-2.0 OR MIT
+  Authors: Ashley Mannix<ashleymannix@live.com.au>; Dylan DPC<dylan.dpc@gmail.com>; Hunar Roop Kahlon<hunar.roop@gmail.com>
+  Source: https://github.com/uuid-rs/uuid
+  License files: third-party-licenses/uuid-1.26.1/LICENSE-APACHE, third-party-licenses/uuid-1.26.1/LICENSE-MIT
+
+version_check-0.9.5
+  License: MIT/Apache-2.0
+  Authors: Sergio Benitez <sb@sergio.bz>
+  Source: https://github.com/SergioBenitez/version_check
+  License files: third-party-licenses/version_check-0.9.5/LICENSE-APACHE, third-party-licenses/version_check-0.9.5/LICENSE-MIT
+
+walkdir-2.5.0
+  License: Unlicense/MIT
+  Authors: Andrew Gallant <jamslam@gmail.com>
+  Source: https://github.com/BurntSushi/walkdir
+  License files: third-party-licenses/walkdir-2.5.0/COPYING, third-party-licenses/walkdir-2.5.0/LICENSE-MIT, third-party-licenses/walkdir-2.5.0/UNLICENSE
+
+want-0.3.2
+  License: MIT
+  Authors: Sean McArthur <sean@seanmonstar.com>
+  Source: https://github.com/seanmonstar/want
+  License files: third-party-licenses/want-0.3.2/LICENSE
+
+wasi-0.11.1+wasi-snapshot-preview1
+  License: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+  Authors: The Cranelift Project Developers
+  Source: https://github.com/bytecodealliance/wasi
+  License files: third-party-licenses/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-APACHE, third-party-licenses/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-Apache-2.0_WITH_LLVM-exception, third-party-licenses/wasi-0.11.1+wasi-snapshot-preview1/LICENSE-MIT
+
+wasip2-1.0.4+wasi-0.2.12
+  License: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/bytecodealliance/wasi-rs
+  License files: third-party-licenses/wasip2-1.0.4+wasi-0.2.12/LICENSE-APACHE, third-party-licenses/wasip2-1.0.4+wasi-0.2.12/LICENSE-Apache-2.0_WITH_LLVM-exception, third-party-licenses/wasip2-1.0.4+wasi-0.2.12/LICENSE-MIT
+
+wasm-bindgen-0.2.129
+  License: MIT OR Apache-2.0
+  Authors: The wasm-bindgen Developers
+  Source: https://github.com/wasm-bindgen/wasm-bindgen
+  License files: third-party-licenses/wasm-bindgen-0.2.129/LICENSE-APACHE, third-party-licenses/wasm-bindgen-0.2.129/LICENSE-MIT
+
+wasm-bindgen-futures-0.4.79
+  License: MIT OR Apache-2.0
+  Authors: The wasm-bindgen Developers
+  Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/futures
+  License files: third-party-licenses/wasm-bindgen-futures-0.4.79/LICENSE-APACHE, third-party-licenses/wasm-bindgen-futures-0.4.79/LICENSE-MIT
+
+wasm-bindgen-macro-0.2.129
+  License: MIT OR Apache-2.0
+  Authors: The wasm-bindgen Developers
+  Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/macro
+  License files: third-party-licenses/wasm-bindgen-macro-0.2.129/LICENSE-APACHE, third-party-licenses/wasm-bindgen-macro-0.2.129/LICENSE-MIT
+
+wasm-bindgen-macro-support-0.2.129
+  License: MIT OR Apache-2.0
+  Authors: The wasm-bindgen Developers
+  Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/main/crates/macro-support
+  License files: third-party-licenses/wasm-bindgen-macro-support-0.2.129/LICENSE-APACHE, third-party-licenses/wasm-bindgen-macro-support-0.2.129/LICENSE-MIT
+
+wasm-bindgen-shared-0.2.129
+  License: MIT OR Apache-2.0
+  Authors: The wasm-bindgen Developers
+  Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/shared
+  License files: third-party-licenses/wasm-bindgen-shared-0.2.129/LICENSE-APACHE, third-party-licenses/wasm-bindgen-shared-0.2.129/LICENSE-MIT
+
+wayland-backend-0.3.17
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-backend-0.3.17/LICENSE.txt
+
+wayland-client-0.31.15
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-client-0.31.15/LICENSE.txt
+
+wayland-csd-frame-0.3.0
+  License: MIT
+  Authors: Kirill Chibisov <contact@kchibisov.com>
+  Source: https://github.com/rust-windowing/wayland-csd-frame
+  License files: third-party-licenses/wayland-csd-frame-0.3.0/LICENSE
+
+wayland-cursor-0.31.14
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-cursor-0.31.14/LICENSE.txt
+
+wayland-protocols-0.32.13
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-protocols-0.32.13/LICENSE.txt, third-party-licenses/wayland-protocols-0.32.13/protocols/COPYING
+
+wayland-protocols-experimental-20250721.0.1
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-protocols-experimental-20250721.0.1/LICENSE.txt
+
+wayland-protocols-misc-0.3.12
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-protocols-misc-0.3.12/LICENSE.txt
+
+wayland-protocols-plasma-0.3.12
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-protocols-plasma-0.3.12/LICENSE.txt, third-party-licenses/wayland-protocols-plasma-0.3.12/plasma-wayland-protocols/COPYING.LIB
+
+wayland-protocols-wlr-0.3.12
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-protocols-wlr-0.3.12/LICENSE.txt
+
+wayland-scanner-0.31.11
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-scanner-0.31.11/LICENSE.txt
+
+wayland-sys-0.31.11
+  License: MIT
+  Authors: Elinor Berger <elinor@safaradeg.net>
+  Source: https://github.com/smithay/wayland-rs
+  License files: third-party-licenses/wayland-sys-0.31.11/LICENSE.txt
+
+web-sys-0.3.106
+  License: MIT OR Apache-2.0
+  Authors: The wasm-bindgen Developers
+  Source: https://github.com/wasm-bindgen/wasm-bindgen/tree/master/crates/web-sys
+  License files: third-party-licenses/web-sys-0.3.106/LICENSE-APACHE, third-party-licenses/web-sys-0.3.106/LICENSE-MIT
+
+web-time-1.1.0
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/daxpedda/web-time
+  License files: third-party-licenses/web-time-1.1.0/LICENSE-APACHE, third-party-licenses/web-time-1.1.0/LICENSE-MIT
+
+webbrowser-1.2.4
+  License: MIT OR Apache-2.0
+  Authors: Amod Malviya @amodm
+  Source: https://github.com/amodm/webbrowser-rs
+  License files: third-party-licenses/webbrowser-1.2.4/LICENSE-APACHE, third-party-licenses/webbrowser-1.2.4/LICENSE-MIT
+
+webpki-roots-1.0.9
+  License: CDLA-Permissive-2.0
+  Authors: 
+  Source: https://github.com/rustls/webpki-roots
+  License files: third-party-licenses/webpki-roots-1.0.9/LICENSE
+
+weezl-0.1.12
+  License: MIT OR Apache-2.0
+  Authors: The image-rs Developers
+  Source: https://github.com/image-rs/weezl
+  License files: third-party-licenses/weezl-0.1.12/LICENSE-APACHE, third-party-licenses/weezl-0.1.12/LICENSE-MIT
+
+wgpu-27.0.1
+  License: MIT OR Apache-2.0
+  Authors: gfx-rs developers
+  Source: https://github.com/gfx-rs/wgpu
+  License files: third-party-licenses/wgpu-27.0.1/LICENSE.APACHE, third-party-licenses/wgpu-27.0.1/LICENSE.MIT
+
+wgpu-core-27.0.3
+  License: MIT OR Apache-2.0
+  Authors: gfx-rs developers
+  Source: https://github.com/gfx-rs/wgpu
+  License files: third-party-licenses/wgpu-core-27.0.3/LICENSE.APACHE, third-party-licenses/wgpu-core-27.0.3/LICENSE.MIT
+
+wgpu-core-deps-windows-linux-android-27.0.0
+  License: MIT OR Apache-2.0
+  Authors: gfx-rs developers
+  Source: https://github.com/gfx-rs/wgpu
+  License files: third-party-licenses/wgpu-core-deps-windows-linux-android-27.0.0/LICENSE.APACHE, third-party-licenses/wgpu-core-deps-windows-linux-android-27.0.0/LICENSE.MIT
+
+wgpu-hal-27.0.4
+  License: MIT OR Apache-2.0
+  Authors: gfx-rs developers
+  Source: https://github.com/gfx-rs/wgpu
+  License files: third-party-licenses/wgpu-hal-27.0.4/LICENSE.APACHE, third-party-licenses/wgpu-hal-27.0.4/LICENSE.MIT
+
+wgpu-types-27.0.1
+  License: MIT OR Apache-2.0
+  Authors: gfx-rs developers
+  Source: https://github.com/gfx-rs/wgpu
+  License files: third-party-licenses/wgpu-types-27.0.1/LICENSE.APACHE, third-party-licenses/wgpu-types-27.0.1/LICENSE.MIT
+
+winapi-util-0.1.11
+  License: Unlicense OR MIT
+  Authors: Andrew Gallant <jamslam@gmail.com>
+  Source: https://github.com/BurntSushi/winapi-util
+  License files: third-party-licenses/winapi-util-0.1.11/COPYING, third-party-licenses/winapi-util-0.1.11/LICENSE-MIT, third-party-licenses/winapi-util-0.1.11/UNLICENSE
+
+windows-core-0.62.2
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-core-0.62.2/license-apache-2.0, third-party-licenses/windows-core-0.62.2/license-mit
+
+windows-implement-0.60.2
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-implement-0.60.2/license-apache-2.0, third-party-licenses/windows-implement-0.60.2/license-mit
+
+windows-interface-0.59.3
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-interface-0.59.3/license-apache-2.0, third-party-licenses/windows-interface-0.59.3/license-mit
+
+windows-link-0.2.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-link-0.2.1/license-apache-2.0, third-party-licenses/windows-link-0.2.1/license-mit
+
+windows-result-0.4.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-result-0.4.1/license-apache-2.0, third-party-licenses/windows-result-0.4.1/license-mit
+
+windows-strings-0.5.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-strings-0.5.1/license-apache-2.0, third-party-licenses/windows-strings-0.5.1/license-mit
+
+windows-sys-0.52.0
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-sys-0.52.0/license-apache-2.0, third-party-licenses/windows-sys-0.52.0/license-mit
+
+windows-sys-0.59.0
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-sys-0.59.0/license-apache-2.0, third-party-licenses/windows-sys-0.59.0/license-mit
+
+windows-sys-0.60.2
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-sys-0.60.2/license-apache-2.0, third-party-licenses/windows-sys-0.60.2/license-mit
+
+windows-sys-0.61.2
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-sys-0.61.2/license-apache-2.0, third-party-licenses/windows-sys-0.61.2/license-mit
+
+windows-targets-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-targets-0.52.6/license-apache-2.0, third-party-licenses/windows-targets-0.52.6/license-mit
+
+windows-targets-0.53.5
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows-targets-0.53.5/license-apache-2.0, third-party-licenses/windows-targets-0.53.5/license-mit
+
+windows_aarch64_gnullvm-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_aarch64_gnullvm-0.52.6/license-apache-2.0, third-party-licenses/windows_aarch64_gnullvm-0.52.6/license-mit
+
+windows_aarch64_gnullvm-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_aarch64_gnullvm-0.53.1/license-apache-2.0, third-party-licenses/windows_aarch64_gnullvm-0.53.1/license-mit
+
+windows_aarch64_msvc-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_aarch64_msvc-0.52.6/license-apache-2.0, third-party-licenses/windows_aarch64_msvc-0.52.6/license-mit
+
+windows_aarch64_msvc-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_aarch64_msvc-0.53.1/license-apache-2.0, third-party-licenses/windows_aarch64_msvc-0.53.1/license-mit
+
+windows_i686_gnu-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_i686_gnu-0.52.6/license-apache-2.0, third-party-licenses/windows_i686_gnu-0.52.6/license-mit
+
+windows_i686_gnu-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_i686_gnu-0.53.1/license-apache-2.0, third-party-licenses/windows_i686_gnu-0.53.1/license-mit
+
+windows_i686_gnullvm-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_i686_gnullvm-0.52.6/license-apache-2.0, third-party-licenses/windows_i686_gnullvm-0.52.6/license-mit
+
+windows_i686_gnullvm-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_i686_gnullvm-0.53.1/license-apache-2.0, third-party-licenses/windows_i686_gnullvm-0.53.1/license-mit
+
+windows_i686_msvc-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_i686_msvc-0.52.6/license-apache-2.0, third-party-licenses/windows_i686_msvc-0.52.6/license-mit
+
+windows_i686_msvc-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_i686_msvc-0.53.1/license-apache-2.0, third-party-licenses/windows_i686_msvc-0.53.1/license-mit
+
+windows_x86_64_gnu-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_x86_64_gnu-0.52.6/license-apache-2.0, third-party-licenses/windows_x86_64_gnu-0.52.6/license-mit
+
+windows_x86_64_gnu-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_x86_64_gnu-0.53.1/license-apache-2.0, third-party-licenses/windows_x86_64_gnu-0.53.1/license-mit
+
+windows_x86_64_gnullvm-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_x86_64_gnullvm-0.52.6/license-apache-2.0, third-party-licenses/windows_x86_64_gnullvm-0.52.6/license-mit
+
+windows_x86_64_gnullvm-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_x86_64_gnullvm-0.53.1/license-apache-2.0, third-party-licenses/windows_x86_64_gnullvm-0.53.1/license-mit
+
+windows_x86_64_msvc-0.52.6
+  License: MIT OR Apache-2.0
+  Authors: Microsoft
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_x86_64_msvc-0.52.6/license-apache-2.0, third-party-licenses/windows_x86_64_msvc-0.52.6/license-mit
+
+windows_x86_64_msvc-0.53.1
+  License: MIT OR Apache-2.0
+  Authors: 
+  Source: https://github.com/microsoft/windows-rs
+  License files: third-party-licenses/windows_x86_64_msvc-0.53.1/license-apache-2.0, third-party-licenses/windows_x86_64_msvc-0.53.1/license-mit
+
+winit-0.30.13
+  License: Apache-2.0
+  Authors: The winit contributors; Pierre Krieger <pierre.krieger1708@gmail.com>
+  Source: https://github.com/rust-windowing/winit
+  License files: third-party-licenses/winit-0.30.13/LICENSE
+
+winnow-1.0.4
+  License: MIT
+  Authors: 
+  Source: https://github.com/winnow-rs/winnow
+  License files: third-party-licenses/winnow-1.0.4/LICENSE-MIT
+
+wit-bindgen-0.57.1
+  License: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+  Authors: Alex Crichton <alex@alexcrichton.com>
+  Source: https://github.com/bytecodealliance/wit-bindgen
+  License files: third-party-licenses/wit-bindgen-0.57.1/LICENSE-APACHE, third-party-licenses/wit-bindgen-0.57.1/LICENSE-Apache-2.0_WITH_LLVM-exception, third-party-licenses/wit-bindgen-0.57.1/LICENSE-MIT
+
+writeable-0.6.4
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/writeable-0.6.4/LICENSE
+
+x11-dl-2.21.0
+  License: MIT
+  Authors: daggerbot <daggerbot@gmail.com>; Erle Pereira <erle@erlepereira.com>; AltF02 <contact@altf2.dev>
+  Source: https://github.com/AltF02/x11-rs.git
+  License files: third-party-licenses/x11-dl-2.21.0/LICENSE-MIT
+
+x11rb-0.13.2
+  License: MIT OR Apache-2.0
+  Authors: Uli Schlachter <psychon@znc.in>; Eduardo Sánchez Muñoz <eduardosm-dev@e64.io>; notgull <jtnunley01@gmail.com>
+  Source: https://github.com/psychon/x11rb
+  License files: third-party-licenses/x11rb-0.13.2/LICENSE-APACHE, third-party-licenses/x11rb-0.13.2/LICENSE-MIT
+
+x11rb-protocol-0.13.2
+  License: MIT OR Apache-2.0
+  Authors: Uli Schlachter <psychon@znc.in>; Eduardo Sánchez Muñoz <eduardosm-dev@e64.io>; notgull <jtnunley01@gmail.com>
+  Source: https://github.com/psychon/x11rb
+  License files: third-party-licenses/x11rb-protocol-0.13.2/LICENSE-APACHE, third-party-licenses/x11rb-protocol-0.13.2/LICENSE-MIT
+
+xcursor-0.3.11
+  License: MIT
+  Authors: Samuele Esposito
+  Source: https://github.com/esposm03/xcursor-rs
+  License files: third-party-licenses/xcursor-0.3.11/LICENSE
+
+xkbcommon-dl-0.4.2
+  License: MIT
+  Authors: Francesca Frangipane <francesca@comfysoft.net>
+  Source: https://github.com/rust-windowing/xkbcommon-dl
+  License files: third-party-licenses/xkbcommon-dl-0.4.2/LICENSE
+
+xkeysym-0.2.1
+  License: MIT OR Apache-2.0 OR Zlib
+  Authors: John Nunley <jtnunley01@gmail.com>
+  Source: https://github.com/notgull/xkeysym
+  License files: third-party-licenses/xkeysym-0.2.1/LICENSE-APACHE, third-party-licenses/xkeysym-0.2.1/LICENSE-MIT, third-party-licenses/xkeysym-0.2.1/LICENSE-ZLIB
+
+xml-rs-0.8.29
+  License: MIT
+  Authors: Vladimir Matveev <vmatveev@citrine.cc>
+  Source: https://github.com/kornelski/xml-rs
+  License files: third-party-licenses/xml-rs-0.8.29/LICENSE
+
+yoke-0.8.3
+  License: Unicode-3.0
+  Authors: Manish Goregaokar <manishsmail@gmail.com>
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/yoke-0.8.3/LICENSE
+
+yoke-derive-0.8.4
+  License: Unicode-3.0
+  Authors: Manish Goregaokar <manishsmail@gmail.com>
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/yoke-derive-0.8.4/LICENSE
+
+zbus-5.19.0
+  License: MIT
+  Authors: Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/z-galaxy/zbus/
+  License files: third-party-licenses/zbus-5.19.0/LICENSE
+
+zbus_macros-5.19.0
+  License: MIT
+  Authors: Marc-André Lureau <marcandre.lureau@redhat.com>; Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/z-galaxy/zbus/
+  License files: third-party-licenses/zbus_macros-5.19.0/LICENSE
+
+zbus_names-4.3.4
+  License: MIT
+  Authors: Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/z-galaxy/zbus/
+  License files: third-party-licenses/zbus_names-4.3.4/LICENSE
+
+zcheapstr-1.1.0
+  License: MIT
+  Authors: Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/z-galaxy/zcheapstr/
+  License files: third-party-licenses/zcheapstr-1.1.0/LICENSE
+
+zerocopy-0.8.62
+  License: BSD-2-Clause OR Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/google/zerocopy
+  License files: third-party-licenses/zerocopy-0.8.62/LICENSE-APACHE, third-party-licenses/zerocopy-0.8.62/LICENSE-BSD, third-party-licenses/zerocopy-0.8.62/LICENSE-MIT
+
+zerocopy-derive-0.8.62
+  License: BSD-2-Clause OR Apache-2.0 OR MIT
+  Authors: 
+  Source: https://github.com/google/zerocopy
+  License files: third-party-licenses/zerocopy-derive-0.8.62/LICENSE-APACHE, third-party-licenses/zerocopy-derive-0.8.62/LICENSE-BSD, third-party-licenses/zerocopy-derive-0.8.62/LICENSE-MIT
+
+zerofrom-0.1.8
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/zerofrom-0.1.8/LICENSE
+
+zerofrom-derive-0.1.8
+  License: Unicode-3.0
+  Authors: Manish Goregaokar <manishsmail@gmail.com>
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/zerofrom-derive-0.1.8/LICENSE
+
+zeroize-1.9.1
+  License: Apache-2.0 OR MIT
+  Authors: The RustCrypto Project Developers
+  Source: https://github.com/RustCrypto/utils
+  License files: third-party-licenses/zeroize-1.9.1/LICENSE-APACHE, third-party-licenses/zeroize-1.9.1/LICENSE-MIT
+
+zerotrie-0.2.5
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/zerotrie-0.2.5/LICENSE
+
+zerovec-0.11.8
+  License: Unicode-3.0
+  Authors: The ICU4X Project Developers
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/zerovec-0.11.8/LICENSE
+
+zerovec-derive-0.11.6
+  License: Unicode-3.0
+  Authors: Manish Goregaokar <manishsmail@gmail.com>
+  Source: https://github.com/unicode-org/icu4x
+  License files: third-party-licenses/zerovec-derive-0.11.6/LICENSE
+
+zlib-rs-0.6.8
+  License: Zlib
+  Authors: 
+  Source: https://github.com/trifectatechfoundation/zlib-rs
+  License files: third-party-licenses/zlib-rs-0.6.8/LICENSE
+
+zmij-1.0.23
+  License: MIT
+  Authors: David Tolnay <dtolnay@gmail.com>
+  Source: https://github.com/dtolnay/zmij
+  License files: third-party-licenses/zmij-1.0.23/LICENSE-MIT
+
+zune-core-0.5.3
+  License: MIT OR Apache-2.0 OR Zlib
+  Authors: 
+  Source: https://github.com/etemesi254/zune-image
+  License files: third-party-licenses/zune-core-0.5.3/LICENSE-APACHE, third-party-licenses/zune-core-0.5.3/LICENSE-MIT, third-party-licenses/zune-core-0.5.3/LICENSE-ZLIB
+
+zune-jpeg-0.5.15
+  License: MIT OR Apache-2.0 OR Zlib
+  Authors: caleb <etemesicaleb@gmail.com>
+  Source: https://github.com/etemesi254/zune-image/tree/dev/crates/zune-jpeg
+  License files: third-party-licenses/zune-jpeg-0.5.15/LICENSE-APACHE, third-party-licenses/zune-jpeg-0.5.15/LICENSE-MIT, third-party-licenses/zune-jpeg-0.5.15/LICENSE-ZLIB
+
+zvariant-5.15.0
+  License: MIT
+  Authors: Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/z-galaxy/zbus/
+  License files: third-party-licenses/zvariant-5.15.0/LICENSE
+
+zvariant_derive-5.15.0
+  License: MIT
+  Authors: Zeeshan Ali Khan <zeeshanak@gnome.org>
+  Source: https://github.com/z-galaxy/zbus/
+  License files: third-party-licenses/zvariant_derive-5.15.0/LICENSE
+
+zvariant_utils-4.2.0
+  License: MIT
+  Authors: Zeeshan Ali Khan <zeeshanak@gnome.org>; turbocooler <turbocooler@cocaine.ninja>
+  Source: https://github.com/z-galaxy/zbus/
+  License files: third-party-licenses/zvariant_utils-4.2.0/LICENSE
+
+Runtime and toolchain notices
+  third-party-licenses/rust-and-windows-runtimes/LLVM-MinGW-COPYING, third-party-licenses/rust-and-windows-runtimes/LLVM-MinGW-COPYING.MinGW-w64-runtime.txt, third-party-licenses/rust-and-windows-runtimes/LLVM-MinGW-COPYING.MinGW-w64.txt, third-party-licenses/rust-and-windows-runtimes/LLVM-MinGW-COPYING.winpthreads.txt, third-party-licenses/rust-and-windows-runtimes/LLVM-MinGW-COPYING.winstorecompat.txt, third-party-licenses/rust-and-windows-runtimes/LLVM-MinGW-LICENSE.TXT, third-party-licenses/rust-and-windows-runtimes/Rust-COPYING.RUNTIME, third-party-licenses/rust-and-windows-runtimes/Rust-COPYING3, third-party-licenses/rust-and-windows-runtimes/Rust-COPYRIGHT-library.html, third-party-licenses/rust-and-windows-runtimes/Rust-COPYRIGHT.html, third-party-licenses/rust-and-windows-runtimes/Rust-LICENSE-APACHE, third-party-licenses/rust-and-windows-runtimes/Rust-LICENSE-MIT, third-party-licenses/rust-and-windows-runtimes/Rust-stdlib-LICENSE-APACHE, third-party-licenses/rust-and-windows-runtimes/Rust-stdlib-LICENSE-MIT
+
+FFmpeg media assembly helper (added in IDX 0.7.0)
+See media-tools/NOTICE.txt, LICENSE.txt and BUILD-CONFIG.txt. This separate LGPL v3 component is not covered by the IDX MIT grant.

@@ -1,0 +1,5 @@
+tracing-core-0.1.36
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Tokio Contributors <team@tokio.rs>
+Repository: https://github.com/tokio-rs/tracing
+Published source revision: 10a9e838a35e6ded79d66af246be2ee05417136d

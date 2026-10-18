@@ -1,0 +1,142 @@
+{
+  "binary_sha256": "e3fc655a335e17a6fdd09a9b315291d0c8863180f0d801e5dd7433c9e56afbd8",
+  "label_function": "0x4aa630",
+  "reset_function": "0x4aab20",
+  "method": "CString initializer instructions and ASCII payload; recovered Reset assignments",
+  "runtime_visual_verification": false,
+  "columns": [
+    {
+      "original_id": 0,
+      "title": "File Name",
+      "visible": true,
+      "width_96dpi": 150,
+      "label_global": "0x78a018",
+      "string_address": "0x6bb0c0",
+      "string_file_offset": "0x2b96c0",
+      "initializer_address": "0x4edb5a",
+      "initializer_bytes": "68c0b06b00b918a07800e81754f1ff"
+    },
+    {
+      "original_id": 1,
+      "title": "Date Added",
+      "visible": false,
+      "width_96dpi": 65,
+      "label_global": "0x78a030",
+      "string_address": "0x6b9a84",
+      "string_file_offset": "0x2b8084",
+      "initializer_address": "0x4edfec",
+      "initializer_bytes": "68849a6b00b930a07800e8854ff1ff"
+    },
+    {
+      "original_id": 2,
+      "title": "Q",
+      "visible": true,
+      "width_96dpi": 20,
+      "label_global": "0x78a014",
+      "string_address": "0x6ba2a8",
+      "string_file_offset": "0x2b88a8",
+      "initializer_address": "0x4edb4b",
+      "initializer_bytes": "68a8a26b00b914a07800e82654f1ff"
+    },
+    {
+      "original_id": 3,
+      "title": "Size",
+      "visible": true,
+      "width_96dpi": 75,
+      "label_global": "0x78a020",
+      "string_address": "0x6a8fe4",
+      "string_file_offset": "0x2a75e4",
+      "initializer_address": "0x4edb78",
+      "initializer_bytes": "68e48f6a00b920a07800e8f953f1ff"
+    },
+    {
+      "original_id": 4,
+      "title": "Status",
+      "visible": true,
+      "width_96dpi": 65,
+      "label_global": "0x78a01c",
+      "string_address": "0x6aa318",
+      "string_file_offset": "0x2a8918",
+      "initializer_address": "0x4edb69",
+      "initializer_bytes": "6818a36a00b91ca07800e80854f1ff"
+    },
+    {
+      "original_id": 5,
+      "title": "Time left",
+      "visible": true,
+      "width_96dpi": 75,
+      "label_global": "0x78a024",
+      "string_address": "0x6ba29c",
+      "string_file_offset": "0x2b889c",
+      "initializer_address": "0x4edb87",
+      "initializer_bytes": "689ca26b00b924a07800e8ea53f1ff"
+    },
+    {
+      "original_id": 6,
+      "title": "Transfer rate",
+      "visible": true,
+      "width_96dpi": 95,
+      "label_global": "0x78a028",
+      "string_address": "0x6ba28c",
+      "string_file_offset": "0x2b888c",
+      "initializer_address": "0x4edb96",
+      "initializer_bytes": "688ca26b00b928a07800e8db53f1ff"
+    },
+    {
+      "original_id": 7,
+      "title": "Last Try Date",
+      "visible": true,
+      "width_96dpi": 65,
+      "label_global": "0x78a034",
+      "string_address": "0x6b9a74",
+      "string_file_offset": "0x2b8074",
+      "initializer_address": "0x4edffb",
+      "initializer_bytes": "68749a6b00b934a07800e8764ff1ff"
+    },
+    {
+      "original_id": 8,
+      "title": "Description",
+      "visible": true,
+      "width_96dpi": 200,
+      "label_global": "0x78a02c",
+      "string_address": "0x6a8fcc",
+      "string_file_offset": "0x2a75cc",
+      "initializer_address": "0x4edba5",
+      "initializer_bytes": "68cc8f6a00b92ca07800e8cc53f1ff"
+    },
+    {
+      "original_id": 9,
+      "title": "Save To",
+      "visible": false,
+      "width_96dpi": 200,
+      "label_global": "0x78a038",
+      "string_address": "0x6b9a6c",
+      "string_file_offset": "0x2b806c",
+      "initializer_address": "0x4ee00a",
+      "initializer_bytes": "686c9a6b00b938a07800e8674ff1ff"
+    },
+    {
+      "original_id": 10,
+      "title": "Referer",
+      "visible": false,
+      "width_96dpi": 200,
+      "label_global": "0x78a03c",
+      "string_address": "0x6aa2ec",
+      "string_file_offset": "0x2a88ec",
+      "initializer_address": "0x4ee019",
+      "initializer_bytes": "68eca26a00b93ca07800e8584ff1ff"
+    },
+    {
+      "original_id": 11,
+      "title": "Parent web page",
+      "visible": false,
+      "width_96dpi": 200,
+      "label_global": "0x78a954",
+      "string_address": "0x6ad098",
+      "string_file_offset": "0x2ab698",
+      "initializer_address": "0x4efd6b",
+      "initializer_bytes": "6898d06a00b954a97800e80632f1ff"
+    }
+  ],
+  "rust_defaults_match": true
+}

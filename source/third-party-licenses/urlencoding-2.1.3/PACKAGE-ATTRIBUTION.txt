@@ -1,0 +1,5 @@
+urlencoding-2.1.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Kornel <kornel@geekhood.net>; Bertram Truong <b@bertramtruong.com>
+Repository: https://github.com/kornelski/rust_urlencoding
+Published source revision: 3cc277fc4e577a0bef99294d7ab9bc85232f0730

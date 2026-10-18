@@ -1,0 +1,5 @@
+rfd-0.15.4
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Poly <marynczak.bartlomiej@gmail.com>
+Repository: https://github.com/PolyMeilex/rfd
+Published source revision: bac4bd3364f2befaabafa9f58ac77fd8925b2abf

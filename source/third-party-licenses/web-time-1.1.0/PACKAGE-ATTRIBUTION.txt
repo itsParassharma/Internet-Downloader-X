@@ -1,0 +1,5 @@
+web-time-1.1.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/daxpedda/web-time
+Published source revision: 2d200ded30bbcab66f6a4bfa277ac546685728db

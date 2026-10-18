@@ -1,0 +1,5 @@
+cfg-if-1.0.5
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>
+Repository: https://github.com/rust-lang/cfg-if
+Published source revision: 8b0a2b0fc1fa3b3741b9e72895f390cf499fe36f

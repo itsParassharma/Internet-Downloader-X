@@ -1,0 +1,5 @@
+adler2-2.0.1
+License expression from published Cargo metadata: 0BSD OR MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Jonas Schievink <jonasschievink@gmail.com>; oyvindln <oyvindln@users.noreply.github.com>
+Repository: https://github.com/oyvindln/adler2
+Published source revision: 89a031a0f42eeff31c70dc598b398cbf31f1680f

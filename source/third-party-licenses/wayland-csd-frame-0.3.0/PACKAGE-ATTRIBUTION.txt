@@ -1,0 +1,5 @@
+wayland-csd-frame-0.3.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Kirill Chibisov <contact@kchibisov.com>
+Repository: https://github.com/rust-windowing/wayland-csd-frame
+Published source revision: e9a510b13a96e9a1fabb31d3bf3f28cab702d003

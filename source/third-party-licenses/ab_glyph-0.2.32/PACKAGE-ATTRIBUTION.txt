@@ -1,0 +1,5 @@
+ab_glyph-0.2.32
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Butler <alexheretic@gmail.com>
+Repository: https://github.com/alexheretic/ab-glyph
+Published source revision: ffde4c677fa1095ac355174c1aa2919d7d53eff3

@@ -1,0 +1,4 @@
+block-padding-0.3.3
+License: MIT OR Apache-2.0
+Repository: https://github.com/RustCrypto/utils
+Published source revision: c1e32c58ca814c0b6265725002f4d853c3272bef

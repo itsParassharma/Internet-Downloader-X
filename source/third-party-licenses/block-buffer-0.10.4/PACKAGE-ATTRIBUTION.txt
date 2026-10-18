@@ -1,0 +1,5 @@
+block-buffer-0.10.4
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): RustCrypto Developers
+Repository: https://github.com/RustCrypto/utils
+Published source revision: 6d35952d3d3b124bc1049ad6fb406b42b1ce4bfe

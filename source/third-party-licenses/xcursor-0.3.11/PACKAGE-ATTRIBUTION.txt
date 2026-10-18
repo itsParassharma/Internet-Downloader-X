@@ -1,0 +1,5 @@
+xcursor-0.3.11
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Samuele Esposito
+Repository: https://github.com/esposm03/xcursor-rs
+Published source revision: 4760fa50b9352168e1b740c1ff75f37697620423

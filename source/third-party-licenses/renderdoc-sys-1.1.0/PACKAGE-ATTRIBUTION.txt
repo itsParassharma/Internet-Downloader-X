@@ -1,0 +1,5 @@
+renderdoc-sys-1.1.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Eyal Kalderon <ebkalderon@gmail.com>
+Repository: https://github.com/ebkalderon/renderdoc-rs
+Published source revision: 0276afc3686dd3ee9475798ed8ab89026d74143d

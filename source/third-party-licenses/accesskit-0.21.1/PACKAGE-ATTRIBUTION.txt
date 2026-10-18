@@ -1,0 +1,5 @@
+accesskit-0.21.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The AccessKit contributors
+Repository: https://github.com/AccessKit/accesskit
+Published source revision: 0b6901a8c8e6fb1cb5a2dc7c19dc7bee1cc5ad09

@@ -1,0 +1,5 @@
+parking_lot_core-0.9.12
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Amanieu d'Antras <amanieu@gmail.com>
+Repository: https://github.com/Amanieu/parking_lot
+Published source revision: d7828fff7b5d6327ae608e82db45f888b344449a

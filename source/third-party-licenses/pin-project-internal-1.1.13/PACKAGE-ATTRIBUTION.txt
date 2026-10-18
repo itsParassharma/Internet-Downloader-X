@@ -1,0 +1,5 @@
+pin-project-internal-1.1.13
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/taiki-e/pin-project
+Published source revision: c3b6b85f7e1674602c0ed693da985b33b2452c3c

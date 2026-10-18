@@ -1,0 +1,5 @@
+simd_cesu8-1.2.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Sean C. Roach <me@seancroach.dev>
+Repository: https://github.com/seancroach/simd_cesu8
+Published source revision: b7977cfbebc962b6fa68969bac9c863ae55a8233

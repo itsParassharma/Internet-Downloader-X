@@ -1,0 +1,6 @@
+objc2-encode-4.1.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Mads Marquart <mads@marquart.dk>
+Repository: https://github.com/madsmtm/objc2
+Published source revision: 8d214f5477365ffcbcbb7de058c86ed9a518efb7
+The pinned upstream archive declares or links the license rather than including the complete applicable text. A standard SPDX license text is supplied alongside upstream metadata; template placeholders are not assertions of an upstream copyright year.

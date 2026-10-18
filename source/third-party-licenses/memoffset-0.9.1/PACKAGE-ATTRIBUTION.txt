@@ -1,0 +1,5 @@
+memoffset-0.9.1
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Gilad Naaman <gilad.naaman@gmail.com>
+Repository: https://github.com/Gilnaa/memoffset
+Published source revision: 153fc3d50f03755be53148bc3eb97390f9011e45

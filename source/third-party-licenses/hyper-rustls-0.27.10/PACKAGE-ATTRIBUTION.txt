@@ -1,0 +1,5 @@
+hyper-rustls-0.27.10
+License expression from published Cargo metadata: Apache-2.0 OR ISC OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rustls/hyper-rustls
+Published source revision: ce45b6b0dfdf238f9058b89feb1e3b8eaebbc5b0

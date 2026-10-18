@@ -1,0 +1,5 @@
+wasm-bindgen-0.2.129
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The wasm-bindgen Developers
+Repository: https://github.com/wasm-bindgen/wasm-bindgen
+Published source revision: 165586f854c852bcbc4d14d8a75a0a0e0d0abc12

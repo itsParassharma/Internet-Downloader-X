@@ -1,0 +1,5 @@
+thiserror-2.0.21
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/thiserror
+Published source revision: b1827ee06f81a7d7f954e676771e19a97f9f8e3b

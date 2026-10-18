@@ -1,0 +1,5 @@
+chrono-0.4.45
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/chronotope/chrono
+Published source revision: 170338250e836976a211e64728ec956e45e78a39

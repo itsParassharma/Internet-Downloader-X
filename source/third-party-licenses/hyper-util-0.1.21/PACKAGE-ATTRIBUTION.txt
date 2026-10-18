@@ -1,0 +1,5 @@
+hyper-util-0.1.21
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/hyperium/hyper-util
+Published source revision: 23a868965964c1d6bb1b94f30ba4c420a4bebe7c

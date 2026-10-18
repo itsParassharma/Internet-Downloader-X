@@ -1,0 +1,5 @@
+rand_chacha-0.9.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rand Project Developers; The Rust Project Developers; The CryptoCorrosion Contributors
+Repository: https://github.com/rust-random/rand
+Published source revision: 96f8df65ee6b4368d91a006f9c5b4a8050abae49

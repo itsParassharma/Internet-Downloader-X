@@ -1,0 +1,5 @@
+httparse-1.10.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/seanmonstar/httparse
+Published source revision: 9f29e79f9832dbd0ae5220acb17c1866745bdecd

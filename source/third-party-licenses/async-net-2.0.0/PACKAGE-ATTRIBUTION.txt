@@ -1,0 +1,5 @@
+async-net-2.0.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>
+Repository: https://github.com/smol-rs/async-net
+Published source revision: 2b34b162b96c223c4a945fcf15e71c7ef5ed8c84

@@ -1,0 +1,5 @@
+jni-sys-0.4.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Steven Fackler <sfackler@gmail.com>; Robert Bragg <robert@sixbynine.org>
+Repository: https://github.com/jni-rs/jni-sys
+Published source revision: 65ea279041232aec345dbd9483b3956c788862aa

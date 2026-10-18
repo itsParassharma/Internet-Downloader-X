@@ -1,0 +1,5 @@
+home-0.5.12
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Brian Anderson <andersrb@gmail.com>
+Repository: https://github.com/rust-lang/cargo
+Published source revision: 4f15cc8882fb34bf70c945e9c8ae91d6c8c91757

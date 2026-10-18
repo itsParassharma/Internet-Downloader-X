@@ -1,0 +1,5 @@
+zlib-rs-0.6.8
+License expression from published Cargo metadata: Zlib
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/trifectatechfoundation/zlib-rs
+Published source revision: 0254e07204884bfc902d6ebb68c8b703d0ea49cf

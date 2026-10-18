@@ -1,0 +1,5 @@
+uuid-1.26.1
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Ashley Mannix<ashleymannix@live.com.au>; Dylan DPC<dylan.dpc@gmail.com>; Hunar Roop Kahlon<hunar.roop@gmail.com>
+Repository: https://github.com/uuid-rs/uuid
+Published source revision: 9f927126c89892ddfed6cd2f92df16852f3f9aa6

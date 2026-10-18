@@ -1,0 +1,5 @@
+polling-3.11.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>; John Nunley <dev@notgull.net>
+Repository: https://github.com/smol-rs/polling
+Published source revision: f404d08dd2a61994ac5fe0ed663bc051bd94c053

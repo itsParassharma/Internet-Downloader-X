@@ -1,0 +1,5 @@
+rustix-1.1.5
+License expression from published Cargo metadata: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Dan Gohman <dev@sunfishcode.online>; Jakub Konka <kubkon@jakubkonka.com>
+Repository: https://github.com/bytecodealliance/rustix
+Published source revision: 287214b889865d8e1406a0ee71cc409b6f6191c8

@@ -1,0 +1,5 @@
+ab_glyph_rasterizer-0.1.10
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Butler <alexheretic@gmail.com>
+Repository: https://github.com/alexheretic/ab-glyph
+Published source revision: 971e5a9b337fbae3edb1ac3ac44d84351d24e8b8

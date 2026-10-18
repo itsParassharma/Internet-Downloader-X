@@ -1,0 +1,5 @@
+rustls-webpki-0.103.15
+License expression from published Cargo metadata: ISC
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rustls/webpki
+Published source revision: c14836d8de33c0ad0ac7dcb28fe9aade20831a4d

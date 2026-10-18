@@ -1,0 +1,5 @@
+siphasher-1.0.4
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Frank Denis <github@pureftpd.org>
+Repository: https://github.com/jedisct1/rust-siphash
+Published source revision: ed028f01a16205b0819fa83b0cdc052e2d5ac3b7

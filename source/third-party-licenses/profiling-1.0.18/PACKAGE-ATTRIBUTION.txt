@@ -1,0 +1,5 @@
+profiling-1.0.18
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Philip Degarmo <aclysma@gmail.com>
+Repository: https://github.com/aclysma/profiling
+Published source revision: 8271551172eb6fa4cba47369aedd93790c623df9

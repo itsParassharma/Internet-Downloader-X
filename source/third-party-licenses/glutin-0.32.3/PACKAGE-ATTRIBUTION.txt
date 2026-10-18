@@ -1,0 +1,5 @@
+glutin-0.32.3
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Kirill Chibisov <contact@kchibisov.com>
+Repository: https://github.com/rust-windowing/glutin
+Published source revision: 20d1c103172aa4025f02cc94ca16a3169bea789c

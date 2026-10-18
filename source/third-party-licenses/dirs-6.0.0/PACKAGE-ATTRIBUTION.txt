@@ -1,0 +1,5 @@
+dirs-6.0.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Simon Ochsenreither <simon@ochsenreither.de>
+Repository: https://github.com/soc/dirs-rs
+Published source revision: 00511bdc252f491a72ac89f6d6a2463406266fb2

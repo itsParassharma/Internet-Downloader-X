@@ -1,0 +1,5 @@
+rustls-pki-types-1.15.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rustls/pki-types
+Published source revision: e29ad15465126acc089b39611bcec85e27ce0817

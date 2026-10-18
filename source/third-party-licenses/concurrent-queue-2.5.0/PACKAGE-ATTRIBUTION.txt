@@ -1,0 +1,5 @@
+concurrent-queue-2.5.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>; Taiki Endo <te316e89@gmail.com>; John Nunley <dev@notgull.net>
+Repository: https://github.com/smol-rs/concurrent-queue
+Published source revision: e874f701f8413de01948c4903f894e5c845d8950

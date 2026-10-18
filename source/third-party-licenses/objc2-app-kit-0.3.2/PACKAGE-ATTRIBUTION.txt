@@ -1,0 +1,6 @@
+objc2-app-kit-0.3.2
+License expression from published Cargo metadata: Zlib OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/madsmtm/objc2
+Published source revision: 7b1abfd750a2cacaea71d6a56ecfb83cb7de560b
+The pinned upstream archive declares or links the license rather than including the complete applicable text. A standard SPDX license text is supplied alongside upstream metadata; template placeholders are not assertions of an upstream copyright year.

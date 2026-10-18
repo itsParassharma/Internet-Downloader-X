@@ -1,0 +1,5 @@
+zeroize-1.9.1
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): The RustCrypto Project Developers
+Repository: https://github.com/RustCrypto/utils
+Published source revision: 34a6ebcb9b920ec7ae5809e470fce94fe7c0cb55

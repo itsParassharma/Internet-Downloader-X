@@ -1,0 +1,5 @@
+chacha20-0.10.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): RustCrypto Developers
+Repository: https://github.com/RustCrypto/stream-ciphers
+Published source revision: 6b236b758a0279f64d777797514813b2cb572c8b

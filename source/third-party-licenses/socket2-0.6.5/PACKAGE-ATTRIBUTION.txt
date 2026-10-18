@@ -1,0 +1,5 @@
+socket2-0.6.5
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>; Thomas de Zeeuw <thomasdezeeuw@gmail.com>
+Repository: https://github.com/rust-lang/socket2
+Published source revision: 239dd83a4ced08e514d2c38942aab99791119f0d

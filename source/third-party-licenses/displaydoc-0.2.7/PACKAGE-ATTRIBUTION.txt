@@ -1,0 +1,5 @@
+displaydoc-0.2.7
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Jane Lusby <jlusby@yaah.dev>
+Repository: https://github.com/yaahc/displaydoc
+Published source revision: 20016487354a96b22a7b97974483ae4f51a1bddc

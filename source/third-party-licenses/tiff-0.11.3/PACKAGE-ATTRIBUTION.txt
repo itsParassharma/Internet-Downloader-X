@@ -1,0 +1,5 @@
+tiff-0.11.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): The image-rs Developers
+Repository: https://github.com/image-rs/image-tiff
+Published source revision: e41159ce058bf193718b017599e2d7d53e9ccc92

@@ -1,0 +1,5 @@
+quinn-udp-0.5.16
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/quinn-rs/quinn
+Published source revision: 8192ed399a26a6e8f0aba43d10ec8badaa5b905e

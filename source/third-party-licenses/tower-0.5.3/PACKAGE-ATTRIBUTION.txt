@@ -1,0 +1,5 @@
+tower-0.5.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Tower Maintainers <team@tower-rs.com>
+Repository: https://github.com/tower-rs/tower
+Published source revision: 4b0a6b0e688bd177eb2c9c97f5268dd9703c66fc

@@ -1,0 +1,5 @@
+http-body-util-0.1.5
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Carl Lerche <me@carllerche.com>; Lucio Franco <luciofranco14@gmail.com>; Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/hyperium/http-body
+Published source revision: 07838bd97b714b95bd783cd695ebf211b67545c4

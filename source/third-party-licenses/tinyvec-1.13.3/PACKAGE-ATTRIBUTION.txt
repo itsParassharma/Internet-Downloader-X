@@ -1,0 +1,5 @@
+tinyvec-1.13.3
+License expression from published Cargo metadata: Zlib OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Lokathor <zefria@gmail.com>
+Repository: https://github.com/Lokathor/tinyvec
+Published source revision: e343bbbb5a6594c9d57de718e6f232e6c0115dcb

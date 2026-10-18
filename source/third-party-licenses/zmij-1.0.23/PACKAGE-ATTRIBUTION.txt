@@ -1,0 +1,5 @@
+zmij-1.0.23
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/zmij
+Published source revision: 7b7cc48b58028e8af7be87e94c0c1c8936f1a57c

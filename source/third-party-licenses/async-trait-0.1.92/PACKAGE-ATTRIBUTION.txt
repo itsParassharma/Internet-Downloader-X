@@ -1,0 +1,5 @@
+async-trait-0.1.92
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/async-trait
+Published source revision: 82e7e9edd60f622294373a23c0ce9c0077ad0263

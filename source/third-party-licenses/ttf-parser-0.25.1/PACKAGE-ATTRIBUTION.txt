@@ -1,0 +1,5 @@
+ttf-parser-0.25.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Caleb Maclennan <caleb@alerque.com>; Laurenz Stampfl <laurenz.stampfl@gmail.com>; Yevhenii Reizner <razrfalcon@gmail.com>; خالد حسني (Khaled Hosny) <khaled@aliftype.com>
+Repository: https://github.com/harfbuzz/ttf-parser
+Published source revision: 56c33b910b03ca152f78363ec471c5dfd97c3069

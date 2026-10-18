@@ -1,0 +1,5 @@
+zerovec-derive-0.11.6
+License expression from published Cargo metadata: Unicode-3.0
+Package authors (not substituted for upstream copyright notices): Manish Goregaokar <manishsmail@gmail.com>
+Repository: https://github.com/unicode-org/icu4x
+Published source revision: 898d79c69f37da7b45a15a5714663c9b59b3d928

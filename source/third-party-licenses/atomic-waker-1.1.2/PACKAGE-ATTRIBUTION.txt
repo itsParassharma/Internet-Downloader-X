@@ -1,0 +1,5 @@
+atomic-waker-1.1.2
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>; Contributors to futures-rs
+Repository: https://github.com/smol-rs/atomic-waker
+Published source revision: 9969a29ccd1fe298e2df7346849c0095ba303a64

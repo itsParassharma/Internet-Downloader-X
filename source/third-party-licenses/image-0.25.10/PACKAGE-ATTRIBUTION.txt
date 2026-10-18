@@ -1,0 +1,5 @@
+image-0.25.10
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The image-rs Developers
+Repository: https://github.com/image-rs/image
+Published source revision: 76e57184f22772dad1138e96954e57945406b15e

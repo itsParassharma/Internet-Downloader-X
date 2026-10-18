@@ -1,0 +1,5 @@
+fdeflate-0.3.7
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The image-rs Developers
+Repository: https://github.com/image-rs/fdeflate
+Published source revision: c365c7e6ffa81feb2e1fb762eed7299f05c9b0ca

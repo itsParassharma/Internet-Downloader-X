@@ -1,0 +1,708 @@
+{
+  "date": "2026-10-17",
+  "extracted_dialogs": 105,
+  "derived_layouts": 100,
+  "routed_native_templates": 38,
+  "unrouted_derived_templates": 62,
+  "omitted_product_dialogs": [
+    138,
+    144,
+    182,
+    190,
+    290
+  ],
+  "all_original_dialog_behavior_implemented": false,
+  "all_18979_functions_implemented_in_rust": false,
+  "meaning": "Routed means IDX opens this native template. Some controls are adapted, disabled or hidden because their behavior is not implemented. It does not mean full original functional parity.",
+  "groups": {
+    "Main window": [
+      102
+    ],
+    "Download progress and tabs": [
+      103,
+      363,
+      364,
+      365
+    ],
+    "Download forms, search, confirmations and About": [
+      100,
+      130,
+      135,
+      148,
+      280,
+      286,
+      337,
+      338,
+      506
+    ],
+    "Options pages": [
+      139,
+      294,
+      143,
+      291,
+      141,
+      140,
+      145,
+      185,
+      195
+    ],
+    "Scheduler": [
+      308,
+      306,
+      307,
+      310
+    ],
+    "Grabber wizard and results": [
+      239,
+      257,
+      259,
+      264,
+      240,
+      241,
+      244,
+      245
+    ],
+    "Columns customization": [
+      209
+    ],
+    "Category editor": [
+      204
+    ],
+    "Browser setup": [
+      381
+    ]
+  },
+  "dialogs": [
+    {
+      "id": 100,
+      "original_title": "About Internet Download Manager",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38d988"
+    },
+    {
+      "id": 102,
+      "original_title": "Internet Download Manager 6.43",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38e850"
+    },
+    {
+      "id": 103,
+      "original_title": "Download progress",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38cc48"
+    },
+    {
+      "id": 105,
+      "original_title": "Tip of the Day",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38e698"
+    },
+    {
+      "id": 130,
+      "original_title": "Download File Info",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38ceb8"
+    },
+    {
+      "id": 135,
+      "original_title": "File Properties",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38d488"
+    },
+    {
+      "id": 138,
+      "original_title": "Internet Download Manager Registration",
+      "status": "omitted_registration_or_original_updater",
+      "original_offset": "0x38c900"
+    },
+    {
+      "id": 139,
+      "original_title": "General",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38f390"
+    },
+    {
+      "id": 140,
+      "original_title": "Proxy / Socks",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38f9f8"
+    },
+    {
+      "id": 141,
+      "original_title": "Connection",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x390210"
+    },
+    {
+      "id": 143,
+      "original_title": "Save to",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x390718"
+    },
+    {
+      "id": 144,
+      "original_title": "New version of Internet Download Manager is available",
+      "status": "omitted_registration_or_original_updater",
+      "original_offset": "0x390c48"
+    },
+    {
+      "id": 145,
+      "original_title": "Sites Logins",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38e9e8"
+    },
+    {
+      "id": 146,
+      "original_title": "Site login",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38eb78"
+    },
+    {
+      "id": 147,
+      "original_title": "Dialog",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38c808"
+    },
+    {
+      "id": 148,
+      "original_title": "Enter new address to download",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38d270"
+    },
+    {
+      "id": 150,
+      "original_title": "Shut down",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38de68"
+    },
+    {
+      "id": 182,
+      "original_title": "Quick Update",
+      "status": "omitted_registration_or_original_updater",
+      "original_offset": "0x38edf8"
+    },
+    {
+      "id": 184,
+      "original_title": "Dial up",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38e058"
+    },
+    {
+      "id": 185,
+      "original_title": "Dial Up / VPN",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x38eed0"
+    },
+    {
+      "id": 186,
+      "original_title": "Dial Up Options",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38e118"
+    },
+    {
+      "id": 187,
+      "original_title": "IDM drop target. Drop web-links for downloading here",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38e278"
+    },
+    {
+      "id": 190,
+      "original_title": "Download IDM components",
+      "status": "omitted_registration_or_original_updater",
+      "original_offset": "0x38e338"
+    },
+    {
+      "id": 191,
+      "original_title": "Export download list",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38e418"
+    },
+    {
+      "id": 193,
+      "original_title": "Automatically start downloading the following extensions:",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38e578"
+    },
+    {
+      "id": 194,
+      "original_title": "Download limits exceeded!",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x38f2e8"
+    },
+    {
+      "id": 195,
+      "original_title": "Sounds",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x390d68"
+    },
+    {
+      "id": 196,
+      "original_title": "Zip preview",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x390f18"
+    },
+    {
+      "id": 204,
+      "original_title": "IDM categories",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x390fd8"
+    },
+    {
+      "id": 208,
+      "original_title": "IDM language",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x3914d0"
+    },
+    {
+      "id": 209,
+      "original_title": "Columns",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x391660"
+    },
+    {
+      "id": 226,
+      "original_title": "Max. connections number for a server",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x3919c8"
+    },
+    {
+      "id": 228,
+      "original_title": "Download All Links with IDM",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x391be8"
+    },
+    {
+      "id": 229,
+      "original_title": "Using special keys",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x392460"
+    },
+    {
+      "id": 230,
+      "original_title": "Checking Internet Connection",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x392b80"
+    },
+    {
+      "id": 231,
+      "original_title": "General",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x392c58"
+    },
+    {
+      "id": 232,
+      "original_title": "Internet Download Manager Problem Report",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x393280"
+    },
+    {
+      "id": 236,
+      "original_title": "IDM tip: Automatic link capture",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x393658"
+    },
+    {
+      "id": 239,
+      "original_title": "IDM Site Grabber",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x3938d8"
+    },
+    {
+      "id": 240,
+      "original_title": "",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x3939b8"
+    },
+    {
+      "id": 241,
+      "original_title": "IDM Site Grabber",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x3941c8"
+    },
+    {
+      "id": 242,
+      "original_title": "",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x3943f0"
+    },
+    {
+      "id": 244,
+      "original_title": "Filters",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x394418"
+    },
+    {
+      "id": 245,
+      "original_title": "Filter",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x394518"
+    },
+    {
+      "id": 257,
+      "original_title": "",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x3946d8"
+    },
+    {
+      "id": 259,
+      "original_title": "",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x394df8"
+    },
+    {
+      "id": 262,
+      "original_title": "Settings of IDM Grabber",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x395298"
+    },
+    {
+      "id": 264,
+      "original_title": "",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x395708"
+    },
+    {
+      "id": 268,
+      "original_title": "Template Name",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x395e70"
+    },
+    {
+      "id": 269,
+      "original_title": "Saving the project of IDM Grabber",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x395f90"
+    },
+    {
+      "id": 270,
+      "original_title": "Load project",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x396140"
+    },
+    {
+      "id": 271,
+      "original_title": "IDM Grabber Statistics",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x396208"
+    },
+    {
+      "id": 279,
+      "original_title": "Connecting to the site",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x396570"
+    },
+    {
+      "id": 280,
+      "original_title": "Batch download",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x3967f0"
+    },
+    {
+      "id": 281,
+      "original_title": "IDM Site Grabber",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x396f10"
+    },
+    {
+      "id": 284,
+      "original_title": "Schedule the grabber project",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x397098"
+    },
+    {
+      "id": 286,
+      "original_title": "Download complete",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x397af0"
+    },
+    {
+      "id": 290,
+      "original_title": "IDM update notice",
+      "status": "omitted_registration_or_original_updater",
+      "original_offset": "0x397d78"
+    },
+    {
+      "id": 291,
+      "original_title": "Downloads",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x397f38"
+    },
+    {
+      "id": 292,
+      "original_title": "Rebooting computer",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x398718"
+    },
+    {
+      "id": 294,
+      "original_title": "File types",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x398840"
+    },
+    {
+      "id": 296,
+      "original_title": "Browsers integration",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x398c28"
+    },
+    {
+      "id": 297,
+      "original_title": "Browser details",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x398e18"
+    },
+    {
+      "id": 298,
+      "original_title": "Duplicate download link",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x398ef8"
+    },
+    {
+      "id": 300,
+      "original_title": "Internet Download Manager",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x3993b0"
+    },
+    {
+      "id": 302,
+      "original_title": "Cancelling an automatically started download",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x3994a0"
+    },
+    {
+      "id": 303,
+      "original_title": "The list of address exceptions",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x399930"
+    },
+    {
+      "id": 304,
+      "original_title": "Add an address to exceptions list",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x399c38"
+    },
+    {
+      "id": 305,
+      "original_title": "IDM could not take over the download",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x399d30"
+    },
+    {
+      "id": 306,
+      "original_title": "Schedule",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x399e58"
+    },
+    {
+      "id": 307,
+      "original_title": "Files in the queue",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39a668"
+    },
+    {
+      "id": 308,
+      "original_title": "Scheduler",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39a818"
+    },
+    {
+      "id": 309,
+      "original_title": "",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39aa60"
+    },
+    {
+      "id": 310,
+      "original_title": "Enter queue name",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39ac18"
+    },
+    {
+      "id": 332,
+      "original_title": "IDM Queues",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39ad78"
+    },
+    {
+      "id": 334,
+      "original_title": " Chrome, Edge, IE ",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39aff8"
+    },
+    {
+      "id": 335,
+      "original_title": "Firefox and other Mozilla based",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39b278"
+    },
+    {
+      "id": 336,
+      "original_title": "Report for IDM developers",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39b518"
+    },
+    {
+      "id": 337,
+      "original_title": "Speed Limiter settings",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39b848"
+    },
+    {
+      "id": 338,
+      "original_title": "Confirm deletion of downloads",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39bb88"
+    },
+    {
+      "id": 339,
+      "original_title": "Confirm deletion of downloads",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39bdf0"
+    },
+    {
+      "id": 340,
+      "original_title": "",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39bfd8"
+    },
+    {
+      "id": 341,
+      "original_title": "Add file type",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39c590"
+    },
+    {
+      "id": 342,
+      "original_title": "IDM",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39c638"
+    },
+    {
+      "id": 344,
+      "original_title": "IDM",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39c800"
+    },
+    {
+      "id": 345,
+      "original_title": "",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39c8a0"
+    },
+    {
+      "id": 348,
+      "original_title": "Dialog",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39c9f0"
+    },
+    {
+      "id": 349,
+      "original_title": "Enter site name",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39ce00"
+    },
+    {
+      "id": 352,
+      "original_title": "Exit IDM",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39ceb0"
+    },
+    {
+      "id": 363,
+      "original_title": "Download status",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39cf28"
+    },
+    {
+      "id": 364,
+      "original_title": "Options on completion",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39d220"
+    },
+    {
+      "id": 365,
+      "original_title": "Speed Limiter",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39d5a8"
+    },
+    {
+      "id": 367,
+      "original_title": "Customize download progress dialog",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39d818"
+    },
+    {
+      "id": 369,
+      "original_title": "Advanced proxy settings",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39db80"
+    },
+    {
+      "id": 370,
+      "original_title": "Download panel exceptions",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39e430"
+    },
+    {
+      "id": 381,
+      "original_title": "Google Chrome Integration",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39e620"
+    },
+    {
+      "id": 487,
+      "original_title": "Find file",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39e730"
+    },
+    {
+      "id": 488,
+      "original_title": "Minimum size",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39e950"
+    },
+    {
+      "id": 489,
+      "original_title": "Integration into Microsoft Edge browser",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39eac0"
+    },
+    {
+      "id": 494,
+      "original_title": "Virus checking",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39ed80"
+    },
+    {
+      "id": 504,
+      "original_title": "",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39ef30"
+    },
+    {
+      "id": 505,
+      "original_title": "",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x39ef70"
+    },
+    {
+      "id": 506,
+      "original_title": "Find file",
+      "status": "native_route_with_partial_behavior",
+      "original_offset": "0x39f080"
+    },
+    {
+      "id": 30721,
+      "original_title": "New",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x5ad658"
+    },
+    {
+      "id": 30734,
+      "original_title": "",
+      "status": "extracted_and_rebranded_reference_only",
+      "original_offset": "0x5ad740"
+    }
+  ],
+  "source_revision_note": "Release 0.3.0 adds category dialog 204 and app browser setup using dialog 381. Browser identity is automatic, with no ID entry. Native desktop inspection remains blocked despite renewed consent."
+}

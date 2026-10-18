@@ -1,0 +1,38 @@
+{
+  "idx.exe": {
+    "sha256": "44253ceab40fbeed4fc9b074cb7910e62a3a539e4ccb5011c78cf634e8e50544",
+    "imports": [
+      "ADVAPI32.dll",
+      "api-ms-win-core-synch-l1-2-0.dll",
+      "bcrypt.dll",
+      "bcryptprimitives.dll",
+      "combase.dll",
+      "COMCTL32.dll",
+      "CRYPT32.dll",
+      "GDI32.dll",
+      "gdiplus.dll",
+      "KERNEL32.dll",
+      "ntdll.dll",
+      "ole32.dll",
+      "SHELL32.dll",
+      "SHLWAPI.dll",
+      "USER32.dll",
+      "UxTheme.dll",
+      "ws2_32.dll"
+    ],
+    "separate_vc_runtime_required": false
+  },
+  "idx-native-host.exe": {
+    "sha256": "1abddd620fa70e75b526d114a58bb6600f0694b28df675694aa8d9e52236e555",
+    "imports": [
+      "ADVAPI32.dll",
+      "api-ms-win-core-synch-l1-2-0.dll",
+      "bcrypt.dll",
+      "bcryptprimitives.dll",
+      "KERNEL32.dll",
+      "ntdll.dll",
+      "ws2_32.dll"
+    ],
+    "separate_vc_runtime_required": false
+  }
+}

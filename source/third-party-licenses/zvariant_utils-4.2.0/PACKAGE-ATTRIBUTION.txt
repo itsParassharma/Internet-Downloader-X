@@ -1,0 +1,5 @@
+zvariant_utils-4.2.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Zeeshan Ali Khan <zeeshanak@gnome.org>; turbocooler <turbocooler@cocaine.ninja>
+Repository: https://github.com/z-galaxy/zbus/
+Published source revision: 0f4db6980bc1566278618a46c9ffa7f5f025c18a

@@ -1,0 +1,5 @@
+utf8_iter-1.0.4
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Henri Sivonen <hsivonen@hsivonen.fi>
+Repository: https://github.com/hsivonen/utf8_iter
+Published source revision: 6b604ea2365bd535fb66eb4bfe92a9e00e333090

@@ -1,0 +1,5 @@
+futures-util-0.3.34
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rust-lang/futures-rs
+Published source revision: 705e6b5c0f06535b1aac1cb1989a172b3d45be8c

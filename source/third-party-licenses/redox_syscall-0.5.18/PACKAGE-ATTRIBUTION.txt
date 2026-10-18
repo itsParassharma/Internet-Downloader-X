@@ -1,0 +1,5 @@
+redox_syscall-0.5.18
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Jeremy Soller <jackpot51@gmail.com>
+Repository: https://gitlab.redox-os.org/redox-os/syscall
+Published source revision: 15aa8e32ef0f3328dd9d48cc8ca02e148a362069

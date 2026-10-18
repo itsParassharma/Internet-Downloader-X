@@ -1,0 +1,5 @@
+async-lock-3.4.2
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>
+Repository: https://github.com/smol-rs/async-lock
+Published source revision: f07ba65a02ec3eca32fa95e6d13dc754d619bb35

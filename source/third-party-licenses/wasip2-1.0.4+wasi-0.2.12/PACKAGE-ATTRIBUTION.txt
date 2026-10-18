@@ -1,0 +1,5 @@
+wasip2-1.0.4+wasi-0.2.12
+License expression from published Cargo metadata: Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/bytecodealliance/wasi-rs
+Published source revision: 1edbc7add705b075d28436b26057ca9aa5a5a492

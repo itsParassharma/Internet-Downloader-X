@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Download with IDX</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <header><strong>IDX</strong><span>Internet Downloader X</span></header>
+  <form id="download-form">
+    <label for="download-url">Download address</label>
+    <input id="download-url" type="url" placeholder="https://example.com/file.zip" maxlength="16384" required autofocus>
+    <div class="actions"><button id="current-page" type="button">Use current page</button><button id="download" type="submit">Download</button></div>
+  </form>
+  <p id="status" role="status" aria-live="polite">Paste a direct file link, or right-click a link and choose “Download with IDX”.</p>
+  <form id="settings-form">
+    <h2>Automatic downloads</h2>
+    <label class="toggle"><input id="automatic" type="checkbox"> Send new browser downloads to IDX</label>
+    <p class="hint">Off by default. When enabled, the browser keeps downloading until IDX saves the request.</p>
+    <label for="excluded-sites">Keep these sites in the browser</label>
+    <textarea id="excluded-sites" rows="3" placeholder="example.com&#10;another-site.com" spellcheck="false"></textarea>
+    <p class="hint">One site per line. Subdomains are included. Private downloads stay in the browser.</p>
+    <button type="submit" id="save-settings">Save settings</button>
+    <p id="settings-status" role="status" aria-live="polite"></p>
+  </form>
+  <footer>IDX must be installed and connected to this browser.</footer>
+  <script src="native.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+unicode-ident-1.0.27
+License expression from published Cargo metadata: (MIT OR Apache-2.0) AND Unicode-3.0
+Package authors (not substituted for upstream copyright notices): David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/unicode-ident
+Published source revision: c1ac3afb721f3cea6527bc2255340a04d0de3ca0

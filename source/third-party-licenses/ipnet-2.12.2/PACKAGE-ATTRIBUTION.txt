@@ -1,0 +1,5 @@
+ipnet-2.12.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Kris Price <kris@krisprice.nz>
+Repository: https://github.com/krisprice/ipnet
+Published source revision: 13c5c5873c02127679b1e8e64b538e4e36942640

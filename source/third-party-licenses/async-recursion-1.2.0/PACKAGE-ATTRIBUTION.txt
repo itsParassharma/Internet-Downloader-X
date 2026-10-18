@@ -1,0 +1,5 @@
+async-recursion-1.2.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Robert Usher <266585+dcchut@users.noreply.github.com>
+Repository: https://github.com/dcchut/async-recursion
+Published source revision: b33ad72c964f403fc28f2ed38dfa658078461ccd

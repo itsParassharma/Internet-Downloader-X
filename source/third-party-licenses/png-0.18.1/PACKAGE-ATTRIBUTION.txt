@@ -1,0 +1,5 @@
+png-0.18.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The image-rs Developers
+Repository: https://github.com/image-rs/image-png
+Published source revision: 2a3f980245e3ae38b82ade96533e7b450e8477bb

@@ -1,0 +1,5 @@
+proc-macro-crate-3.5.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Bastian Köcher <git@kchr.de>
+Repository: https://github.com/bkchr/proc-macro-crate
+Published source revision: 8f3d8b04539f732e09c07907f138a248c8d0eed9

@@ -1,0 +1,5 @@
+uds_windows-1.2.1
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Azure IoT Edge Devs; Harald Hoyer <harald@redhat.com>
+Repository: https://github.com/haraldh/rust_uds_windows
+Published source revision: 0b3a6ff289a0426f96bbc0310505b8531469c896

@@ -1,0 +1,5 @@
+core-graphics-types-0.1.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Servo Project Developers
+Repository: https://github.com/servo/core-foundation-rs
+Published source revision: d4ce710182f1756c9d874ab917283fe1a1b7a011

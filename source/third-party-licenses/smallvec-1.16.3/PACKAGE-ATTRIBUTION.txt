@@ -1,0 +1,5 @@
+smallvec-1.16.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Servo Project Developers
+Repository: https://github.com/servo/rust-smallvec
+Published source revision: bb9e44b68571e28e88196dcdb11fab89f3df5a0a

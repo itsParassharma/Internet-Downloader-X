@@ -1,0 +1,5 @@
+hex-0.4.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): KokaKiwi <kokakiwi@kokakiwi.net>
+Repository: https://github.com/KokaKiwi/rust-hex
+Published source revision: b2b4370b5bf021b98ee7adc92233e8de3f2de792

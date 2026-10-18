@@ -1,0 +1,5 @@
+type-map-0.5.1
+License expression from published Cargo metadata: MIT/Apache-2.0
+Package authors (not substituted for upstream copyright notices): Jacob Brown <kardeiz@gmail.com>
+Repository: https://github.com/kardeiz/type-map
+Published source revision: d3ab3e642736d87f3fa8b1e6c8f13a93fcfb72e1

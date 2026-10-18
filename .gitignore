@@ -1,0 +1,6 @@
+/source/target/
+/source/dist/
+/source/.migration-backup/
+/source/media-tools/
+**/__pycache__/
+*.log

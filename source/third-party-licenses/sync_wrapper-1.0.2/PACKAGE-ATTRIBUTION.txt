@@ -1,0 +1,5 @@
+sync_wrapper-1.0.2
+License expression from published Cargo metadata: Apache-2.0
+Package authors (not substituted for upstream copyright notices): Actyx AG <developer@actyx.io>
+Repository: https://github.com/Actyx/sync_wrapper
+Published source revision: 55413956c36aeab47feb8c04d1b7a044d6df336a

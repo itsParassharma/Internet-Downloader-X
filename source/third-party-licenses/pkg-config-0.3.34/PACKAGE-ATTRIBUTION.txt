@@ -1,0 +1,5 @@
+pkg-config-0.3.34
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>
+Repository: https://github.com/rust-lang/pkg-config-rs
+Published source revision: a8852cc148f8f7d504bf3a62444c298dcd3637f0

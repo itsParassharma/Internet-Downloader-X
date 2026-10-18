@@ -1,0 +1,5 @@
+tower-layer-0.3.3
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Tower Maintainers <team@tower-rs.com>
+Repository: https://github.com/tower-rs/tower
+Published source revision: fec9e559e276ba9609f939d3b0d2e4fa0504de6f

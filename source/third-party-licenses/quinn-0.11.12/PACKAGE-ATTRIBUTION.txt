@@ -1,0 +1,5 @@
+quinn-0.11.12
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/quinn-rs/quinn
+Published source revision: eaec0db4bcb698f76df736d89938743c88a2ad5f

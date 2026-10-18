@@ -1,0 +1,5 @@
+untrusted-0.9.0
+License expression from published Cargo metadata: ISC
+Package authors (not substituted for upstream copyright notices): Brian Smith <brian@briansmith.org>
+Repository: https://github.com/briansmith/untrusted
+Published source revision: 89c8b8415f692d3803d183fc5fbf9ec08a6adcf4

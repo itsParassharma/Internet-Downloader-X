@@ -1,0 +1,5 @@
+pollster-0.4.0
+License expression from published Cargo metadata: Apache-2.0/MIT
+Package authors (not substituted for upstream copyright notices): Joshua Barretto <joshua.s.barretto@gmail.com>
+Repository: https://github.com/zesterer/pollster
+Published source revision: 2864daf5febd81eb33f66cb32b66ca78a9e21db7

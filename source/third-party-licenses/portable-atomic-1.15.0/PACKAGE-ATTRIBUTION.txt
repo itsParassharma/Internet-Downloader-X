@@ -1,0 +1,5 @@
+portable-atomic-1.15.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/taiki-e/portable-atomic
+Published source revision: e4595528211f1d53b7f4d93e528ef84b491fc871

@@ -1,0 +1,474 @@
+{
+  "total": 18979,
+  "status_counts": {
+    "ok": 18979
+  },
+  "index_sha256": "085d4492ebdc39b76bcebdf453108589cfbea103360c6f1602e1f2d0c45d693a",
+  "classification": {
+    "unnamed_recovered_functions": {
+      "count": 7314,
+      "samples": [
+        {
+          "address": "0x460240",
+          "name": "FUN_00460240"
+        },
+        {
+          "address": "0x4605b0",
+          "name": "FUN_004605b0"
+        },
+        {
+          "address": "0x460670",
+          "name": "FUN_00460670"
+        },
+        {
+          "address": "0x4607a0",
+          "name": "FUN_004607a0"
+        },
+        {
+          "address": "0x4608b0",
+          "name": "FUN_004608b0"
+        },
+        {
+          "address": "0x4608c0",
+          "name": "FUN_004608c0"
+        },
+        {
+          "address": "0x460ca0",
+          "name": "FUN_00460ca0"
+        },
+        {
+          "address": "0x460fc0",
+          "name": "FUN_00460fc0"
+        },
+        {
+          "address": "0x4611a0",
+          "name": "FUN_004611a0"
+        },
+        {
+          "address": "0x461630",
+          "name": "FUN_00461630"
+        },
+        {
+          "address": "0x4617f0",
+          "name": "FUN_004617f0"
+        },
+        {
+          "address": "0x461940",
+          "name": "FUN_00461940"
+        }
+      ]
+    },
+    "exception_catch_fragments": {
+      "count": 1428,
+      "samples": [
+        {
+          "address": "0x46064d",
+          "name": "Catch@0046064d"
+        },
+        {
+          "address": "0x460856",
+          "name": "Catch@00460856"
+        },
+        {
+          "address": "0x460c38",
+          "name": "Catch@00460c38"
+        },
+        {
+          "address": "0x461186",
+          "name": "Catch@00461186"
+        },
+        {
+          "address": "0x461606",
+          "name": "Catch@00461606"
+        },
+        {
+          "address": "0x461928",
+          "name": "Catch@00461928"
+        },
+        {
+          "address": "0x461a78",
+          "name": "Catch@00461a78"
+        },
+        {
+          "address": "0x461b52",
+          "name": "Catch@00461b52"
+        },
+        {
+          "address": "0x461c22",
+          "name": "Catch@00461c22"
+        },
+        {
+          "address": "0x461ff9",
+          "name": "Catch@00461ff9"
+        },
+        {
+          "address": "0x4622c0",
+          "name": "Catch@004622c0"
+        },
+        {
+          "address": "0x4625e0",
+          "name": "Catch@004625e0"
+        }
+      ]
+    },
+    "named_thunk_candidates": {
+      "count": 109,
+      "samples": [
+        {
+          "address": "0x471d20",
+          "name": "thunk_FUN_00471050"
+        },
+        {
+          "address": "0x49bce0",
+          "name": "thunk_FUN_0049bcd0"
+        },
+        {
+          "address": "0x49c4d0",
+          "name": "thunk_FUN_0049c260"
+        },
+        {
+          "address": "0x49d6f0",
+          "name": "thunk_FUN_0049d6a0"
+        },
+        {
+          "address": "0x5b2030",
+          "name": "thunk_FUN_005b1ad0"
+        },
+        {
+          "address": "0x5bb550",
+          "name": "thunk_FUN_005bacf0"
+        },
+        {
+          "address": "0x5e99a0",
+          "name": "thunk_FUN_005e8510"
+        },
+        {
+          "address": "0x5e9ee0",
+          "name": "thunk_FUN_005e9ec0"
+        },
+        {
+          "address": "0x5ef130",
+          "name": "thunk_FUN_005ef120"
+        },
+        {
+          "address": "0x5129d0",
+          "name": "thunk_FUN_005129c0"
+        },
+        {
+          "address": "0x515b20",
+          "name": "thunk_FUN_00515b10"
+        },
+        {
+          "address": "0x515ea0",
+          "name": "thunk_FUN_00515e90"
+        }
+      ]
+    },
+    "other_named_functions": {
+      "count": 906,
+      "samples": [
+        {
+          "address": "0x474ca0",
+          "name": "FID_conflict:operator[]"
+        },
+        {
+          "address": "0x49dc50",
+          "name": "RemoveAll"
+        },
+        {
+          "address": "0x6351d8",
+          "name": "QueryInterface"
+        },
+        {
+          "address": "0x6354b6",
+          "name": "QueryInterface"
+        },
+        {
+          "address": "0x6354fc",
+          "name": "QueryInterface"
+        },
+        {
+          "address": "0x63561b",
+          "name": "_GetValue<>"
+        },
+        {
+          "address": "0x635662",
+          "name": "_SetValue<>"
+        },
+        {
+          "address": "0x6356e8",
+          "name": "_SetValue<>"
+        },
+        {
+          "address": "0x63572d",
+          "name": "_SetValue<>"
+        },
+        {
+          "address": "0x6357af",
+          "name": "AFX_EVENT::AFX_EVENT"
+        },
+        {
+          "address": "0x6357d7",
+          "name": "AFX_EVENT::AFX_EVENT"
+        },
+        {
+          "address": "0x635a2a",
+          "name": "CreateControl"
+        }
+      ]
+    },
+    "explicit_framework_runtime_symbol_candidates": {
+      "count": 1210,
+      "samples": [
+        {
+          "address": "0x63511b",
+          "name": "COleControlSite::XOleIPSite::DeactivateAndUndo"
+        },
+        {
+          "address": "0x63514f",
+          "name": "COleControlSite::XOleControlSite::Release"
+        },
+        {
+          "address": "0x635166",
+          "name": "COleControlSite::XOleControlSite::QueryInterface"
+        },
+        {
+          "address": "0x635183",
+          "name": "COleControlSite::XOleControlSite::OnControlInfoChanged"
+        },
+        {
+          "address": "0x6351a4",
+          "name": "COleControlSite::XAmbientProps::Release"
+        },
+        {
+          "address": "0x6351bb",
+          "name": "COleControlSite::XAmbientProps::QueryInterface"
+        },
+        {
+          "address": "0x63521e",
+          "name": "COleControlSite::XEventSink::QueryInterface"
+        },
+        {
+          "address": "0x635283",
+          "name": "CDataSourceControl::CDataSourceControl"
+        },
+        {
+          "address": "0x6352d6",
+          "name": "CDataSourceControl::GetCursor"
+        },
+        {
+          "address": "0x635341",
+          "name": "CDataSourceControl::CopyColumnID"
+        },
+        {
+          "address": "0x6353bd",
+          "name": "CDataSourceControl::BindProp"
+        },
+        {
+          "address": "0x635405",
+          "name": "CDataBoundProperty::CDataBoundProperty"
+        }
+      ]
+    },
+    "named_exception_runtime_candidates": {
+      "count": 9,
+      "samples": [
+        {
+          "address": "0x6405c5",
+          "name": "__CxxThrowException@8"
+        },
+        {
+          "address": "0x645e0c",
+          "name": "__SEH_prolog4_GS"
+        },
+        {
+          "address": "0x645f18",
+          "name": "__SEH_prolog4"
+        },
+        {
+          "address": "0x645f5d",
+          "name": "__SEH_epilog4"
+        },
+        {
+          "address": "0x6518f6",
+          "name": "_EH4_CallFilterFunc"
+        },
+        {
+          "address": "0x65190d",
+          "name": "_EH4_TransferToHandler"
+        },
+        {
+          "address": "0x651926",
+          "name": "_EH4_GlobalUnwind"
+        },
+        {
+          "address": "0x651940",
+          "name": "_EH4_LocalUnwind"
+        },
+        {
+          "address": "0x6556e5",
+          "name": "__CxxUnhandledExceptionFilter"
+        }
+      ]
+    },
+    "exception_unwind_fragments": {
+      "count": 7865,
+      "samples": [
+        {
+          "address": "0x679318",
+          "name": "Unwind@00679318"
+        },
+        {
+          "address": "0x679320",
+          "name": "Unwind@00679320"
+        },
+        {
+          "address": "0x679350",
+          "name": "Unwind@00679350"
+        },
+        {
+          "address": "0x6793a0",
+          "name": "Unwind@006793a0"
+        },
+        {
+          "address": "0x6793a8",
+          "name": "Unwind@006793a8"
+        },
+        {
+          "address": "0x6793b0",
+          "name": "Unwind@006793b0"
+        },
+        {
+          "address": "0x6793b8",
+          "name": "Unwind@006793b8"
+        },
+        {
+          "address": "0x6793f0",
+          "name": "Unwind@006793f0"
+        },
+        {
+          "address": "0x6793f8",
+          "name": "Unwind@006793f8"
+        },
+        {
+          "address": "0x679403",
+          "name": "Unwind@00679403"
+        },
+        {
+          "address": "0x679411",
+          "name": "Unwind@00679411"
+        },
+        {
+          "address": "0x67941f",
+          "name": "Unwind@0067941f"
+        }
+      ]
+    },
+    "named_delay_load_wrappers": {
+      "count": 111,
+      "samples": [
+        {
+          "address": "0x65d458",
+          "name": "DelayLoad_Ordinal_116"
+        },
+        {
+          "address": "0x65d479",
+          "name": "DelayLoad_Ordinal_115"
+        },
+        {
+          "address": "0x65d489",
+          "name": "DelayLoad_Ordinal_8"
+        },
+        {
+          "address": "0x65d499",
+          "name": "DelayLoad_Ordinal_52"
+        },
+        {
+          "address": "0x65d4a9",
+          "name": "DelayLoad_Ordinal_9"
+        },
+        {
+          "address": "0x65d4b9",
+          "name": "DelayLoad_Ordinal_14"
+        },
+        {
+          "address": "0x65d4c9",
+          "name": "DelayLoad_Ordinal_16"
+        },
+        {
+          "address": "0x65d4d9",
+          "name": "DelayLoad_Ordinal_111"
+        },
+        {
+          "address": "0x65d4e9",
+          "name": "DelayLoad_Ordinal_11"
+        },
+        {
+          "address": "0x65d4f9",
+          "name": "DelayLoad_Ordinal_19"
+        },
+        {
+          "address": "0x65d509",
+          "name": "DelayLoad_Ordinal_151"
+        },
+        {
+          "address": "0x65d519",
+          "name": "DelayLoad_Ordinal_18"
+        }
+      ]
+    },
+    "named_dll_import_stubs": {
+      "count": 27,
+      "samples": [
+        {
+          "address": "0x65d473",
+          "name": "WS2_32.DLL::WSACleanup"
+        },
+        {
+          "address": "0x65d483",
+          "name": "WS2_32.DLL::WSAStartup"
+        },
+        {
+          "address": "0x65d493",
+          "name": "WS2_32.DLL::htonl"
+        },
+        {
+          "address": "0x65d4a3",
+          "name": "WS2_32.DLL::gethostbyname"
+        },
+        {
+          "address": "0x65d4b3",
+          "name": "WS2_32.DLL::htons"
+        },
+        {
+          "address": "0x65d4c3",
+          "name": "WS2_32.DLL::ntohl"
+        },
+        {
+          "address": "0x65d4d3",
+          "name": "WS2_32.DLL::recv"
+        },
+        {
+          "address": "0x65d4e3",
+          "name": "WS2_32.DLL::WSAGetLastError"
+        },
+        {
+          "address": "0x65d4f3",
+          "name": "WS2_32.DLL::inet_addr"
+        },
+        {
+          "address": "0x65d503",
+          "name": "WS2_32.DLL::send"
+        },
+        {
+          "address": "0x65d513",
+          "name": "WS2_32.DLL::__WSAFDIsSet"
+        },
+        {
+          "address": "0x65d523",
+          "name": "WS2_32.DLL::select"
+        }
+      ]
+    }
+  }
+}

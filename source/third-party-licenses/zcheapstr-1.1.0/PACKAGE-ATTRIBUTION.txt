@@ -1,0 +1,5 @@
+zcheapstr-1.1.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Zeeshan Ali Khan <zeeshanak@gnome.org>
+Repository: https://github.com/z-galaxy/zcheapstr/
+Published source revision: a9e7595419e5e826c14e35d0a77ebc84b973ca58

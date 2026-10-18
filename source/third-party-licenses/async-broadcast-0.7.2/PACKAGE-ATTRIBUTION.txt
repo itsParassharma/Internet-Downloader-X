@@ -1,0 +1,5 @@
+async-broadcast-0.7.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Stjepan Glavina <stjepang@gmail.com>; Yoshua Wuyts <yoshuawuyts@gmail.com>; Zeeshan Ali Khan <zeeshanak@gnome.org>
+Repository: https://github.com/smol-rs/async-broadcast
+Published source revision: f7a99132b7e12cb03945013df78b93a35ceafbc1

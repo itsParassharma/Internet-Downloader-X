@@ -1,0 +1,5 @@
+bit-vec-0.8.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Alexis Beingessner <a.beingessner@gmail.com>
+Repository: https://github.com/contain-rs/bit-vec
+Published source revision: 16d8d5ed27e9d379ae5d531ffcf7535cd02ef8f3

@@ -1,0 +1,5 @@
+jni-0.22.4
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): jni team
+Repository: https://github.com/jni-rs/jni-rs
+Published source revision: 5ae9458a4ec44c5318f37ddc7569c1d4ae8a69e7

@@ -1,0 +1,404 @@
+{
+  "schema_version": 1,
+  "meaning": "Reviewed correspondence between original pseudocode and Rust workflows, not proof of a complete function translation or runtime equivalence. Unlisted functions remain unmapped.",
+  "mappings": [
+    {
+      "address": "0x52c940",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0052c940 initializes scheduler dialog controls including 0x6c1 (1729, start on startup), 0x4c3 (1219, Once at), and 0x4c7 (1223, Friday). Original dialog 306 supplies their captions and positions.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::init_scheduler",
+        "src/ui/native_settings.rs::load_queue",
+        "src/ui/native_settings.rs::schedule_enabled"
+      ],
+      "remaining": "Original periodic synchronization, completion actions, retry semantics and full initialization behavior remain unmatched. Native runtime verification is pending."
+    },
+    {
+      "address": "0x4af590",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004af590 initializes dialog 0x136 (310) and populates edit control 0x67c (1660) with the existing name.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::queue_proc"
+      ],
+      "remaining": "Native runtime verification and original localization behavior remain pending."
+    },
+    {
+      "address": "0x4af5e0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004af5e0 constructs CEnterNameForNewQueueDlg with resource 0x136 (310).",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::queue_name"
+      ],
+      "remaining": "Native runtime verification pending; Rust uses its own state and ownership model."
+    },
+    {
+      "address": "0x4af650",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004af650 reads queue-name control 0x67c (1660), checks for nonempty text, stores it and calls OnOK.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::queue_proc",
+        "src/model.rs::rename_queue"
+      ],
+      "remaining": "Rust adds bounded names, duplicate checks and JSON reference updates. Full original name-validation equivalence and native runtime verification remain pending."
+    },
+    {
+      "address": "0x4a9b70",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Constructs CEditColumnsDlg using original resource 209 (0xd1).",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::show"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4a9fb0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Show: reads selected row and changes its state-image mask 0xf000 to 0x2000.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::command",
+        "src/columns.rs::set_visible"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4aa000",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Hide: reads selected row and changes its state-image mask 0xf000 to 0x1000.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::command",
+        "src/columns.rs::set_visible"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4aa050",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Commits visibility by stable item ID, width, DPI conversion and column order; sets hidden columns to zero width and closes with OK.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::command",
+        "src/ui/native_main.rs::apply_columns"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4aa230",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Reads the selected column width, calls 0x63e251 (_atol), and retains a changed width only when positive.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::edit_width",
+        "src/columns.rs::set_width"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4aa430",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "On list selection/state changes, enables Show/Hide based on checkbox state, disables movement at the list boundaries, and displays the saved width for that item ID.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::refresh_controls"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4aa7c0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Initializes original controls 1340,1053,1048,1083,1160; loads ordered logical column IDs and checkbox state with list extended style 0x24.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::init",
+        "src/ui/native_columns.rs::rebuild"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4aab20",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Reset recreates original IDs 0..11, checks 0,2,3,4,5,6,7,8 and stores widths [150,65,20,75,65,75,95,65,200,200,200,200] at object offset 0x184. Rust reproduces the presentation using stable pre-existing IDX IDs.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::command",
+        "src/columns.rs::normalize"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4a9b10",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Converts the supplied pixel width to a 96-DPI logical width with MulDiv(width,96,dpi).",
+      "rust_symbols": [
+        "src/columns.rs::to_logical"
+      ],
+      "remaining": "Native dialog code compiles and eight column-model tests pass. All twelve English labels and Reset order/visibility/widths match the hash-verified executable and recovered pseudocode (ORIGINAL-COLUMNS.json). Full app compilation and 62 Rust tests pass in release 0.2.0. Native runtime equivalence, header interactions and localization remain unverified because Computer Use app access is blocked. Invalid out-of-range width input preserves the previous value."
+    },
+    {
+      "address": "0x4aa630",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Maps original column IDs 0..11 to CString globals. Original initializer instruction bytes and ASCII strings recovered from the installer-supplied IDMan.exe establish the twelve English names. tools/recover_columns.py records their addresses and checks Rust definitions against them.",
+      "rust_symbols": [
+        "src/ui/native_columns.rs::rebuild",
+        "src/ui/native_main.rs::create_columns"
+      ],
+      "remaining": "English column labels match the verified executable. Native runtime acceptance and non-English localization remain pending; this is not a verified complete port."
+    },
+    {
+      "address": "0x4059a0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "CAddTreeItem edit constructor initializes dialog 0xcc (204), supplied values and remember/site flags.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::edit_category"
+      ],
+      "remaining": "Native runtime and visual comparison remain blocked by Computer Use app access despite user consent. Exact rule precedence, directory creation/error prompts, original IDN/locale edge cases, deletion/reclassification prompts and original persistence format remain unmatched. Rust stages Options edits until Apply and preserves IDX defaults and existing file paths."
+    },
+    {
+      "address": "0x4062b0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "CAddTreeItem new constructor initializes dialog 0xcc (204), default folder and disabled site restriction.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::edit_category"
+      ],
+      "remaining": "Native runtime and visual comparison remain blocked by Computer Use app access despite user consent. Exact rule precedence, directory creation/error prompts, original IDN/locale edge cases, deletion/reclassification prompts and original persistence format remain unmatched. Rust stages Options edits until Apply and preserves IDX defaults and existing file paths."
+    },
+    {
+      "address": "0x405c70",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "OnInitDialog initializes folder/name/site controls, site restriction and Unicode/IDN display for CAddTreeItem.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::category_proc"
+      ],
+      "remaining": "Native runtime and visual comparison remain blocked by Computer Use app access despite user consent. Exact rule precedence, directory creation/error prompts, original IDN/locale edge cases, deletion/reclassification prompts and original persistence format remain unmatched. Rust stages Options edits until Apply and preserves IDX defaults and existing file paths."
+    },
+    {
+      "address": "0x406420",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "OK reads name/folder/sites, extracts normalized host names from supplied URLs, clears empty site restrictions, validates/creates directories, then closes.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::category_proc",
+        "src/categories.rs::normalize_sites",
+        "src/categories.rs::validate"
+      ],
+      "remaining": "Native runtime and visual comparison remain blocked by Computer Use app access despite user consent. Exact rule precedence, directory creation/error prompts, original IDN/locale edge cases, deletion/reclassification prompts and original persistence format remain unmatched. Rust stages Options edits until Apply and preserves IDX defaults and existing file paths."
+    },
+    {
+      "address": "0x50d6c0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "COptSave reads category combo selection and persists its directory and remember-last flag; General uses LocalPathW/RememberLastSave.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::save_options_category",
+        "src/ui/native_settings.rs::save_options"
+      ],
+      "remaining": "Native runtime and visual comparison remain blocked by Computer Use app access despite user consent. Exact rule precedence, directory creation/error prompts, original IDN/locale edge cases, deletion/reclassification prompts and original persistence format remain unmatched. Rust stages Options edits until Apply and preserves IDX defaults and existing file paths."
+    },
+    {
+      "address": "0x50df80",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "COptSave loads the selected category folder/remember flag/extensions and updates category-dependent labels; General disables category editing.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::load_options_category"
+      ],
+      "remaining": "Native runtime and visual comparison remain blocked by Computer Use app access despite user consent. Exact rule precedence, directory creation/error prompts, original IDN/locale edge cases, deletion/reclassification prompts and original persistence format remain unmatched. Rust stages Options edits until Apply and preserves IDX defaults and existing file paths."
+    },
+    {
+      "address": "0x50e530",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "COptSave sends selected category edit command 0x148e and refreshes the combo selection after a rename.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::options_command",
+        "src/categories.rs::commit"
+      ],
+      "remaining": "Native runtime and visual comparison remain blocked by Computer Use app access despite user consent. Exact rule precedence, directory creation/error prompts, original IDN/locale edge cases, deletion/reclassification prompts and original persistence format remain unmatched. Rust stages Options edits until Apply and preserves IDX defaults and existing file paths."
+    },
+    {
+      "address": "0x5491b0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Constructs CSpiderWhereToSearchDlg using resource 0x108 (264), sets initial level state and loads Grabber artwork.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::init_grabber"
+      ],
+      "remaining": "Partial workflow correspondence only. Recursive network traversal is an independent Rust implementation tested against local fixtures, not a translation of the original crawl engine. Main-domain expansion, JavaScript, advanced filters, original depth/redirect edge equivalence and native visual acceptance remain pending."
+    },
+    {
+      "address": "0x5493e0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "DDX_Control connects depth edit controls 0x57e (1406) and 0x5c0 (1472), and advanced path edits 0x410/0x42e. Rust connects the original depth controls; advanced edits remain disabled.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Partial workflow correspondence only. Recursive network traversal is an independent Rust implementation tested against local fixtures, not a translation of the original crawl engine. Main-domain expansion, JavaScript, advanced filters, original depth/redirect edge equivalence and native visual acceptance remain pending."
+    },
+    {
+      "address": "0x549040",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Enables/disables level edits and labels as the exploration mode changes. Rust uses the original 1435/1445 mode buttons and 1406/1472 edits.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Partial workflow correspondence only. Recursive network traversal is an independent Rust implementation tested against local fixtures, not a translation of the original crawl engine. Main-domain expansion, JavaScript, advanced filters, original depth/redirect edge equivalence and native visual acceptance remain pending."
+    },
+    {
+      "address": "0x549680",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Reads whole-site selection, numeric internal/external levels, parent-directory restriction and additional exploration flags into project state. Rust implements the first four through ScanOptions; other flags remain unavailable.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command",
+        "src/grabber.rs::scan"
+      ],
+      "remaining": "Page paths and levels are now collected and applied in Rust. Main-domain expansion, JavaScript and saved projects remain missing; original crawler and native runtime equivalence remain unverified."
+    },
+    {
+      "address": "0x549860",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "Initializes original resource 264 controls, selects bounded-level mode and configures enabled options. Rust preserves its template/artwork and wires supported choices.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::init_grabber"
+      ],
+      "remaining": "Partial workflow correspondence only. Recursive network traversal is an independent Rust implementation tested against local fixtures, not a translation of the original crawl engine. Main-domain expansion, JavaScript, advanced filters, original depth/redirect edge equivalence and native visual acceptance remain pending."
+    },
+    {
+      "address": "0x53d570",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0053d570: Enables the minimum-size value and unit controls according to checkbox 1480.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x53d5b0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0053d5b0: Enables the maximum-size value and unit controls according to checkbox 1482.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x53d610",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0053d610: Constructs CSpiderSettingsDlg using resource 240 and the original Grabber illustration.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::init_grabber"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x53d880",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0053d880: Binds minimum/maximum size and include/exclude path fields 1479, 1481, 1041 and 1040.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x53d8f0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0053d8f0: Collects file filters and flags and multiplies size values by 1, 1024, 1048576 or 1073741824 according to the selected units.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command",
+        "src/grabber/filters.rs::size_bytes"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x53db90",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0053db90: Initializes file-type combo labels as name plus mask, size units and collapsed advanced section in dialog 240.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::init_grabber",
+        "src/ui/native_settings.rs::filter_combos"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x53e250",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_0053e250: Toggles the saved expanded page height and Advanced >>/<< caption and tells the host to expand/collapse using command 0x140d.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::layout_grabber",
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x4c5b80",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004c5b80: Constructs CGrabberFiltersDlg with resource 244 and Filters caption.",
+      "rust_symbols": [
+        "src/ui/native_settings/grabber_filters.rs::edit"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x4c5600",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004c5600: Opens the filter editor and rejects case-insensitive duplicate names except the current edited filter.",
+      "rust_symbols": [
+        "src/ui/native_settings/grabber_filters.rs::editor",
+        "src/grabber/filters.rs::validate_named"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x4c5940",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004c5940: Edits the selected filter name/mask and updates the list and underlying collection.",
+      "rust_symbols": [
+        "src/ui/native_settings/grabber_filters.rs::change"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x4c5dc0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004c5dc0: Adds a validated filter to the filter collection/list and allocates its original registry ID.",
+      "rust_symbols": [
+        "src/ui/native_settings/grabber_filters.rs::change"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x4aada0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004aada0: Reads the filter name and mask, rejects either empty value, then accepts the editor.",
+      "rust_symbols": [
+        "src/ui/native_settings/grabber_filters.rs::editor_proc",
+        "src/grabber/filters.rs::validate_named"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x4aae20",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004aae20: Prefills the name/mask fields of the filter editor.",
+      "rust_symbols": [
+        "src/ui/native_settings/grabber_filters.rs::editor_proc"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x4aafa0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_004aafa0: Constructs the filter editor using resource 245 and existing name/mask arguments.",
+      "rust_symbols": [
+        "src/ui/native_settings/grabber_filters.rs::editor"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x548fe0",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_00548fe0: Enables the included-page-path field according to its checkbox.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    },
+    {
+      "address": "0x549010",
+      "status": "partial_workflow_correspondence",
+      "original_evidence": "FUN_00549010: Enables the excluded-page-path field according to its checkbox.",
+      "rust_symbols": [
+        "src/ui/native_settings.rs::grabber_command"
+      ],
+      "remaining": "Native visual/runtime comparison and full original function equivalence remain unverified. Rust uses staged JSON filter persistence, checked 64-bit sizes and independently implemented bounded HTTP(S) scanning; original registry IDs, localization and project persistence are not ported."
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+quick-xml-0.41.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/tafia/quick-xml
+Published source revision: 4deda08abeffdc188c269360229cf47e12a77a9f

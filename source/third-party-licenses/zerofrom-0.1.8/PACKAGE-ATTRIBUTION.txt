@@ -1,0 +1,5 @@
+zerofrom-0.1.8
+License expression from published Cargo metadata: Unicode-3.0
+Package authors (not substituted for upstream copyright notices): The ICU4X Project Developers
+Repository: https://github.com/unicode-org/icu4x
+Published source revision: e9575f7e4b5aeddfeeb87ada5d3e715950e8233e

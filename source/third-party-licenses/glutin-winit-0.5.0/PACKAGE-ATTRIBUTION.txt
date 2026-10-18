@@ -1,0 +1,5 @@
+glutin-winit-0.5.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Kirill Chibisov <contact@kchibisov.com>
+Repository: https://github.com/rust-windowing/glutin
+Published source revision: 0811b6c753334f1681c7db8a48e407596cfa9366

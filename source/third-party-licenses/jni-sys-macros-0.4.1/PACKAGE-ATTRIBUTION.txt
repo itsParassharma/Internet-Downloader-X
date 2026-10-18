@@ -1,0 +1,5 @@
+jni-sys-macros-0.4.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Robert Bragg <robert@sixbynine.org>
+Repository: https://github.com/jni-rs/jni-sys
+Published source revision: 64d77b7a5f119d7b55b4e2c169a4668067ff59e6

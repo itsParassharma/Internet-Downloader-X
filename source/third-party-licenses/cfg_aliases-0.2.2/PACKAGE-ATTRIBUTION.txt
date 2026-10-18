@@ -1,0 +1,5 @@
+cfg_aliases-0.2.2
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Zicklag <zicklag@katharostech.com>
+Repository: https://github.com/katharostech/cfg_aliases
+Published source revision: e069ce61e00fee423ac1dbe6a897f228f1774716

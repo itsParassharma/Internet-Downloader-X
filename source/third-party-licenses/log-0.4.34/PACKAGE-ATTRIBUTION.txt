@@ -1,0 +1,5 @@
+log-0.4.34
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): The Rust Project Developers
+Repository: https://github.com/rust-lang/log
+Published source revision: 8034743dd9d7f7583bd9a670271483d176130911

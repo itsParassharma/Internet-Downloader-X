@@ -1,0 +1,5 @@
+base64-0.23.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Marshall Pierce <marshall@mpierce.org>
+Repository: https://github.com/marshallpierce/rust-base64
+Published source revision: 069bf7067b949f5c0a92b6ceb82492920502f2c2

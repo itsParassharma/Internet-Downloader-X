@@ -1,0 +1,5 @@
+hyper-1.12.0
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/hyperium/hyper
+Published source revision: 7f67699ce32d717081deb7018b4da7d679277ac0

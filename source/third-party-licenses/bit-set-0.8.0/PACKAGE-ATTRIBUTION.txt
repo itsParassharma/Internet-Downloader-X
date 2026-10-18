@@ -1,0 +1,5 @@
+bit-set-0.8.0
+License expression from published Cargo metadata: Apache-2.0 OR MIT
+Package authors (not substituted for upstream copyright notices): Alexis Beingessner <a.beingessner@gmail.com>
+Repository: https://github.com/contain-rs/bit-set
+Published source revision: 2b8861d23b53d63d326d2694ddabde6e7b19fbd0

@@ -1,0 +1,5 @@
+http-1.5.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Alex Crichton <alex@alexcrichton.com>; Carl Lerche <me@carllerche.com>; Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/hyperium/http
+Published source revision: e559023f67e3fad6ecc3ee91307be178e0f13626

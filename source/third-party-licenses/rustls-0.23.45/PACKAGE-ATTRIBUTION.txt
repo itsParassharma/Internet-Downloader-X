@@ -1,0 +1,5 @@
+rustls-0.23.45
+License expression from published Cargo metadata: Apache-2.0 OR ISC OR MIT
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rustls/rustls
+Published source revision: 2976d90fd1c2db6b518700dd101b714069cfcb17

@@ -1,0 +1,5 @@
+x11rb-0.13.2
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Uli Schlachter <psychon@znc.in>; Eduardo Sánchez Muñoz <eduardosm-dev@e64.io>; notgull <jtnunley01@gmail.com>
+Repository: https://github.com/psychon/x11rb
+Published source revision: 1b73245acc5dce4c4987c80dd7589e7b60af3532

@@ -1,0 +1,5 @@
+tempfile-3.27.0
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Steven Allen <steven@stebalien.com>; The Rust Project Developers; Ashley Mannix <ashleymannix@live.com.au>; Jason White <me@jasonwhite.io>
+Repository: https://github.com/Stebalien/tempfile
+Published source revision: 5c8fa12eb584931b4f1bccfde87eb72fbfa7dc61

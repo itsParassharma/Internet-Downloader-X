@@ -1,0 +1,5 @@
+bumpalo-3.20.3
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): Nick Fitzgerald <fitzgen@gmail.com>
+Repository: https://github.com/fitzgen/bumpalo
+Published source revision: 84654ace6be4444da3ff102a0a0af3b38c4df4fb

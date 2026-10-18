@@ -1,0 +1,5 @@
+foreign-types-macros-0.2.4
+License expression from published Cargo metadata: MIT/Apache-2.0
+Package authors (not substituted for upstream copyright notices): Steven Fackler <sfackler@gmail.com>
+Repository: https://github.com/sfackler/foreign-types
+Published source revision: 2d5077646c441fb089662e9ac439bec45c0d84b5

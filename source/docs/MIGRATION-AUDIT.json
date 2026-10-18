@@ -1,0 +1,898 @@
+{
+  "generated_at_utc": "2026-10-18T00:35:33.043091+00:00",
+  "source_revision": "2026-10-17 IDX 0.7.0 automatic browser pickup and direct-media panels",
+  "integrity_ok": true,
+  "errors": [],
+  "function_index_sha256": "085d4492ebdc39b76bcebdf453108589cfbea103360c6f1602e1f2d0c45d693a",
+  "reference_archive_sha256": "b4c6f95e03f4bab6f341df6e6250dbc9d4411a295e76f2c160908f677acaaf31",
+  "indexed_functions": 18979,
+  "classification_counts": {
+    "exception_catch_fragments": 1428,
+    "exception_unwind_fragments": 7865,
+    "explicit_framework_runtime_symbol_candidates": 1210,
+    "named_delay_load_wrappers": 111,
+    "named_dll_import_stubs": 27,
+    "named_exception_runtime_candidates": 9,
+    "named_thunk_candidates": 109,
+    "other_named_functions": 906,
+    "unnamed_recovered_functions": 7314
+  },
+  "rust_status_counts": {
+    "partial_workflow_correspondence": 42,
+    "unmapped_reference": 18937
+  },
+  "verified_complete_function_ports": 0,
+  "complete_idm_feature_parity": false,
+  "port_count_note": "Zero verified complete individual ports does not mean zero working features. The app has independent implementations; reviewed correspondences are partial.",
+  "recorded_native_routes": 38,
+  "recorded_native_routes_source_date": "2026-10-17",
+  "extracted_dialogs": 105,
+  "derived_layouts": 100,
+  "original_resource_checks": [
+    {
+      "file": "menu_129.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "menu_256.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_100.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_102.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_103.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_105.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_130.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_135.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_138.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_139.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_140.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_141.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_143.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_144.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_145.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_146.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_147.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_148.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_150.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_182.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_184.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_185.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_186.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_187.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_190.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_191.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_193.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_194.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_195.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_196.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_204.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_208.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_209.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_226.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_228.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_229.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_230.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_231.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_232.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_236.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_239.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_240.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_241.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_242.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_244.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_245.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_257.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_259.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_262.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_264.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_268.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_269.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_270.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_271.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_279.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_280.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_281.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_284.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_286.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_290.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_291.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_292.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_294.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_296.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_297.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_298.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_300.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_302.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_303.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_304.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_305.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_306.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_307.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_308.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_309.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_310.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_332.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_334.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_335.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_336.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_337.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_338.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_339.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_340.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_341.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_342.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_344.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_345.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_348.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_349.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_352.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_363.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_364.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_365.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_367.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_369.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_370.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_381.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_487.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_488.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_489.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_494.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_504.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_505.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_506.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_30721.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_30734.bin",
+      "matches_recorded_sha256": true
+    }
+  ],
+  "derived_template_checks": [
+    {
+      "file": "dialog_100.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_102.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_103.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_105.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_130.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_135.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_139.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_140.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_141.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_143.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_145.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_146.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_147.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_148.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_150.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_184.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_185.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_186.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_187.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_191.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_193.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_194.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_195.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_196.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_204.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_208.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_209.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_226.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_228.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_229.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_230.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_231.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_232.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_236.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_239.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_240.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_241.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_242.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_244.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_245.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_257.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_259.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_262.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_264.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_268.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_269.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_270.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_271.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_279.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_280.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_281.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_284.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_286.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_291.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_292.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_294.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_296.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_297.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_298.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_300.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_302.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_303.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_304.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_305.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_306.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_307.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_308.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_309.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_310.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_332.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_334.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_335.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_336.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_337.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_338.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_339.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_340.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_341.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_342.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_344.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_345.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_348.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_349.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_352.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_363.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_364.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_365.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_367.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_369.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_370.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_381.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_487.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_488.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_489.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_494.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_504.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_505.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_506.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_30721.bin",
+      "matches_recorded_sha256": true
+    },
+    {
+      "file": "dialog_30734.bin",
+      "matches_recorded_sha256": true
+    }
+  ],
+  "rust_source_sha256": {
+    "src/batch.rs": "0b03cbcf0c8781899fa30932f57ff9863df0aa484ec64b8c043836345077c926",
+    "src/bin/idx-native-host.rs": "d5be7cc43cdba9e9e71f4ff8aa180d747802c8f38c9758a50135bde58cf3d1b7",
+    "src/browser_media.rs": "9bb0a6e7544987415a91da6b307939e8e4511928432a33e325fa033e636c87ee",
+    "src/browser_session.rs": "70f575b4849b452b78b031ff72d50160e7c980b1f28a998868922ffdf8518f5d",
+    "src/browser_setup.rs": "89386444fa25d605c614c5a175a48d715209865857fd780f6523aaca0ae245a6",
+    "src/categories.rs": "7aef694f4d47d248abebc9a6724b468d43cfb40b86f3cb02ca37dfc84be927b9",
+    "src/columns.rs": "797176a0ce77bffe7354b4540987d1389f967fddb89abdd767d5c58e3752237c",
+    "src/engine.rs": "46da53ede83c2c0a8c46d58dabffc6e66c28a793028770e531917dfb03145d66",
+    "src/engine_tests.rs": "b224d6a804ffe67c966206f467c606efc66ee244b9e98d8019261bc83aa961c5",
+    "src/external.rs": "126ce8451383d6b328d3b53cc2b5f0a6e4be142e7ce5e56a44e165715020f127",
+    "src/grabber/filters.rs": "112baf8cf60e11408705da2b9227e05ee28df46097aaa0c6852ea4351774a7bd",
+    "src/grabber/tests.rs": "5b32c24170fc9869faabb3052d6e8acee32bd2c9eebbef7aa9951e8dfb2fd65b",
+    "src/grabber.rs": "519f4c91f6271e4302d9d96fe7f66936c7f7222f2b07351140da278d8eba6cad",
+    "src/main.rs": "227ffc22cde542372c4fb077d2ed3a285cd4b6248567eb04f23c3d5ee8f92777",
+    "src/model.rs": "6342cd850640bc5b86c00baebf91139a554923f2137a6053d14b19f13b0004d5",
+    "src/schedule.rs": "20f0fdb28249921d3dddff289b0003f66b1c5c034d08d4ee00bc63ef4373e0fe",
+    "src/stream_download.rs": "9664892e04cbd0a03cf91c68c5b9ead82c6ca6817e2f4747d292fddc15d5a46a",
+    "src/stream_download_tests.rs": "08faffbf941501bb584a48420d6619d573d2b48e9efdd9a2cdc31017c20bf8b6",
+    "src/streaming.rs": "c2b0127049a8975e2d59ccc36859c901dba06d4e90c56553e8f3bd504cc044a5",
+    "src/streaming_tests.rs": "9de635eb58953ae2d05415a8270aace5495c49f63918fa65c4fecb460c338a1d",
+    "src/ui/classic.rs": "0e27652b114593036b4f17b858fc3fd3209177ce025f5a256893a180216ea04f",
+    "src/ui/dialogs.rs": "6a232c59c07851f2e1d2946a5d026d326c367aea8632d3ca3ea0e6b51ed4b0ee",
+    "src/ui/native_columns.rs": "3996d7c880478c60a54d2a00ce2415580b989b7ff030d326f2f14ba3e8540a6e",
+    "src/ui/native_forms.rs": "3ab1e0ff9b95822d5c6f04639f4fc1e4bce37fddf5c9efa3f343943cadd78672",
+    "src/ui/native_main.rs": "326b7874e966fc913d99f88d7bb1478af6373f4e1b2b3554e550acfeb4b763c3",
+    "src/ui/native_progress.rs": "fd3f2ecdfb8d58150a0a6476077f2800746fe61e756018f38bf458a4c0009bf1",
+    "src/ui/native_resources.rs": "c73ee1946ea7a8f4650b7149898b8d08877ad398c3d043f3a3bbbe35f42ae7e0",
+    "src/ui/native_settings/grabber_filters.rs": "af4afe02acefd288cfc0bb5c9222eb6837e18b8222d2d7002f9b9d6a47fc1c3c",
+    "src/ui/native_settings.rs": "8d65cb5e0c826d4a80717119ab099fa2851bc1183b7cbd01e828d6bdb3cc825a",
+    "src/ui/progress.rs": "e962535dd80ca87d57263f677a7a53bb4591f36a424a6929397b9be05bbec73a",
+    "src/ui.rs": "7e587de2928d95e25be1987bc9b079f6759d19b2ef409503de1c6898d2c23493",
+    "src/ui_assets.rs": "6978d0d63545ad1382d893a924d66f907dec4f78dfac5291ca97765813ad6542"
+  },
+  "validation_note": "This audit checks reference integrity and mapped symbol existence. It does not compile Rust or prove runtime/UI equivalence. See BUILD-VALIDATION.md for executed release tests and remaining desktop visual acceptance."
+}

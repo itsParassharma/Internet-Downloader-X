@@ -1,0 +1,5 @@
+libc-0.2.190
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/rust-lang/libc
+Published source revision: 7b0ab5528dc7f361f3a0b4c06c2cad9971617f75

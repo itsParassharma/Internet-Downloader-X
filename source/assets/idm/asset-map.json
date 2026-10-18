@@ -1,0 +1,329 @@
+{
+  "supplied_application_sha256": "e3fc655a335e17a6fdd09a9b315291d0c8863180f0d801e5dd7433c9e56afbd8",
+  "toolbar_index": [
+    "Add URL",
+    "Resume",
+    "Stop",
+    "Stop All",
+    "Delete",
+    "Delete Completed",
+    "Options",
+    "Scheduler",
+    "Start Queue",
+    "Stop Queue",
+    "Grabber",
+    "Tell a Friend"
+  ],
+  "notes": [
+    "Raw source image channels were extracted, not regenerated.",
+    "RT_BITMAP 32-bit alpha is preserved; generic BMP decoders may discard it.",
+    "Normal and hover 3D skins are taken from supplied Toolbar files.",
+    "Flat toolbar alternatives are preserved separately from PE resources 495,496,497.",
+    "The disabled classic toolbar is derived as grayscale at runtime; no dedicated disabled classic strip was present in the supplied skin.",
+    "The other category reuses RT_BITMAP 210, a generic document icon."
+  ],
+  "assets": [
+    {
+      "name": "toolbar_normal",
+      "dimensions": [
+        672,
+        42
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "d1bc02b7b6ff93ee164ef7a050dcdb2032e56208711162c2472060688d117aba",
+      "source": "Toolbar/3d_large_3.bmp",
+      "source_sha256": "9b6dc7965adc42116ecb2673e626dd9a6718c18ee9af7bec257dae7c4349ce99",
+      "tile_count": 12,
+      "tile_width": 56,
+      "tile_height": 42
+    },
+    {
+      "name": "toolbar_hot",
+      "dimensions": [
+        672,
+        42
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "071b1fdad25bba1a6550bec0f7250ca781674a6a967db74c745840e61bfda364",
+      "source": "Toolbar/3d_largeHot_3.bmp",
+      "source_sha256": "2c07b067a6b06c7d87d408e16f7047615b098db2328515e92166fdd6422e7099",
+      "tile_count": 12,
+      "tile_width": 56,
+      "tile_height": 42
+    },
+    {
+      "name": "toolbar_hdpi",
+      "dimensions": [
+        1008,
+        63
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "bc5567e3c7ea1fd89d72c4059e332c7f421f6476a4025a38f8c6c447391542dc",
+      "source": "Toolbar/3d_large_3_hdpi15.bmp",
+      "source_sha256": "6280e56ab091c78f17abecd01469b19fe078553a6fd77683ef818c4ae6e03f82",
+      "tile_count": 12,
+      "tile_width": 84,
+      "tile_height": 63
+    },
+    {
+      "name": "toolbar_hdpi_hot",
+      "dimensions": [
+        1008,
+        63
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "be95ae459577f342522fa6552cd36233291446bb5c16cdbac4ec208c19bd016a",
+      "source": "Toolbar/3d_largeHot_3_hdpi15.bmp",
+      "source_sha256": "eda9a334b8b18b02809537441be62656445a4bfb01e19efedf415514cda84476",
+      "tile_count": 12,
+      "tile_width": 84,
+      "tile_height": 63
+    },
+    {
+      "name": "toolbar_flat_normal",
+      "dimensions": [
+        672,
+        42
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "13295ef995991681cb9fb02910b818a537550f2864e7518be0a5296f6c555bcb",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 495,
+      "language": 1033,
+      "file_offset": "0x40d370",
+      "source_sha256": "477ab3309a552a3491d573d571740d373bf02efa9c91e3f925a4165c6e66ae46",
+      "tile_count": 12,
+      "tile_width": 56,
+      "tile_height": 42
+    },
+    {
+      "name": "toolbar_flat_hot",
+      "dimensions": [
+        672,
+        42
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "9d6c349c19f9ebed6f8cd58947fda62cf2afbaa097e0ade3bae1c28785c11e91",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 496,
+      "language": 1033,
+      "file_offset": "0x428ca0",
+      "source_sha256": "21d25b47b22d047f9e8092639cb606f9913cdbfabdc88f90d0c3a190274ce8f3",
+      "tile_count": 12,
+      "tile_width": 56,
+      "tile_height": 42
+    },
+    {
+      "name": "toolbar_flat_disabled",
+      "dimensions": [
+        672,
+        42
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "6d5e6fc207e470ae3dc0a79b08d4fc1e9c1df6e9d1c7af0764b2ac5cbc48809e",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 497,
+      "language": 1033,
+      "file_offset": "0x4445d0",
+      "source_sha256": "e76c1a8f8486b4ee4b66c75066631e2ab1eee6a79a69b286d12a84bda3c417dc",
+      "tile_count": 12,
+      "tile_width": 56,
+      "tile_height": 42
+    },
+    {
+      "name": "sidebar_all",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "6dd478a7d93c16bbbca97ed5c91627edfefe24ce4d823cd8df796a7f9a48b9d1",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 198,
+      "language": 1033,
+      "file_offset": "0x3a3e30",
+      "source_sha256": "6d1b9edc9c2e7226fc664fb1562372f7106b0a1667215ac7e12496efde794174"
+    },
+    {
+      "name": "sidebar_unfinished",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "4749d401668892445b99768ecc1271e5311e002fa385c108bca90766212e332c",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 200,
+      "language": 1033,
+      "file_offset": "0x3a4510",
+      "source_sha256": "9c62e5400423f98f70da2f13ce710ce65878502749391a94285b91fbade896bf"
+    },
+    {
+      "name": "sidebar_finished",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "64fc7f08db99e115357da9461198a1c81eaf1ca9bd2172947b0ae2193a3547c9",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 202,
+      "language": 1033,
+      "file_offset": "0x3a4bf0",
+      "source_sha256": "89578e13fdcfeac5a952909c40c17e534c133dabdf669cfc956e5b1deffd35db"
+    },
+    {
+      "name": "sidebar_compressed",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "7a7de2a43cc9937d316a079ef25d7905fe81a19fa122c9fc6df4758fcbd9ad1a",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 224,
+      "language": 1033,
+      "file_offset": "0x3a9120",
+      "source_sha256": "c70eec5dd701864a4645215368884fad96af0d612fe01a7360a275003e900d23"
+    },
+    {
+      "name": "sidebar_documents",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "202b461394f7910f477086fe89eacd88a5c1bed4392784c612bdab1c12cd8fea",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 210,
+      "language": 1033,
+      "file_offset": "0x3a6100",
+      "source_sha256": "d2c5b76b4f3c25af39a1c2f06029ff2096c3b5b9456a1fb88216fd9fd45d6181"
+    },
+    {
+      "name": "sidebar_music",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "a47ccd4a7c1b3fa2f4e20cb83230bbc4d817af60ec99a67b441116a8c692cef8",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 211,
+      "language": 1033,
+      "file_offset": "0x3a6470",
+      "source_sha256": "78ddb38a6674cc5f2f7cbbdbc3e9d3b82989685ce3a7047c417d9d94c407b4aa"
+    },
+    {
+      "name": "sidebar_programs",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "370800f2671eb7d223a70e65ce867efc6d6325f191d60a7008c7f9a1966f48e2",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 213,
+      "language": 1033,
+      "file_offset": "0x3a6b50",
+      "source_sha256": "4723ab698fdf02ef0e16933f3b78fedb3bcc6f934a756cbfb193a49ea2c0cf88"
+    },
+    {
+      "name": "sidebar_video",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "aa1edc323c00ccb9203dae578f8c4787f8749439a737bd137aeae34a49aa4fff",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 212,
+      "language": 1033,
+      "file_offset": "0x3a67e0",
+      "source_sha256": "383dadfb4b13c37667efa0120180556f11b13362a188404373fe4c3cc989933f"
+    },
+    {
+      "name": "sidebar_other",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "202b461394f7910f477086fe89eacd88a5c1bed4392784c612bdab1c12cd8fea",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 210,
+      "language": 1033,
+      "file_offset": "0x3a6100",
+      "source_sha256": "d2c5b76b4f3c25af39a1c2f06029ff2096c3b5b9456a1fb88216fd9fd45d6181"
+    },
+    {
+      "name": "sidebar_queues",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "243b1d58a13e4cdf22c933fb2ae9143e36988b6e402904b7c7c9e6200378df42",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 311,
+      "language": 1033,
+      "file_offset": "0x3b8c98",
+      "source_sha256": "ba49489b52f38cf1f0be22aee365e65616fae51d7af1cb240e69e2e6d970b20c"
+    },
+    {
+      "name": "sidebar_grabber",
+      "dimensions": [
+        16,
+        13
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "970a63dfc55eb37f02309842f0257c70254022d2b72dd6b40298009886c43b13",
+      "source": "IDMan.exe",
+      "resource_type": "RT_BITMAP",
+      "resource_id": 249,
+      "language": 1033,
+      "file_offset": "0x3a9ee0",
+      "source_sha256": "e94f357a7c72da71e9f229d2d499ff079c7180cbb4b412e22ab3a396c4e94723"
+    },
+    {
+      "name": "app_icon",
+      "dimensions": [
+        256,
+        256
+      ],
+      "format": "RGBA8, row-major top-down, original alpha preserved",
+      "rgba_sha256": "e9a03f78447bbd6aa66ab3c02c8004df0773058657daf205f1ddd6fea3a81b59",
+      "source": "IDMan.exe",
+      "resource_type": "RT_GROUP_ICON",
+      "resource_id": 128,
+      "language": 1033,
+      "file_offset": "0x555be0",
+      "member_resource_ids": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "ico_sha256": "0903eba95883baae82f8530e9e2a85eb3208fa03d764bcea523dd30bf13e2a3f"
+    }
+  ]
+}

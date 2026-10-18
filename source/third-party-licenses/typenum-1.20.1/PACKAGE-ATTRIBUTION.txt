@@ -1,0 +1,5 @@
+typenum-1.20.1
+License expression from published Cargo metadata: MIT OR Apache-2.0
+Package authors (not substituted for upstream copyright notices): 
+Repository: https://github.com/paholg/typenum
+Published source revision: 0db9a0f731981f29266b63586c29fa07e4477b1a

@@ -1,0 +1,5 @@
+fax-0.2.7
+License expression from published Cargo metadata: MIT
+Package authors (not substituted for upstream copyright notices): Sebastian K <s3bk@protonmail.com>
+Repository: https://github.com/pdf-rs/fax
+Published source revision: ac2a4b2237d98830ea1fd37c7d280eec0e87c1d8
