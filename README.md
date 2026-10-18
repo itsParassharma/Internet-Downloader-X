@@ -1,6 +1,6 @@
-# IDX - Internet Downloader X
+# Internet Downloader X
 
-IDX is an **open-source alternative to Internet Download Manager, rewritten in Rust** for Windows. Download files faster with multiple connections, pause and resume transfers, and keep everything organised with queues, schedules and categories. The Chrome extension lets you send downloads to IDX and pick a video quality straight from the player.
+IDX is an **open-source alternative to Internet Download Manager, rewritten in Rust** for Windows. Download files faster with multiple connections, pause and resume transfers, and keep everything organised with queues, schedules and categories.
 
 **[Download for Windows](https://github.com/itsParassharma/IDX-Internet-Downloader-X/releases/latest)** | [Chrome extension](https://chromewebstore.google.com/detail/bokfgodnpemfnmflphpcoccandblongm) | [Report a problem](https://github.com/itsParassharma/IDX-Internet-Downloader-X/issues)
 
