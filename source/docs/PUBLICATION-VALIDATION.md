@@ -24,5 +24,4 @@ This verifies the published Store-identity source on a normal Windows CI runner.
 
 ## Publication access
 
-Chrome rejected access to the developer console with "The extensions gallery cannot be scripted" and rejected a new-tab attempt with "Not allowed". Windows Computer Use also reported that its native pipe was unavailable, including after resetting the session and retrying following the user's plugin setup check. Store listing edits, upload, review submission and publication are therefore not verified by this preparation record. A current desktop-app screenshot also remains pending.
-
+Chrome's browser extension rejected access to the developer console with "The extensions gallery cannot be scripted" and rejected a new-tab attempt with "Not allowed". Windows Computer Use initially reported an unavailable native pipe. After the user's connection change, native capture worked and the current release executable was opened by its exact process path. Its main window was captured directly as `screenshots/idx-desktop.jpg` for the public README and release. This is a main-window screenshot, not a full visual acceptance run. Store listing edits, upload, review submission and publication still require separate verification.

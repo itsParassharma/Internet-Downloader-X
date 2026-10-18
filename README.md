@@ -4,6 +4,8 @@ IDX is an **open-source alternative to Internet Download Manager, rewritten in R
 
 **[Download for Windows](https://github.com/itsParassharma/IDX-Internet-Downloader-X/releases/latest)** | [Chrome extension](https://chromewebstore.google.com/detail/bokfgodnpemfnmflphpcoccandblongm) | [Report a problem](https://github.com/itsParassharma/IDX-Internet-Downloader-X/issues)
 
+![IDX desktop app with its download list, categories and toolbar](screenshots/idx-desktop.jpg)
+
 ## What you can do
 
 - **Pause and pick up later.** Resume supported downloads without starting over.
