@@ -44,13 +44,13 @@ Media URLs and response metadata are processed locally. Selected downloads, sour
 
 Remote code: none. All scripts are included in the package. Content scripts and host permissions ARE used in this release; replace the older 0.5.0 disclosures.
 
-Homepage: https://github.com/itsParassharma/IDX
+Homepage: https://github.com/itsParassharma/IDX-Internet-Downloader-X
 
-Installer: https://github.com/itsParassharma/IDX/releases/latest
+Installer: https://github.com/itsParassharma/IDX-Internet-Downloader-X/releases/latest
 
-Support: https://github.com/itsParassharma/IDX/issues
+Support: https://github.com/itsParassharma/IDX-Internet-Downloader-X/issues
 
-Privacy: https://github.com/itsParassharma/IDX/blob/main/PRIVACY.md
+Privacy: https://github.com/itsParassharma/IDX-Internet-Downloader-X/blob/main/PRIVACY.md
 
 The supplied Store public key now derives bokfgodnpemfnmflphpcoccandblongm in both the unpacked extension and desktop app. No private key is shipped and end users never copy an ID. See docs/PUBLICATION-VALIDATION.md for the rebuilt package and current test limitations.
 

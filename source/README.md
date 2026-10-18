@@ -1,4 +1,4 @@
-# IDX — Internet Downloader X
+# IDX - Internet Downloader X
 
 IDX is an open-source alternative to Internet Download Manager, rewritten in Rust for Windows. Download files with several connections, pause and resume transfers, organise them into queues, and pick video quality straight from Chrome. No account, activation key or trial countdown. IDX is an independent project; the full migration is still in progress.
 

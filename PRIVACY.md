@@ -26,4 +26,4 @@ Click the toolbar icon to toggle IDX on the current tab. Use the extension's Opt
 
 Information received through Chrome APIs is used only for the download features described here, consistent with the Chrome Web Store User Data Policy and its Limited Use requirements.
 
-For support, [open an issue](https://github.com/itsParassharma/IDX/issues). Issues are public: do not include cookies, passwords or private download URLs.
+For support, [open an issue](https://github.com/itsParassharma/IDX-Internet-Downloader-X/issues). Issues are public: do not include cookies, passwords or private download URLs.

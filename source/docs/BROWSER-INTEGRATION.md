@@ -36,11 +36,11 @@ Use **UPLOAD-TO-CHROME-WEB-STORE-IDX-0.7.0.zip**. It contains 15 runtime files w
 
 The publisher supplied the Store public key on 18 October 2026. The unpacked manifest and Rust embedded public key now derive the Store identity `bokfgodnpemfnmflphpcoccandblongm`. These public bytes establish the extension identity; they cannot sign releases. No private key is included. Store uploads still omit the manifest `key` field. See [publication validation](PUBLICATION-VALIDATION.md) for the rebuild and its current test limitations. End users never copy an ID.
 
-Project and downloads: https://github.com/itsParassharma/IDX
+Project and downloads: https://github.com/itsParassharma/IDX-Internet-Downloader-X
 
-Support: https://github.com/itsParassharma/IDX/issues
+Support: https://github.com/itsParassharma/IDX-Internet-Downloader-X/issues
 
-Privacy: https://github.com/itsParassharma/IDX/blob/main/PRIVACY.md
+Privacy: https://github.com/itsParassharma/IDX-Internet-Downloader-X/blob/main/PRIVACY.md
 
 ## Validation
 
